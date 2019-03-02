@@ -1,0 +1,33 @@
+There are N citizens in a country. Some of them are spies, while some are not.
+You may assume that all citizens are spies with themselves at least.
+Their spying is transitive in nature. For example, if A is a direct spy of B, and B is a
+direct spy of C, then A is an indirect spy of C. And we defined a spy group is a group of
+citizens who are direct or indirect spies.
+
+Given a N*N matrix M representing the spy relationship between citizens in the country.
+If M[i][j] = 1, then the ith and jth citizens are direct spies with each other, otherwise not.
+And you have to output the total number of spy circles among all the citizens.
+
+Example 1:
+Input:
+[[1,1,0],
+ [1,1,0],
+ [0,0,1]]
+Output: 2
+Explanation:The 0th and 1st citizens are direct spies, so they are in a spy group.
+The 2nd citizen himself is in a spy group. So return 2.
+Example 2:
+Input:
+[[1,1,0],
+ [1,1,1],
+ [0,1,1]]
+Output: 1
+Explanation:The 0th and 1st citizens are direct spies, the 1st and 2nd citizens are direct spies,
+so the 0th and 2nd citizens are indirect spies. All of them are in the same spy group, so return 1.
+Note:
+N is in range [1,200].
+M[i][i] = 1 for all citizens.
+If M[i][j] = 1, then M[j][i] = 1.
+
+
+Feel Free to use the code for lecture and book. The Union find data structure should be very helpful.

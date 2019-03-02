@@ -1,0 +1,7 @@
+Acquiring model 'intellisense-members' for java
+Querying IntelliCode service for available models.
+Downloading model.
+Starting download of https://cdsmprodstg.blob.core.windows.net/models-prod-output/Output_45788CA1782FEF17F07049DB4764F5647A62_BE60FECFE93545F6BB29983BB44CDA90?sv=2018-03-28&sr=b&sig=V3G%2FDOBfaCpTAL8TKobz6srRGiGOM343Tj9ERKJPU9s%3D&se=2019-02-24T17%3A39%3A56Z&sp=r
+Download complete.
+vs-intellicode-java was passed a model: {"modelPath":"/home/awh4kc/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.1.3/IntellicodeModels/45788CA1782FEF17F07049DB4764F5647A62_BE60FECFE93545F6BB29983BB44CDA90","modelId":"45788CA1782FEF17F07049DB4764F5647A62","outputId":"BE60FECFE93545F6BB29983BB44CDA90"}.
+Enabled IntelliCode for Java.

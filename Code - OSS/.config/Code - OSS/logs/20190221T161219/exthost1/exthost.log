@@ -1,0 +1,22 @@
+[2019-02-21 16:12:22.079] [exthost] [info] extension host started
+[2019-02-21 16:12:22.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-21 16:12:22.127] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-02-21 16:12:22.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-21 16:12:22.130] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-02-21 16:12:22.146] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-21 16:12:22.146] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-02-21 16:12:22.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-21 16:12:22.253] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-02-21 16:12:22.258] [exthost] [info] ExtensionService#_doActivateExtension Ikuyadeu.r {"startup":false,"activationEvent":"onLanguage:r"}
+[2019-02-21 16:12:22.258] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/ikuyadeu.r-1.0.3/out/src/extension
+[2019-02-21 16:12:22.292] [exthost] [info] ExtensionService#_doActivateExtension Mikhail-Arkhipov.r {"startup":false,"activationEvent":"onLanguage:r"}
+[2019-02-21 16:12:22.292] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/mikhail-arkhipov.r-0.0.6/out/src/extension
+[2019-02-21 16:12:22.339] [exthost] [info] ExtensionService#_doActivateExtension REditorSupport.r-lsp {"startup":false,"activationEvent":"onLanguage:r"}
+[2019-02-21 16:12:22.339] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/reditorsupport.r-lsp-0.0.8/out/src/extension
+[2019-02-21 16:12:22.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-21 16:12:22.443] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/dist/extension
+[2019-02-21 16:12:22.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-21 16:12:22.459] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2019-02-21 16:12:22.569] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-21 16:12:22.569] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension
+[2019-02-21 16:12:22.775] [exthost] [info] eager extensions activated

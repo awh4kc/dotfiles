@@ -1,0 +1,962 @@
+{
+   "cj_i18n_00000": {
+      "message": "探索 Google 的世界从未如此简单"
+   },
+   "cj_i18n_00002": {
+      "message": "与我共享的"
+   },
+   "cj_i18n_00003": {
+      "message": "最近"
+   },
+   "cj_i18n_00004": {
+      "message": "已加星标"
+   },
+   "cj_i18n_00005": {
+      "message": "回收站"
+   },
+   "cj_i18n_00006": {
+      "message": "更改于"
+   },
+   "cj_i18n_00007": {
+      "message": "添加"
+   },
+   "cj_i18n_00009": {
+      "message": "添加书签"
+   },
+   "cj_i18n_00011": {
+      "message": "已创建"
+   },
+   "cj_i18n_00012": {
+      "message": "状态"
+   },
+   "cj_i18n_00013": {
+      "message": "我拥有的"
+   },
+   "cj_i18n_00014": {
+      "message": "视频"
+   },
+   "cj_i18n_00015": {
+      "message": "购物"
+   },
+   "cj_i18n_00017": {
+      "message": "图片"
+   },
+   "cj_i18n_00018": {
+      "message": "新闻"
+   },
+   "cj_i18n_00019": {
+      "message": "书籍"
+   },
+   "cj_i18n_00020": {
+      "message": "焦点新闻"
+   },
+   "cj_i18n_00021": {
+      "message": "世界"
+   },
+   "cj_i18n_00022": {
+      "message": "您的国家"
+   },
+   "cj_i18n_00023": {
+      "message": "商业"
+   },
+   "cj_i18n_00025": {
+      "message": "娱乐"
+   },
+   "cj_i18n_00026": {
+      "message": "运动"
+   },
+   "cj_i18n_00027": {
+      "message": "健康"
+   },
+   "cj_i18n_00040": {
+      "message": "大于 20 分钟"
+   },
+   "cj_i18n_00042": {
+      "message": "小于 4 分钟"
+   },
+   "cj_i18n_00044": {
+      "message": "电影"
+   },
+   "cj_i18n_00045": {
+      "message": "在新标签中打开视频"
+   },
+   "cj_i18n_00046": {
+      "message": "请输入搜索条件"
+   },
+   "cj_i18n_00047": {
+      "message": "更多"
+   },
+   "cj_i18n_00048": {
+      "message": "按 Ctrl+C 复制"
+   },
+   "cj_i18n_00049": {
+      "message": "刚刚"
+   },
+   "cj_i18n_00050": {
+      "message": "请输入有效的 URL"
+   },
+   "cj_i18n_00051": {
+      "message": "生成短链时发生错误"
+   },
+   "cj_i18n_00052": {
+      "message": "打印任务"
+   },
+   "cj_i18n_00053": {
+      "message": "打印机"
+   },
+   "cj_i18n_00054": {
+      "message": "我的网站"
+   },
+   "cj_i18n_00055": {
+      "message": "没有发现任何网站"
+   },
+   "cj_i18n_00059": {
+      "message": "Google 购物"
+   },
+   "cj_i18n_00061": {
+      "message": "浏览"
+   },
+   "cj_i18n_00076": {
+      "message": "稍后观看"
+   },
+   "cj_i18n_00077": {
+      "message": "升级存储空间"
+   },
+   "cj_i18n_00078": {
+      "message": "Chrome 应用"
+   },
+   "cj_i18n_00081": {
+      "message": "提醒"
+   },
+   "cj_i18n_00083": {
+      "message": "全部"
+   },
+   "cj_i18n_00084": {
+      "message": "在新标签页打开服务"
+   },
+   "cj_i18n_00085": {
+      "message": "搜索"
+   },
+   "cj_i18n_00086": {
+      "message": "在新标签页搜索"
+   },
+   "cj_i18n_00090": {
+      "message": "新建文件"
+   },
+   "cj_i18n_00092": {
+      "message": "名称"
+   },
+   "cj_i18n_00093": {
+      "message": "上一次修改"
+   },
+   "cj_i18n_00097": {
+      "message": "拖放到这里以删除"
+   },
+   "cj_i18n_00099": {
+      "message": "文档"
+   },
+   "cj_i18n_00102": {
+      "message": "表单"
+   },
+   "cj_i18n_00105": {
+      "message": "地图"
+   },
+   "cj_i18n_00112": {
+      "message": "协作平台"
+   },
+   "cj_i18n_00113": {
+      "message": "删除网站"
+   },
+   "cj_i18n_00118": {
+      "message": "使用下面的按钮"
+   },
+   "cj_i18n_00120": {
+      "message": "找到"
+   },
+   "cj_i18n_00121": {
+      "message": "文件夹"
+   },
+   "cj_i18n_00122": {
+      "message": "文件"
+   },
+   "cj_i18n_00123": {
+      "message": "在线标签页中打开文件夹"
+   },
+   "cj_i18n_00132": {
+      "message": "杂志"
+   },
+   "cj_i18n_00134": {
+      "message": "商店"
+   },
+   "cj_i18n_00138": {
+      "message": "文本文件"
+   },
+   "cj_i18n_00141": {
+      "message": "照片和图片"
+   },
+   "cj_i18n_00142": {
+      "message": "视频"
+   },
+   "cj_i18n_00144": {
+      "message": "文件"
+   },
+   "cj_i18n_00145": {
+      "message": "文档"
+   },
+   "cj_i18n_00148": {
+      "message": "上传"
+   },
+   "cj_i18n_00152": {
+      "message": "我的视频"
+   },
+   "cj_i18n_00154": {
+      "message": "订阅"
+   },
+   "cj_i18n_00155": {
+      "message": "历史"
+   },
+   "cj_i18n_00156": {
+      "message": "没有结果"
+   },
+   "cj_i18n_00161": {
+      "message": "关于我"
+   },
+   "cj_i18n_00165": {
+      "message": "一月"
+   },
+   "cj_i18n_00166": {
+      "message": "二月"
+   },
+   "cj_i18n_00167": {
+      "message": "三月"
+   },
+   "cj_i18n_00168": {
+      "message": "四月"
+   },
+   "cj_i18n_00169": {
+      "message": "五月"
+   },
+   "cj_i18n_00170": {
+      "message": "六月"
+   },
+   "cj_i18n_00171": {
+      "message": "七月"
+   },
+   "cj_i18n_00172": {
+      "message": "八月"
+   },
+   "cj_i18n_00173": {
+      "message": "九月"
+   },
+   "cj_i18n_00174": {
+      "message": "十月"
+   },
+   "cj_i18n_00175": {
+      "message": "十一月"
+   },
+   "cj_i18n_00176": {
+      "message": "十二月"
+   },
+   "cj_i18n_00177": {
+      "message": "管理员"
+   },
+   "cj_i18n_00183": {
+      "message": "快讯"
+   },
+   "cj_i18n_00184": {
+      "message": "重要"
+   },
+   "cj_i18n_00185": {
+      "message": "聊天"
+   },
+   "cj_i18n_00190": {
+      "message": "书签"
+   },
+   "cj_i18n_00193": {
+      "message": "订阅"
+   },
+   "cj_i18n_00198": {
+      "message": "所有价格"
+   },
+   "cj_i18n_00199": {
+      "message": "免费"
+   },
+   "cj_i18n_00200": {
+      "message": "已支付"
+   },
+   "cj_i18n_00205": {
+      "message": "艺术家"
+   },
+   "cj_i18n_00206": {
+      "message": "专辑"
+   },
+   "cj_i18n_00207": {
+      "message": "歌曲"
+   },
+   "cj_i18n_00213": {
+      "message": "电话"
+   },
+   "cj_i18n_00214": {
+      "message": "电子邮件"
+   },
+   "cj_i18n_00216": {
+      "message": "应用"
+   },
+   "cj_i18n_00218": {
+      "message": "书籍"
+   },
+   "cj_i18n_00219": {
+      "message": "音乐"
+   },
+   "cj_i18n_00223": {
+      "message": "谷歌商店"
+   },
+   "cj_i18n_00224": {
+      "message": "授权"
+   },
+   "cj_i18n_00226": {
+      "message": "昨天"
+   },
+   "cj_i18n_00233": {
+      "message": "此Google账户没有与任何AdSense账户关联"
+   },
+   "cj_i18n_00235": {
+      "message": "在访问此页面前，您需要授予权限来加载AdSense账户信息"
+   },
+   "cj_i18n_00240": {
+      "message": "用户"
+   },
+   "cj_i18n_00241": {
+      "message": "应用"
+   },
+   "cj_i18n_00247": {
+      "message": "支持"
+   },
+   "cj_i18n_00248": {
+      "message": "组"
+   },
+   "cj_i18n_00249": {
+      "message": "公司信息"
+   },
+   "cj_i18n_00250": {
+      "message": "安全"
+   },
+   "cj_i18n_00251": {
+      "message": "付款"
+   },
+   "cj_i18n_00260": {
+      "message": "没有找到博客"
+   },
+   "cj_i18n_00261": {
+      "message": "访问Blogger.com来创建新博客"
+   },
+   "cj_i18n_00262": {
+      "message": "无法加载您的博客"
+   },
+   "cj_i18n_00268": {
+      "message": "新事件"
+   },
+   "cj_i18n_00291": {
+      "message": "首页"
+   },
+   "cj_i18n_00292": {
+      "message": "收藏集"
+   },
+   "cj_i18n_00293": {
+      "message": "社群"
+   },
+   "cj_i18n_00294": {
+      "message": "个人资料"
+   },
+   "cj_i18n_00295": {
+      "message": "人脉"
+   },
+   "cj_i18n_00296": {
+      "message": "通知"
+   },
+   "cj_i18n_00298": {
+      "message": "设置"
+   },
+   "cj_i18n_00302": {
+      "message": "日历"
+   },
+   "cj_i18n_00303": {
+      "message": "已发送"
+   },
+   "cj_i18n_00308": {
+      "message": "旅行"
+   },
+   "cj_i18n_00309": {
+      "message": "已保存"
+   },
+   "cj_i18n_00311": {
+      "message": "金融"
+   },
+   "cj_i18n_00312": {
+      "message": "社交"
+   },
+   "cj_i18n_00313": {
+      "message": "更新"
+   },
+   "cj_i18n_00314": {
+      "message": "通讯录"
+   },
+   "cj_i18n_00322": {
+      "message": "没有发现任何书籍"
+   },
+   "cj_i18n_00332": {
+      "message": "云打印"
+   },
+   "cj_i18n_00337": {
+      "message": "注册"
+   },
+   "cj_i18n_00338": {
+      "message": "现在"
+   },
+   "cj_i18n_00339": {
+      "message": "短链接"
+   },
+   "cj_i18n_00340": {
+      "message": "已创建"
+   },
+   "cj_i18n_00341": {
+      "message": "点击"
+   },
+   "cj_i18n_00343": {
+      "message": "开发者"
+   },
+   "cj_i18n_00349": {
+      "message": "反馈和帮助"
+   },
+   "cj_i18n_00350": {
+      "message": "提问"
+   },
+   "cj_i18n_00351": {
+      "message": "上报问题"
+   },
+   "cj_i18n_00354": {
+      "message": "捐赠"
+   },
+   "cj_i18n_00355": {
+      "message": "隐私"
+   },
+   "cj_i18n_00357": {
+      "message": "查看我们的隐私政策"
+   },
+   "cj_i18n_00360": {
+      "message": "您的隐私很重要，我们只会收集某些帮助我们改进服务的匿名使用数据，您可以在设置中关闭此功能。"
+   },
+   "cj_i18n_00361": {
+      "message": "添加账户"
+   },
+   "cj_i18n_00370": {
+      "message": "没有书签"
+   },
+   "cj_i18n_00372": {
+      "message": "没侦测到任何打印机"
+   },
+   "cj_i18n_00380": {
+      "message": "电影"
+   },
+   "cj_i18n_00390": {
+      "message": "云端硬盘"
+   },
+   "cj_i18n_00391": {
+      "message": "文档"
+   },
+   "cj_i18n_00392": {
+      "message": "创建新的群组"
+   },
+   "cj_i18n_00402": {
+      "message": "通知"
+   },
+   "cj_i18n_00406": {
+      "message": "高级搜索"
+   },
+   "cj_i18n_00407": {
+      "message": "投影片"
+   },
+   "cj_i18n_00408": {
+      "message": "表单"
+   },
+   "cj_i18n_00409": {
+      "message": "绘画"
+   },
+   "cj_i18n_00410": {
+      "message": "我的地图"
+   },
+   "cj_i18n_00412": {
+      "message": "财经"
+   },
+   "cj_i18n_00414": {
+      "message": "航班"
+   },
+   "cj_i18n_00415": {
+      "message": "字体"
+   },
+   "cj_i18n_00418": {
+      "message": "网上论坛"
+   },
+   "cj_i18n_00423": {
+      "message": "地图"
+   },
+   "cj_i18n_00424": {
+      "message": "Play电影"
+   },
+   "cj_i18n_00425": {
+      "message": "新闻"
+   },
+   "cj_i18n_00427": {
+      "message": "专利"
+   },
+   "cj_i18n_00429": {
+      "message": "相册"
+   },
+   "cj_i18n_00430": {
+      "message": "Play商店"
+   },
+   "cj_i18n_00431": {
+      "message": "Play音乐"
+   },
+   "cj_i18n_00432": {
+      "message": "收藏"
+   },
+   "cj_i18n_00433": {
+      "message": "学术搜索"
+   },
+   "cj_i18n_00434": {
+      "message": "搜索"
+   },
+   "cj_i18n_00435": {
+      "message": "购物"
+   },
+   "cj_i18n_00438": {
+      "message": "帮助"
+   },
+   "cj_i18n_00439": {
+      "message": "任务"
+   },
+   "cj_i18n_00440": {
+      "message": "翻译"
+   },
+   "cj_i18n_00441": {
+      "message": "趋势"
+   },
+   "cj_i18n_00443": {
+      "message": "语音"
+   },
+   "cj_i18n_00450": {
+      "message": "关于 Google"
+   },
+   "cj_i18n_00458": {
+      "message": "文化与艺术"
+   },
+   "cj_i18n_00460": {
+      "message": "图书"
+   },
+   "cj_i18n_00461": {
+      "message": "Chrome 实验"
+   },
+   "cj_i18n_00462": {
+      "message": "Chrome 网上应用店"
+   },
+   "cj_i18n_00463": {
+      "message": "开发者仪表板"
+   },
+   "cj_i18n_00464": {
+      "message": "插件"
+   },
+   "cj_i18n_00465": {
+      "message": "主题"
+   },
+   "cj_i18n_00470": {
+      "message": "仪表板"
+   },
+   "cj_i18n_00471": {
+      "message": "地球"
+   },
+   "cj_i18n_00476": {
+      "message": "新邮件"
+   },
+   "cj_i18n_00477": {
+      "message": "输入工具"
+   },
+   "cj_i18n_00480": {
+      "message": "电影"
+   },
+   "cj_i18n_00481": {
+      "message": "账户"
+   },
+   "cj_i18n_00484": {
+      "message": "活动"
+   },
+   "cj_i18n_00485": {
+      "message": "热门信息"
+   },
+   "cj_i18n_00486": {
+      "message": "政府请求"
+   },
+   "cj_i18n_00488": {
+      "message": "图片"
+   },
+   "cj_i18n_00492": {
+      "message": "火星"
+   },
+   "cj_i18n_00494": {
+      "message": "月球"
+   },
+   "cj_i18n_00495": {
+      "message": "我的设备"
+   },
+   "cj_i18n_00496": {
+      "message": "新闻归档"
+   },
+   "cj_i18n_00500": {
+      "message": "搜索设置"
+   },
+   "cj_i18n_00501": {
+      "message": "天空"
+   },
+   "cj_i18n_00505": {
+      "message": "译者工具包"
+   },
+   "cj_i18n_00506": {
+      "message": "透明度报告"
+   },
+   "cj_i18n_00509": {
+      "message": "视频"
+   },
+   "cj_i18n_00546": {
+      "message": "添加联系人"
+   },
+   "cj_i18n_00550": {
+      "message": "心愿单"
+   },
+   "cj_i18n_00551": {
+      "message": "OAuth 2.0 沙盒"
+   },
+   "cj_i18n_00555": {
+      "message": "添加位置"
+   },
+   "cj_i18n_00556": {
+      "message": "手机应用"
+   },
+   "cj_i18n_00562": {
+      "message": "设计"
+   },
+   "cj_i18n_00563": {
+      "message": "谷歌套件工具箱网站"
+   },
+   "cj_i18n_00566": {
+      "message": "两步验证"
+   },
+   "cj_i18n_00589": {
+      "message": "计算器"
+   },
+   "cj_i18n_00596": {
+      "message": "联系谷歌"
+   },
+   "cj_i18n_00597": {
+      "message": "云平台"
+   },
+   "cj_i18n_00600": {
+      "message": "网页设计师"
+   },
+   "cj_i18n_00601": {
+      "message": "调查"
+   },
+   "cj_i18n_00605": {
+      "message": "公共 DNS"
+   },
+   "cj_i18n_00613": {
+      "message": "Android平板"
+   },
+   "cj_i18n_00614": {
+      "message": "Android手机"
+   },
+   "cj_i18n_00616": {
+      "message": "保险柜"
+   },
+   "cj_i18n_00618": {
+      "message": "穿戴应用"
+   },
+   "cj_i18n_00624": {
+      "message": "社区"
+   },
+   "cj_i18n_00625": {
+      "message": "频道"
+   },
+   "cj_i18n_00626": {
+      "message": "创建"
+   },
+   "cj_i18n_00641": {
+      "message": "项目"
+   },
+   "cj_i18n_00688": {
+      "message": "新网站"
+   },
+   "cj_i18n_00689": {
+      "message": "我的活动"
+   },
+   "cj_i18n_00802": {
+      "message": "地点"
+   },
+   "cj_i18n_00821": {
+      "message": "档案"
+   },
+   "cj_i18n_00835": {
+      "message": "产品"
+   },
+   "cj_i18n_00838": {
+      "message": "关于 Google"
+   },
+   "cj_i18n_00851": {
+      "message": "Android开源"
+   },
+   "cj_i18n_01019": {
+      "message": "资料"
+   },
+   "cj_i18n_01095": {
+      "message": "广告"
+   },
+   "cj_i18n_01148": {
+      "message": "广告"
+   },
+   "cj_i18n_01150": {
+      "message": "站点"
+   },
+   "cj_i18n_01161": {
+      "message": "预览"
+   },
+   "cj_i18n_01164": {
+      "message": "从菜单移除"
+   },
+   "cj_i18n_01167": {
+      "message": "链接"
+   },
+   "cj_i18n_01174": {
+      "message": "加载中"
+   },
+   "cj_i18n_01176": {
+      "message": "重试"
+   },
+   "cj_i18n_01178": {
+      "message": "继续"
+   },
+   "cj_i18n_01183": {
+      "message": "我的博客"
+   },
+   "cj_i18n_01186": {
+      "message": "评论"
+   },
+   "cj_i18n_01188": {
+      "message": "页面"
+   },
+   "cj_i18n_01190": {
+      "message": "主题"
+   },
+   "cj_i18n_01191": {
+      "message": "阅读列表"
+   },
+   "cj_i18n_01203": {
+      "message": "直播"
+   },
+   "cj_i18n_01205": {
+      "message": "电影"
+   },
+   "cj_i18n_01211": {
+      "message": "电影"
+   },
+   "cj_i18n_01214": {
+      "message": "上传日期"
+   },
+   "cj_i18n_01220": {
+      "message": "直播"
+   },
+   "cj_i18n_01230": {
+      "message": "视频"
+   },
+   "cj_i18n_01234": {
+      "message": "播放列表"
+   },
+   "cj_i18n_01251": {
+      "message": "导出书签"
+   },
+   "cj_i18n_01252": {
+      "message": "删除所有"
+   },
+   "cj_i18n_01253": {
+      "message": "今天"
+   },
+   "cj_i18n_01256": {
+      "message": "日历"
+   },
+   "cj_i18n_01262": {
+      "message": "认识时间"
+   },
+   "cj_i18n_01271": {
+      "message": "文件夹"
+   },
+   "cj_i18n_01275": {
+      "message": "没有找到联系人"
+   },
+   "cj_i18n_01278": {
+      "message": "其他联系人"
+   },
+   "cj_i18n_01292": {
+      "message": "管理员控制台"
+   },
+   "cj_i18n_01305": {
+      "message": "新特性"
+   },
+   "cj_i18n_01307": {
+      "message": "电脑"
+   },
+   "cj_i18n_01308": {
+      "message": "备份"
+   },
+   "cj_i18n_01319": {
+      "message": "关于"
+   },
+   "cj_i18n_01326": {
+      "message": "上传"
+   },
+   "cj_i18n_01329": {
+      "message": "所有产品"
+   },
+   "cj_i18n_01334": {
+      "message": "事件"
+   },
+   "cj_i18n_01335": {
+      "message": "博客"
+   },
+   "cj_i18n_01342": {
+      "message": "没有找到"
+   },
+   "cj_i18n_01351": {
+      "message": "了解更多"
+   },
+   "cj_i18n_01360": {
+      "message": "分享"
+   },
+   "cj_i18n_01363": {
+      "message": "保存"
+   },
+   "cj_i18n_01364": {
+      "message": "谷歌地图"
+   },
+   "cj_i18n_01390": {
+      "message": "原生"
+   },
+   "cj_i18n_01393": {
+      "message": "更多应用"
+   },
+   "cj_i18n_01398": {
+      "message": "网络设置"
+   },
+   "cj_i18n_01405": {
+      "message": "访问&授权"
+   },
+   "cj_i18n_01408": {
+      "message": "视频"
+   },
+   "cj_i18n_01414": {
+      "message": "汇报"
+   },
+   "cj_i18n_01427": {
+      "message": "个人中心"
+   },
+   "cj_i18n_01428": {
+      "message": "广告预览与诊断工具"
+   },
+   "cj_i18n_01434": {
+      "message": "对话"
+   },
+   "cj_i18n_01439": {
+      "message": "关联账户"
+   },
+   "cj_i18n_01471": {
+      "message": "历史"
+   },
+   "cj_i18n_01476": {
+      "message": "科学"
+   },
+   "cj_i18n_01486": {
+      "message": "联系人"
+   },
+   "cj_i18n_01487": {
+      "message": "对话"
+   },
+   "cj_i18n_01504": {
+      "message": "工具"
+   },
+   "cj_i18n_01507": {
+      "message": "注销登陆"
+   },
+   "cj_i18n_01515": {
+      "message": "活动"
+   },
+   "cj_i18n_01521": {
+      "message": "文档"
+   },
+   "cj_i18n_01525": {
+      "message": "广告"
+   },
+   "cj_i18n_01539": {
+      "message": "相关应用"
+   },
+   "cj_i18n_01545": {
+      "message": "在新标签页中打开"
+   },
+   "cj_i18n_01562": {
+      "message": "更多"
+   },
+   "cj_i18n_01563": {
+      "message": "删除"
+   },
+   "cj_i18n_01581": {
+      "message": "插件设置"
+   },
+   "cj_i18n_01582": {
+      "message": "数据与隐私"
+   },
+   "cj_i18n_01583": {
+      "message": "支持与贡献"
+   },
+   "cj_i18n_01585": {
+      "message": "自定义菜单"
+   },
+   "cj_i18n_01586": {
+      "message": "开始自定义"
+   },
+   "cj_i18n_01588": {
+      "message": "高级"
+   },
+   "cj_i18n_01591": {
+      "message": "已缓存的数据"
+   },
+   "cj_i18n_01592": {
+      "message": "清空所有缓存"
+   },
+   "cj_i18n_01593": {
+      "message": "Black Menu For Google将会在您的计算机上缓存一些Google服务数据以便您能更快的访问服务与数据。"
+   },
+   "cj_i18n_01594": {
+      "message": "已授予的权限"
+   },
+   "cj_i18n_01601": {
+      "message": "帮助"
+   },
+   "cj_i18n_01604": {
+      "message": "我们现在急需志愿翻译者。如果您能加入的话我们会很高兴"
+   },
+   "cj_i18n_01605": {
+      "message": "帮助翻译"
+   },
+   "cj_i18n_01606": {
+      "message": "如果您喜欢本插件的话，希望您能慷慨捐赠，这会帮助开发工作并让我们改进服务"
+   },
+   "cj_i18n_01607": {
+      "message": "Google设置"
+   }
+}

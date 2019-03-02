@@ -1,0 +1,10 @@
+# GIMP gimp-perspective-clone-tool options
+
+(brush "Clipboard Image")
+(dynamics "Dynamics Off")
+(pattern "Pine")
+(palette "Color History")
+(brush-size 1024.000000)
+(brush-spacing 0.200000)
+
+# end of gimp-perspective-clone-tool options

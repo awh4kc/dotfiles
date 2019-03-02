@@ -1,0 +1,630 @@
+!SESSION 2019-02-16 15:46:37.639 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/awh4kc/.config/Code - OSS/User/workspaceStorage/7b1663d6dc24c5bfa1a8960c5015e0de/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:39.455
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:39.578
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:39.606
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:39.607
+!MESSAGE Initializing Java Language Server 0.32.0.201901311714
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:39.634
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:39.662
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:40.238
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:40.520
+!MESSAGE Workspace initialized in 902ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:40.640
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:40.642
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:40.659
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={gradle={enabled=true}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=true, showQualifiedNames=false, maxStringLength=0.0, enableHotCodeReplace=true, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true}}, dependency={showOutline=true, syncWithFolderExplorer=true, packagePresentation=flat}, test={report={position=sideView}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:40.984
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:41.715
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:43.178
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:01.842
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.011
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.379
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.389
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.393
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.406
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY java-debug 1 0 2019-02-16 15:47:02.415
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.433
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.856
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.856
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:02.857
+!MESSAGE Reconciled 0, validated: 1. Took 226 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:05.118
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:05.120
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:05.275
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:05.276
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:17.269
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:17.643
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:24.995
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:26.989
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:31.130
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:42.164
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:42.166
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:42.356
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:42.358
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:46.881
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:47.004
+!MESSAGE >> workspace/executeCommand vscode.java.test.runtime.classpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:47.703
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:47.704
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:53.488
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:47:59.582
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:09.307
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:09.363
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:09.364
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:09.581
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:10.058
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:12.881
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:13.134
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:13.378
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:14.082
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:16.413
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:17.545
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:20.266
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:25.922
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:34.114
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:34.794
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:36.184
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:36.692
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:37.090
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:37.845
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:38.212
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:39.933
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:40.180
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:40.867
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:41.047
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:41.292
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:41.293
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:41.575
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:41.576
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:41.576
+!MESSAGE Reconciled 0, validated: 1. Took 123 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:42.042
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:42.066
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:42.078
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:42.079
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:42.352
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:42.508
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.479
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.567
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.610
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.698
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.699
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.700
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.988
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.988
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:43.988
+!MESSAGE Reconciled 0, validated: 1. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.031
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.282
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.283
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.342
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.369
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.377
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.574
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.575
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.577
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.616
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:44.864
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.096
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.097
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.098
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.134
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.367
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.368
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.486
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.643
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:45.677
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.134
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.134
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.135
+!MESSAGE Reconciled 0, validated: 1. Took 87 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.188
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.190
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.191
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.192
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.194
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.212
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2019-02-16 15:49:46.240
+!MESSAGE Problem resolving quick assist code actions
+!STACK 1
+Java Model Exception: Java Model Status [LRUTe {key=Lwarmup/LRUTestRunner~LRUTe;} [in [Working copy] LRUTestRunner.java [in warmup [in src [in jdt.ls-java-project]]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:607)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildrenOfType(JavaElement.java:281)
+	at org.eclipse.jdt.internal.core.SourceType.getMethods(SourceType.java:452)
+	at org.eclipse.jdt.ls.core.internal.text.correction.QuickAssistProcessor.getUniqueMethodName(QuickAssistProcessor.java:871)
+	at org.eclipse.jdt.ls.core.internal.text.correction.QuickAssistProcessor.getExtractMethodProposal(QuickAssistProcessor.java:449)
+	at org.eclipse.jdt.ls.core.internal.text.correction.QuickAssistProcessor.getAssists(QuickAssistProcessor.java:178)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:94)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:588)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$26(JDTLanguageServer.java:793)
+	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:443)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-02-16 15:49:46.244
+!MESSAGE LRUTe {key=Lwarmup/LRUTestRunner~LRUTe;} [in [Working copy] LRUTestRunner.java [in warmup [in src [in jdt.ls-java-project]]]] does not exist
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.448
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.452
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.460
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.679
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.680
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.681
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.956
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.956
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:46.958
+!MESSAGE Reconciled 0, validated: 1. Took 105 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:47.158
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:47.382
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:47.430
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:47.446
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:47.740
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:48.030
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:48.890
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:49.285
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:50.423
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:50.652
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:51.259
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:52.498
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:52.592
+!MESSAGE >> workspace/executeCommand vscode.java.test.runtime.classpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:53.249
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:53.250
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:49:54.524
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:08.534
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:08.785
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:08.786
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:08.786
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:08.992
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.020
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.020
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.021
+!MESSAGE Reconciled 0, validated: 1. Took 82 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.219
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.220
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.283
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.532
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.533
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.534
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.584
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:09.826
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.076
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.076
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.078
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.116
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.365
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.366
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.367
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.481
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.713
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.714
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.714
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.955
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.956
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:10.956
+!MESSAGE Reconciled 0, validated: 1. Took 73 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:11.465
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:11.493
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:11.775
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:50:12.356
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:51:15.428
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 16:01:12.602
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:04:48.691
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:05:45.779
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:19.914
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:20.728
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:21.257
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:22.292
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:22.294
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:22.457
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:22.458
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:22.462
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:07:47.571
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:08:00.663
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 12:09:25.109
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 14:07:37.005
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 14:07:38.872
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 15:39:30.549
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 15:39:41.588
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 15:39:41.636
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 15:39:41.636
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY java-debug 1 0 2019-02-17 15:39:41.652
+!MESSAGE Stopping com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-17 15:39:41.655
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

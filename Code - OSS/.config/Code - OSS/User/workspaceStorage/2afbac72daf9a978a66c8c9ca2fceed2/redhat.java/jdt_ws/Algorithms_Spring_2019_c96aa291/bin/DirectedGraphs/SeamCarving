@@ -1,0 +1,7 @@
+In lecture we discussed the seam carving algorithm. In this assignment you will implement the seam carving
+algorithm. Your program should accept two parameters:
+    1.matrix representing the image.
+    2.number of seams to carve.
+
+Your program should out the new matrix with the appropriate number of seams carved into the image.
+

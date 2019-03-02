@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/awh4kc/.config/Slack'
+let g:netrw_dirhist_2='/home/awh4kc/cs4414/xv6'
+let g:netrw_dirhist_3='/home/awh4kc/cs4501/app/project1/helloWorld'
+let g:netrw_dirhist_4='/home/awh4kc/cs4501/app/project1/project1'
+let g:netrw_dirhist_5='/home/awh4kc/powerline-shell'

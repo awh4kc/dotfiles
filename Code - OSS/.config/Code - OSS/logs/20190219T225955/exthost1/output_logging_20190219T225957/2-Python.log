@@ -1,0 +1,1419 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module rebu.views
+10,18,error,no-member:Class 'user' has no 'objects' member
+20,18,error,no-member:Class 'user' has no 'objects' member
+47,18,error,no-member:Class 'user' has no 'objects' member
+90,18,error,no-member:Class 'cook' has no 'objects' member
+100,18,error,no-member:Class 'cook' has no 'objects' member
+104,27,error,no-member:Class 'user' has no 'objects' member
+111,18,error,no-member:Class 'cook' has no 'objects' member
+126,27,error,no-member:Class 'user' has no 'objects' member
+137,18,error,no-member:Class 'eater' has no 'objects' member
+147,18,error,no-member:Class 'eater' has no 'objects' member
+149,27,error,no-member:Class 'user' has no 'objects' member
+156,18,error,no-member:Class 'eater' has no 'objects' member
+169,27,error,no-member:Class 'user' has no 'objects' member
+180,18,error,no-member:Class 'meal' has no 'objects' member
+190,18,error,no-member:Class 'meal' has no 'objects' member
+210,27,error,no-member:Class 'cook' has no 'objects' member
+217,18,error,no-member:Class 'meal' has no 'objects' member
+248,27,error,no-member:Class 'cook' has no 'objects' member
+260,18,error,no-member:Class 'plate' has no 'objects' member
+270,18,error,no-member:Class 'plate' has no 'objects' member
+272,27,error,no-member:Class 'meal' has no 'objects' member
+274,28,error,no-member:Class 'eater' has no 'objects' member
+281,18,error,no-member:Class 'plate' has no 'objects' member
+294,27,error,no-member:Class 'meal' has no 'objects' member
+296,28,error,no-member:Class 'eater' has no 'objects' member
+308,18,error,no-member:Class 'eater_rating' has no 'objects' member
+318,18,error,no-member:Class 'eater_rating' has no 'objects' member
+324,27,error,no-member:Class 'cook' has no 'objects' member
+326,28,error,no-member:Class 'eater' has no 'objects' member
+333,18,error,no-member:Class 'eater_rating' has no 'objects' member
+350,27,error,no-member:Class 'cook' has no 'objects' member
+352,28,error,no-member:Class 'eater' has no 'objects' member
+363,18,error,no-member:Class 'review' has no 'objects' member
+373,18,error,no-member:Class 'review' has no 'objects' member
+379,28,error,no-member:Class 'eater' has no 'objects' member
+381,27,error,no-member:Class 'cook' has no 'objects' member
+383,27,error,no-member:Class 'meal' has no 'objects' member
+390,18,error,no-member:Class 'review' has no 'objects' member
+407,28,error,no-member:Class 'eater' has no 'objects' member
+409,27,error,no-member:Class 'cook' has no 'objects' member
+411,27,error,no-member:Class 'meal' has no 'objects' member
+
+-----------------------------------
+Your code has been rated at 4.37/10
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+2,0,error,syntax-error:invalid syntax (<unknown>, line 2)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+2,0,error,syntax-error:trailing comma not allowed without surrounding parentheses (<unknown>, line 2)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+2,0,error,syntax-error:trailing comma not allowed without surrounding parentheses (<unknown>, line 2)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+2,0,error,syntax-error:trailing comma not allowed without surrounding parentheses (<unknown>, line 2)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+5,0,error,syntax-error:invalid syntax (<unknown>, line 5)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+5,0,error,syntax-error:invalid syntax (<unknown>, line 5)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+5,0,error,syntax-error:invalid syntax (<unknown>, line 5)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+5,0,error,syntax-error:invalid syntax (<unknown>, line 5)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+5,0,error,syntax-error:invalid syntax (<unknown>, line 5)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+6,0,error,syntax-error:unexpected EOF while parsing (<unknown>, line 6)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+9,0,error,syntax-error:invalid syntax (<unknown>, line 9)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+12,35,error,undefined-variable:Undefined variable 'reverse'
+20,35,error,undefined-variable:Undefined variable 'reverse'
+
+-------------------------------------------------------------------
+Your code has been rated at 2.31/10 (previous run: 10.00/10, -7.69)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+12,35,error,undefined-variable:Undefined variable 'reverse'
+20,35,error,undefined-variable:Undefined variable 'reverse'
+
+------------------------------------------------------------------
+Your code has been rated at 2.31/10 (previous run: 2.31/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,35,error,undefined-variable:Undefined variable 'reverse'
+19,35,error,undefined-variable:Undefined variable 'reverse'
+
+------------------------------------------------------------------
+Your code has been rated at 2.31/10 (previous run: 2.31/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,35,error,undefined-variable:Undefined variable 'reverse'
+16,35,error,undefined-variable:Undefined variable 'reverse'
+
+------------------------------------------------------------------
+Your code has been rated at 2.31/10 (previous run: 2.31/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,35,error,undefined-variable:Undefined variable 'reverse'
+15,35,error,undefined-variable:Undefined variable 'reverse'
+
+------------------------------------------------------------------
+Your code has been rated at 2.31/10 (previous run: 2.31/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,35,error,undefined-variable:Undefined variable 'reverse'
+15,35,error,undefined-variable:Undefined variable 'reverse'
+
+------------------------------------------------------------------
+Your code has been rated at 2.31/10 (previous run: 2.31/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,35,error,undefined-variable:Undefined variable 'reverse'
+15,35,error,undefined-variable:Undefined variable 'reverse'
+
+------------------------------------------------------------------
+Your code has been rated at 2.31/10 (previous run: 2.31/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+2,0,error,undefined-variable:Undefined variable 'f'
+11,35,error,undefined-variable:Undefined variable 'reverse'
+16,35,error,undefined-variable:Undefined variable 'reverse'
+
+-------------------------------------------------------------------
+Your code has been rated at -0.71/10 (previous run: 2.31/10, -3.02)
+
+##########Linting Output - pylint##########
+
+---------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: -0.71/10, +10.71)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+20,0,error,syntax-error:invalid syntax (<unknown>, line 20)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+21,0,error,syntax-error:invalid syntax (<unknown>, line 21)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+21,0,error,syntax-error:invalid syntax (<unknown>, line 21)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+21,0,error,syntax-error:invalid syntax (<unknown>, line 21)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+24,0,error,syntax-error:invalid syntax (<unknown>, line 24)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+24,0,error,syntax-error:invalid syntax (<unknown>, line 24)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+24,0,error,syntax-error:invalid syntax (<unknown>, line 24)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+24,0,error,syntax-error:invalid syntax (<unknown>, line 24)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+27,0,error,syntax-error:invalid syntax (<unknown>, line 27)
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+31,0,error,syntax-error:expected an indented block (<unknown>, line 31)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+30,0,error,function-redefined:class already defined line 20
+40,0,error,function-redefined:class already defined line 20
+
+-------------------------------------------------------------------
+Your code has been rated at 7.14/10 (previous run: 10.00/10, -2.86)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+30,0,error,function-redefined:class already defined line 20
+40,0,error,function-redefined:class already defined line 20
+50,0,error,function-redefined:class already defined line 20
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 7.14/10, -0.71)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+40,0,error,function-redefined:class already defined line 20
+50,0,error,function-redefined:class already defined line 20
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 6.43/10, +1.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+50,0,error,function-redefined:class already defined line 20
+
+------------------------------------------------------------------
+Your code has been rated at 8.81/10 (previous run: 7.62/10, +1.19)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.81/10, +1.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+60,0,error,function-redefined:class already defined line 20
+
+-------------------------------------------------------------------
+Your code has been rated at 8.98/10 (previous run: 10.00/10, -1.02)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.98/10, +1.02)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+70,0,error,function-redefined:class already defined line 20
+
+-------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 10.00/10, -0.89)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.11/10, +0.89)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+27,0,error,syntax-error:expected an indented block (<unknown>, line 27)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-member:Instance of 'eaterTestCase' has no 'ass' member
+
+-------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 10.00/10, -0.89)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.11/10, +0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+-------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 10.00/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+35,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 8.21/10 (previous run: 9.11/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+35,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+45,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 7.32/10 (previous run: 8.21/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+35,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+45,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+55,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 7.32/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+35,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+45,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+55,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+65,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 5.54/10 (previous run: 6.43/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+35,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+45,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+55,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+65,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+75,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 4.64/10 (previous run: 5.54/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+45,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+55,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+65,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+75,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 5.54/10 (previous run: 4.64/10, +0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+65,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+75,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 7.32/10 (previous run: 5.54/10, +1.79)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+75,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 8.21/10 (previous run: 7.32/10, +0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 8.21/10, +0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+20,0,error,function-redefined:class already defined line 1
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 8.21/10 (previous run: 9.11/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 8.21/10, +0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+60,0,error,function-redefined:class already defined line 3
+
+------------------------------------------------------------------
+Your code has been rated at 8.21/10 (previous run: 9.11/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 8.21/10, +0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+70,0,error,function-redefined:class already defined line 3
+
+------------------------------------------------------------------
+Your code has been rated at 8.21/10 (previous run: 9.11/10, -0.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 8.21/10, +0.89)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+25,8,error,no-value-for-parameter:No value for argument 'expr' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 9.11/10, +0.00)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.11/10, +0.89)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.views
+10,18,error,no-member:Class 'user' has no 'objects' member
+20,18,error,no-member:Class 'user' has no 'objects' member
+47,18,error,no-member:Class 'user' has no 'objects' member
+90,18,error,no-member:Class 'cook' has no 'objects' member
+100,18,error,no-member:Class 'cook' has no 'objects' member
+104,27,error,no-member:Class 'user' has no 'objects' member
+111,18,error,no-member:Class 'cook' has no 'objects' member
+126,27,error,no-member:Class 'user' has no 'objects' member
+137,18,error,no-member:Class 'eater' has no 'objects' member
+147,18,error,no-member:Class 'eater' has no 'objects' member
+149,27,error,no-member:Class 'user' has no 'objects' member
+156,18,error,no-member:Class 'eater' has no 'objects' member
+169,27,error,no-member:Class 'user' has no 'objects' member
+180,18,error,no-member:Class 'meal' has no 'objects' member
+190,18,error,no-member:Class 'meal' has no 'objects' member
+210,27,error,no-member:Class 'cook' has no 'objects' member
+217,18,error,no-member:Class 'meal' has no 'objects' member
+248,27,error,no-member:Class 'cook' has no 'objects' member
+260,18,error,no-member:Class 'plate' has no 'objects' member
+270,18,error,no-member:Class 'plate' has no 'objects' member
+272,27,error,no-member:Class 'meal' has no 'objects' member
+274,28,error,no-member:Class 'eater' has no 'objects' member
+281,18,error,no-member:Class 'plate' has no 'objects' member
+294,27,error,no-member:Class 'meal' has no 'objects' member
+296,28,error,no-member:Class 'eater' has no 'objects' member
+308,18,error,no-member:Class 'eater_rating' has no 'objects' member
+318,18,error,no-member:Class 'eater_rating' has no 'objects' member
+324,27,error,no-member:Class 'cook' has no 'objects' member
+326,28,error,no-member:Class 'eater' has no 'objects' member
+333,18,error,no-member:Class 'eater_rating' has no 'objects' member
+350,27,error,no-member:Class 'cook' has no 'objects' member
+352,28,error,no-member:Class 'eater' has no 'objects' member
+363,18,error,no-member:Class 'review' has no 'objects' member
+373,18,error,no-member:Class 'review' has no 'objects' member
+379,28,error,no-member:Class 'eater' has no 'objects' member
+381,27,error,no-member:Class 'cook' has no 'objects' member
+383,27,error,no-member:Class 'meal' has no 'objects' member
+390,18,error,no-member:Class 'review' has no 'objects' member
+407,28,error,no-member:Class 'eater' has no 'objects' member
+409,27,error,no-member:Class 'cook' has no 'objects' member
+411,27,error,no-member:Class 'meal' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 4.37/10 (previous run: 4.37/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,0,error,syntax-error:invalid syntax (<unknown>, line 10)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,warning,unused-variable:Unused variable 'response'
+
+-------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 10.00/10, -0.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,19,error,no-value-for-parameter:No value for argument 'path' in method call
+10,8,warning,unused-variable:Unused variable 'response'
+
+------------------------------------------------------------------
+Your code has been rated at 8.87/10 (previous run: 9.81/10, -0.94)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,0,error,syntax-error:invalid syntax (<unknown>, line 10)
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.87/10, +1.13)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,warning,unused-variable:Unused variable 'user1'
+
+-------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 10.00/10, -0.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,0,error,syntax-error:invalid syntax (<unknown>, line 10)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,16,error,no-member:Class 'user' has no 'id' member
+10,8,warning,unused-variable:Unused variable 'user1'
+
+------------------------------------------------------------------
+Your code has been rated at 8.87/10 (previous run: 9.81/10, -0.94)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,0,error,syntax-error:invalid syntax (<unknown>, line 10)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,warning,unused-variable:Unused variable 'user1'
+
+------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 8.87/10, +0.94)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,0,error,syntax-error:invalid syntax (<unknown>, line 10)
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'gete' member
+10,8,warning,unused-variable:Unused variable 'test_user'
+
+------------------------------------------------------------------
+Your code has been rated at 8.87/10 (previous run: 9.81/10, -0.94)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,warning,unused-variable:Unused variable 'test_user'
+
+------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 8.87/10, +0.94)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+10,8,warning,unused-variable:Unused variable 'test_user'
+
+------------------------------------------------------------------
+Your code has been rated at 8.87/10 (previous run: 9.81/10, -0.94)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+10,8,warning,unused-variable:Unused variable 'test_user'
+
+------------------------------------------------------------------
+Your code has been rated at 8.87/10 (previous run: 8.87/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+10,8,warning,unused-variable:Unused variable 'test_user'
+
+------------------------------------------------------------------
+Your code has been rated at 8.89/10 (previous run: 8.87/10, +0.02)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,0,error,syntax-error:invalid syntax (<unknown>, line 10)
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.89/10, +1.11)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+9,0,error,syntax-error:expected an indented block (<unknown>, line 9)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+7,0,error,syntax-error:invalid syntax (<unknown>, line 7)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+7,0,error,syntax-error:invalid syntax (<unknown>, line 7)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+7,0,error,syntax-error:invalid syntax (<unknown>, line 7)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+7,8,warning,unused-variable:Unused variable 'num_users'
+
+-------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 10.00/10, -0.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+8,0,error,syntax-error:invalid syntax (<unknown>, line 8)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+8,0,error,syntax-error:invalid syntax (<unknown>, line 8)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+8,0,error,syntax-error:invalid syntax (<unknown>, line 8)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,0,error,syntax-error:expected an indented block (<unknown>, line 11)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+8,12,warning,unused-variable:Unused variable 'user_id'
+
+------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 9.81/10, +0.01)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+9,0,error,syntax-error:invalid syntax (<unknown>, line 9)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+9,0,error,syntax-error:invalid syntax (<unknown>, line 9)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+9,12,error,undefined-variable:Undefined variable 'us'
+8,12,warning,unused-variable:Unused variable 'user_id'
+
+------------------------------------------------------------------
+Your code has been rated at 8.89/10 (previous run: 9.81/10, -0.93)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+9,12,error,undefined-variable:Undefined variable 'users'
+8,12,warning,unused-variable:Unused variable 'user_id'
+
+------------------------------------------------------------------
+Your code has been rated at 8.89/10 (previous run: 8.89/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,0,error,syntax-error:expected an indented block (<unknown>, line 11)
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.89/10, +1.11)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,error,undefined-variable:Undefined variable 'uesr'
+
+-------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 10.00/10, -0.94)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,error,undefined-variable:Undefined variable 'uesr'
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 9.06/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,error,no-member:Class 'user' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 9.06/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+10,8,warning,unused-variable:Unused variable 'test_user'
+
+------------------------------------------------------------------
+Your code has been rated at 8.87/10 (previous run: 9.06/10, -0.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+10,8,warning,unused-variable:Unused variable 'test_user'
+
+------------------------------------------------------------------
+Your code has been rated at 8.87/10 (previous run: 8.87/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+10,8,warning,unused-variable:Unused variable 'test_user'
+
+------------------------------------------------------------------
+Your code has been rated at 8.87/10 (previous run: 8.87/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 8.87/10, +0.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 9.06/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,0,error,syntax-error:invalid syntax (<unknown>, line 11)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,0,error,syntax-error:invalid syntax (<unknown>, line 11)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+12,0,error,syntax-error:invalid syntax (<unknown>, line 12)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,0,error,syntax-error:invalid syntax (<unknown>, line 11)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+12,0,error,syntax-error:invalid syntax (<unknown>, line 12)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+12,0,error,syntax-error:invalid syntax (<unknown>, line 12)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+12,0,error,syntax-error:invalid syntax (<unknown>, line 12)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+11,8,warning,unused-variable:Unused variable 'test_first_name'
+
+------------------------------------------------------------------
+Your code has been rated at 8.89/10 (previous run: 9.06/10, -0.17)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 9.07/10 (previous run: 8.89/10, +0.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 9.07/10 (previous run: 9.07/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 9.07/10 (previous run: 9.07/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,20,error,no-member:Class 'user' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 9.07/10 (previous run: 9.07/10, +0.00)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.07/10, +0.93)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module rebu.tests
+14,19,error,no-member:Instance of 'Client' has no 'all_orders_listget' member
+
+-------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 10.00/10, -0.89)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.11/10, +0.89)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+15,0,error,syntax-error:invalid syntax (<unknown>, line 15)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+14,0,error,syntax-error:EOL while scanning string literal (<unknown>, line 14)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,35,error,undefined-variable:Undefined variable 'reverse'
+14,35,error,undefined-variable:Undefined variable 'reverse'
+
+-------------------------------------------------------------------
+Your code has been rated at 8.21/10 (previous run: 10.00/10, -1.79)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+14,35,error,undefined-variable:Undefined variable 'reverse'
+
+------------------------------------------------------------------
+Your code has been rated at 9.11/10 (previous run: 8.21/10, +0.89)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.11/10, +0.89)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,35,error,undefined-variable:Undefined variable 'reverse_lazy'
+14,35,error,undefined-variable:Undefined variable 'reverse_lazy'
+
+-------------------------------------------------------------------
+Your code has been rated at 8.21/10 (previous run: 10.00/10, -1.79)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.21/10, +1.79)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+9,0,error,syntax-error:invalid syntax (<unknown>, line 9)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+9,0,error,syntax-error:invalid syntax (<unknown>, line 9)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+12,0,error,syntax-error:expected an indented block (<unknown>, line 12)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,0,error,syntax-error:invalid syntax (<unknown>, line 10)
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,warning,unused-variable:Unused variable 'response'
+
+-------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 10.00/10, -0.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,19,error,no-member:Instance of 'Client' has no 'create' member
+10,8,warning,unused-variable:Unused variable 'response'
+
+------------------------------------------------------------------
+Your code has been rated at 8.85/10 (previous run: 9.81/10, -0.96)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,warning,unused-variable:Unused variable 'response'
+
+------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 8.85/10, +0.96)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,19,error,no-member:Instance of 'Client' has no 'create_user' member
+10,8,warning,unused-variable:Unused variable 'response'
+
+------------------------------------------------------------------
+Your code has been rated at 8.85/10 (previous run: 9.81/10, -0.96)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,19,error,no-member:Instance of 'Client' has no 'users' member
+10,8,warning,unused-variable:Unused variable 'response'
+
+------------------------------------------------------------------
+Your code has been rated at 8.85/10 (previous run: 8.85/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,19,error,no-value-for-parameter:No value for argument 'path' in method call
+10,8,warning,unused-variable:Unused variable 'response'
+
+------------------------------------------------------------------
+Your code has been rated at 8.85/10 (previous run: 8.85/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,19,error,no-value-for-parameter:No value for argument 'path' in method call
+10,8,warning,unused-variable:Unused variable 'response'
+
+------------------------------------------------------------------
+Your code has been rated at 8.85/10 (previous run: 8.85/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,19,error,no-value-for-parameter:No value for argument 'path' in method call
+11,8,error,undefined-variable:Undefined variable 'assertTrue'
+
+------------------------------------------------------------------
+Your code has been rated at 8.11/10 (previous run: 8.85/10, -0.73)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,undefined-variable:Undefined variable 'assertTrue'
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 8.11/10, +0.94)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.06/10, +0.94)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,no-member:Instance of 'test_user' has no 'asse' member
+
+-------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 10.00/10, -0.94)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.06/10, +0.94)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module rebu.tests
+10,8,warning,unused-variable:Unused variable 'response'
+
+-------------------------------------------------------------------
+Your code has been rated at 9.81/10 (previous run: 10.00/10, -0.19)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,no-value-for-parameter:No value for argument 'raw' in method call
+11,8,error,no-value-for-parameter:No value for argument 'expected_data' in method call
+10,8,warning,unused-variable:Unused variable 'response'
+
+------------------------------------------------------------------
+Your code has been rated at 7.92/10 (previous run: 9.81/10, -1.89)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,no-value-for-parameter:No value for argument 'expected_data' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 7.92/10, +1.13)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,no-value-for-parameter:No value for argument 'expected_data' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 9.06/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,no-value-for-parameter:No value for argument 'expected_data' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 9.06/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,no-value-for-parameter:No value for argument 'expected_data' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 9.06/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,no-value-for-parameter:No value for argument 'second' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 9.06/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+11,8,error,no-value-for-parameter:No value for argument 'second' in method call
+
+------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 9.06/10, +0.00)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.06/10, +0.94)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+

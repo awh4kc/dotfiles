@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.external.linuxExec": "urxvt",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "git.autofetch": true,
+    "files.associations": {
+        "*.rmd": "markdown"
+    },
+    "[r]": {
+        
+    }
+}

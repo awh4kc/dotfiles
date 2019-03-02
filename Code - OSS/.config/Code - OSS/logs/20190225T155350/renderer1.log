@@ -1,0 +1,47 @@
+[2019-02-25 15:53:54.099] [renderer1] [info] no standard startup: not running latest version
+[2019-02-25 16:34:46.101] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///usr/lib/code/out/vs/workbench/workbench.main.js:34:33)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///usr/lib/code/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///usr/lib/code/out/vs/workbench/workbench.main.js:105:891)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-25 16:42:25.983] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///usr/lib/code/out/vs/workbench/workbench.main.js:34:33)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///usr/lib/code/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///usr/lib/code/out/vs/workbench/workbench.main.js:105:891)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-02-25 16:42:38.096] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///usr/lib/code/out/vs/workbench/workbench.main.js:34:33)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///usr/lib/code/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///usr/lib/code/out/vs/workbench/workbench.main.js:105:891)
+[2019-02-25 16:43:31.413] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at i.e.getDataNode (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1037:266)
+    at i.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1034:703)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:33:935
+    at Object.next (file:///usr/lib/code/out/vs/workbench/workbench.main.js:34:33)
+    at file:///usr/lib/code/out/vs/workbench/workbench.main.js:33:160
+    at new Promise (<anonymous>)
+    at i (file:///usr/lib/code/out/vs/workbench/workbench.main.js:32:952)
+    at i.e.expand (file:///usr/lib/code/out/vs/workbench/workbench.main.js:1034:342)
+    at Array.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.main.js:5627:417)
+    at t (file:///usr/lib/code/out/vs/workbench/workbench.main.js:105:891)

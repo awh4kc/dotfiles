@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/twitterMap.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019_Homework/rohitBonus/src/twitterMap.java</location>
+		</link>
+		<link>
+			<name>src/twitterPublicTestCase.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019_Homework/rohitBonus/src/twitterPublicTestCase.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

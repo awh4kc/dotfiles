@@ -1,0 +1,533 @@
+{
+   "cj_i18n_00000": {
+      "message": "Il modo più facile per accedere all'universo Google"
+   },
+   "cj_i18n_00002": {
+      "message": "Condivisi con me"
+   },
+   "cj_i18n_00003": {
+      "message": "Recenti"
+   },
+   "cj_i18n_00004": {
+      "message": "Speciali"
+   },
+   "cj_i18n_00005": {
+      "message": "Cestino"
+   },
+   "cj_i18n_00012": {
+      "message": "stati"
+   },
+   "cj_i18n_00014": {
+      "message": "Video"
+   },
+   "cj_i18n_00017": {
+      "message": "Immagini"
+   },
+   "cj_i18n_00018": {
+      "message": "Notizie"
+   },
+   "cj_i18n_00019": {
+      "message": "Libri"
+   },
+   "cj_i18n_00020": {
+      "message": "Prima pagina"
+   },
+   "cj_i18n_00021": {
+      "message": "Dal mondo"
+   },
+   "cj_i18n_00023": {
+      "message": "Economia"
+   },
+   "cj_i18n_00025": {
+      "message": "Spettacolo"
+   },
+   "cj_i18n_00026": {
+      "message": "Sport"
+   },
+   "cj_i18n_00027": {
+      "message": "Salute"
+   },
+   "cj_i18n_00040": {
+      "message": "Maggiore di 20 minuti"
+   },
+   "cj_i18n_00042": {
+      "message": "Minore di 4 minuti"
+   },
+   "cj_i18n_00045": {
+      "message": "Apri video in una nuova tab"
+   },
+   "cj_i18n_00046": {
+      "message": "Prego, inserire una query di ricerca"
+   },
+   "cj_i18n_00047": {
+      "message": "Altro"
+   },
+   "cj_i18n_00049": {
+      "message": "0 minuti fa"
+   },
+   "cj_i18n_00050": {
+      "message": "Prego, inserire un URL valido"
+   },
+   "cj_i18n_00053": {
+      "message": "Stampanti"
+   },
+   "cj_i18n_00054": {
+      "message": "I miei siti"
+   },
+   "cj_i18n_00055": {
+      "message": "Nessun sito trovato"
+   },
+   "cj_i18n_00076": {
+      "message": "Guarda più tardi"
+   },
+   "cj_i18n_00084": {
+      "message": "Apri servizio in una nuova scheda"
+   },
+   "cj_i18n_00085": {
+      "message": "Ricerca"
+   },
+   "cj_i18n_00086": {
+      "message": "Cerca in una nuova scheda"
+   },
+   "cj_i18n_00097": {
+      "message": "Rilascia qui per rimuovere"
+   },
+   "cj_i18n_00106": {
+      "message": "Cambia vista"
+   },
+   "cj_i18n_00107": {
+      "message": "Tutto"
+   },
+   "cj_i18n_00116": {
+      "message": "Prova un sinonimo o una parola chiave più generica"
+   },
+   "cj_i18n_00134": {
+      "message": "Negozio"
+   },
+   "cj_i18n_00165": {
+      "message": "Gennaio"
+   },
+   "cj_i18n_00166": {
+      "message": "Febbraio"
+   },
+   "cj_i18n_00167": {
+      "message": "Marzo"
+   },
+   "cj_i18n_00168": {
+      "message": "Aprile"
+   },
+   "cj_i18n_00169": {
+      "message": "Maggio"
+   },
+   "cj_i18n_00170": {
+      "message": "Giugno"
+   },
+   "cj_i18n_00171": {
+      "message": "Luglio"
+   },
+   "cj_i18n_00172": {
+      "message": "Agosto"
+   },
+   "cj_i18n_00173": {
+      "message": "Settembre"
+   },
+   "cj_i18n_00174": {
+      "message": "Ottobre"
+   },
+   "cj_i18n_00175": {
+      "message": "Novembre"
+   },
+   "cj_i18n_00176": {
+      "message": "Dicembre"
+   },
+   "cj_i18n_00183": {
+      "message": "Alert"
+   },
+   "cj_i18n_00190": {
+      "message": "Preferiti"
+   },
+   "cj_i18n_00218": {
+      "message": "Libri"
+   },
+   "cj_i18n_00219": {
+      "message": "Musica"
+   },
+   "cj_i18n_00224": {
+      "message": "Concedi il permesso"
+   },
+   "cj_i18n_00225": {
+      "message": "Ad oggi"
+   },
+   "cj_i18n_00226": {
+      "message": "Ieri"
+   },
+   "cj_i18n_00232": {
+      "message": "A vita"
+   },
+   "cj_i18n_00233": {
+      "message": "Non è presente nessun account AdSense a questo account Google"
+   },
+   "cj_i18n_00235": {
+      "message": "Prima che tu possa utilizzare questa pagina, devi caricare i dati di AdSense"
+   },
+   "cj_i18n_00238": {
+      "message": "Per usare Google Admin ti serve un account G Suite"
+   },
+   "cj_i18n_00240": {
+      "message": "Utenti"
+   },
+   "cj_i18n_00241": {
+      "message": "App"
+   },
+   "cj_i18n_00243": {
+      "message": "Migrazione di dati"
+   },
+   "cj_i18n_00244": {
+      "message": "Domini"
+   },
+   "cj_i18n_00246": {
+      "message": "Gestione dispositivi"
+   },
+   "cj_i18n_00247": {
+      "message": "Supporto"
+   },
+   "cj_i18n_00248": {
+      "message": "Gruppi"
+   },
+   "cj_i18n_00250": {
+      "message": "Sicurezza"
+   },
+   "cj_i18n_00251": {
+      "message": "Fatturazione"
+   },
+   "cj_i18n_00252": {
+      "message": "Ruoli"
+   },
+   "cj_i18n_00260": {
+      "message": "Nessun blog trovato"
+   },
+   "cj_i18n_00263": {
+      "message": "Perfavore assicurati di essere collegato ad una rete"
+   },
+   "cj_i18n_00268": {
+      "message": "Nuovo evento"
+   },
+   "cj_i18n_00292": {
+      "message": "Raccolte"
+   },
+   "cj_i18n_00293": {
+      "message": "Community"
+   },
+   "cj_i18n_00294": {
+      "message": "Profilo"
+   },
+   "cj_i18n_00295": {
+      "message": "Persone"
+   },
+   "cj_i18n_00296": {
+      "message": "Notifiche"
+   },
+   "cj_i18n_00298": {
+      "message": "Impostazioni"
+   },
+   "cj_i18n_00300": {
+      "message": "Posticipati"
+   },
+   "cj_i18n_00301": {
+      "message": "Completati"
+   },
+   "cj_i18n_00307": {
+      "message": "Viaggi"
+   },
+   "cj_i18n_00309": {
+      "message": "Salvato"
+   },
+   "cj_i18n_00314": {
+      "message": "Contatti"
+   },
+   "cj_i18n_00350": {
+      "message": "Fai una domanda"
+   },
+   "cj_i18n_00354": {
+      "message": "Dona"
+   },
+   "cj_i18n_00357": {
+      "message": "Visualizza la nostra Privacy Policy"
+   },
+   "cj_i18n_00364": {
+      "message": "Traffico sito"
+   },
+   "cj_i18n_00391": {
+      "message": "Documenti"
+   },
+   "cj_i18n_00393": {
+      "message": "Fogli"
+   },
+   "cj_i18n_00400": {
+      "message": "Album"
+   },
+   "cj_i18n_00406": {
+      "message": "Ricerca avanzata"
+   },
+   "cj_i18n_00407": {
+      "message": "Presentazioni"
+   },
+   "cj_i18n_00408": {
+      "message": "Moduli"
+   },
+   "cj_i18n_00409": {
+      "message": "Disegni"
+   },
+   "cj_i18n_00412": {
+      "message": "Finanza"
+   },
+   "cj_i18n_00414": {
+      "message": "Voli"
+   },
+   "cj_i18n_00418": {
+      "message": "Gruppi"
+   },
+   "cj_i18n_00427": {
+      "message": "Brevetti"
+   },
+   "cj_i18n_00429": {
+      "message": "Foto"
+   },
+   "cj_i18n_00431": {
+      "message": "Play Musica"
+   },
+   "cj_i18n_00434": {
+      "message": "Ricerca"
+   },
+   "cj_i18n_00439": {
+      "message": "Eventi"
+   },
+   "cj_i18n_00440": {
+      "message": "Traduttore"
+   },
+   "cj_i18n_00458": {
+      "message": "Arte e Cultura "
+   },
+   "cj_i18n_00460": {
+      "message": "Libri"
+   },
+   "cj_i18n_00464": {
+      "message": "Estensioni"
+   },
+   "cj_i18n_00465": {
+      "message": "Temi"
+   },
+   "cj_i18n_00484": {
+      "message": "Eventi"
+   },
+   "cj_i18n_00488": {
+      "message": "Immagini"
+   },
+   "cj_i18n_00492": {
+      "message": "Marte"
+   },
+   "cj_i18n_00494": {
+      "message": "Luna"
+   },
+   "cj_i18n_00496": {
+      "message": "Archivio notizie"
+   },
+   "cj_i18n_00501": {
+      "message": "Cielo"
+   },
+   "cj_i18n_00505": {
+      "message": "Toolkit"
+   },
+   "cj_i18n_00509": {
+      "message": "Video"
+   },
+   "cj_i18n_00640": {
+      "message": "Momenti storici"
+   },
+   "cj_i18n_00641": {
+      "message": "Progetti"
+   },
+   "cj_i18n_00674": {
+      "message": "Ruoli admin"
+   },
+   "cj_i18n_00694": {
+      "message": "Arte e Cultura - Cervantes"
+   },
+   "cj_i18n_00745": {
+      "message": "Impostazioni pubblicità"
+   },
+   "cj_i18n_00807": {
+      "message": "La mia libreria"
+   },
+   "cj_i18n_00821": {
+      "message": "Archivio"
+   },
+   "cj_i18n_00854": {
+      "message": "Sviluppatori Android"
+   },
+   "cj_i18n_01019": {
+      "message": "Profilo"
+   },
+   "cj_i18n_01095": {
+      "message": "Pubblicità"
+   },
+   "cj_i18n_01154": {
+      "message": "Pagamenti"
+   },
+   "cj_i18n_01161": {
+      "message": "Anteprima"
+   },
+   "cj_i18n_01164": {
+      "message": "Rimuovi dal menu"
+   },
+   "cj_i18n_01174": {
+      "message": "Caricamento"
+   },
+   "cj_i18n_01176": {
+      "message": "Prova di nuovo"
+   },
+   "cj_i18n_01177": {
+      "message": "Sei offline, per favore collegati ad una rete"
+   },
+   "cj_i18n_01178": {
+      "message": "Continua"
+   },
+   "cj_i18n_01181": {
+      "message": "Ultimi 28 giorni"
+   },
+   "cj_i18n_01183": {
+      "message": "I tuoi blog"
+   },
+   "cj_i18n_01185": {
+      "message": "Statistiche"
+   },
+   "cj_i18n_01186": {
+      "message": "Commenti"
+   },
+   "cj_i18n_01188": {
+      "message": "Pagine"
+   },
+   "cj_i18n_01190": {
+      "message": "Tema"
+   },
+   "cj_i18n_01293": {
+      "message": "Progetti"
+   },
+   "cj_i18n_01294": {
+      "message": "Scripts"
+   },
+   "cj_i18n_01296": {
+      "message": "I miei progetti"
+   },
+   "cj_i18n_01297": {
+      "message": "Tutti i progetti"
+   },
+   "cj_i18n_01342": {
+      "message": "Oggetti non trovati"
+   },
+   "cj_i18n_01351": {
+      "message": "Scopri altro"
+   },
+   "cj_i18n_01360": {
+      "message": "Condividi"
+   },
+   "cj_i18n_01363": {
+      "message": "Salva"
+   },
+   "cj_i18n_01386": {
+      "message": "Protezioni"
+   },
+   "cj_i18n_01387": {
+      "message": "Ordini"
+   },
+   "cj_i18n_01394": {
+      "message": "Valori chiave"
+   },
+   "cj_i18n_01396": {
+      "message": "Esclusioni"
+   },
+   "cj_i18n_01398": {
+      "message": "Impostazioni di rete"
+   },
+   "cj_i18n_01401": {
+      "message": "Preferenze"
+   },
+   "cj_i18n_01402": {
+      "message": "Opportunità"
+   },
+   "cj_i18n_01404": {
+      "message": "Impostazioni globali"
+   },
+   "cj_i18n_01405": {
+      "message": "Accesso ed autorizzazioni"
+   },
+   "cj_i18n_01407": {
+      "message": "Inventario"
+   },
+   "cj_i18n_01411": {
+      "message": "Cambia cronologia"
+   },
+   "cj_i18n_01416": {
+      "message": "Applicazioni"
+   },
+   "cj_i18n_01423": {
+      "message": "Libreria condivisa"
+   },
+   "cj_i18n_01431": {
+      "message": "Regole"
+   },
+   "cj_i18n_01433": {
+      "message": "Caricamenti"
+   },
+   "cj_i18n_01436": {
+      "message": "Fatturazione e pagamenti"
+   },
+   "cj_i18n_01438": {
+      "message": "Accesso all'account"
+   },
+   "cj_i18n_01439": {
+      "message": "Account collegati"
+   },
+   "cj_i18n_01440": {
+      "message": "Preferenze"
+   },
+   "cj_i18n_01525": {
+      "message": "Fatturazione"
+   },
+   "cj_i18n_01545": {
+      "message": "Apri in una nuova scheda"
+   },
+   "cj_i18n_01546": {
+      "message": "Apri in un nuovo pannello"
+   },
+   "cj_i18n_01557": {
+      "message": "Per usare questa applicazione, fai il login con l'account Google"
+   },
+   "cj_i18n_01562": {
+      "message": "Altro"
+   },
+   "cj_i18n_01563": {
+      "message": "Elimina"
+   },
+   "cj_i18n_01581": {
+      "message": "Impostazioni estensione"
+   },
+   "cj_i18n_01583": {
+      "message": "Supporta e Contribuisci"
+   },
+   "cj_i18n_01585": {
+      "message": "Personalizza menu"
+   },
+   "cj_i18n_01592": {
+      "message": "Rimuovi la cache"
+   },
+   "cj_i18n_01596": {
+      "message": "Revoca tutti i permessi"
+   },
+   "cj_i18n_01605": {
+      "message": "Contribuisci alla traduzione"
+   },
+   "cj_i18n_01711": {
+      "message": "Come iniziare"
+   }
+}

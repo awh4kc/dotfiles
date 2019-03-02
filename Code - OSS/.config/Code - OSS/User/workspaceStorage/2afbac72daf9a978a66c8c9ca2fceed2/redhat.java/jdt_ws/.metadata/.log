@@ -1,0 +1,1764 @@
+!SESSION 2019-02-16 15:34:00.738 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/awh4kc/.config/Code - OSS/User/workspaceStorage/2afbac72daf9a978a66c8c9ca2fceed2/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:02.788
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:02.909
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:02.935
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:02.936
+!MESSAGE Initializing Java Language Server 0.32.0.201901311714
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:02.966
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:02.994
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:03.403
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:03.632
+!MESSAGE Workspace initialized in 684ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:03.702
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:03.705
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:03.719
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={gradle={enabled=true}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=true, showQualifiedNames=false, maxStringLength=0.0, enableHotCodeReplace=true, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true}}, dependency={showOutline=true, syncWithFolderExplorer=true, packagePresentation=flat}, test={report={position=sideView}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:03.721
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:03.886
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:04.241
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:04.511
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:04.511
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY java-debug 1 0 2019-02-16 15:34:04.525
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:04.566
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:04.566
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:04.571
+!MESSAGE Reconciled 0, validated: 1. Took 186 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:07.404
+!MESSAGE >> workspace/executeCommand vscode.java.updateDebugSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:07.473
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:08.536
+!MESSAGE >> workspace/executeCommand vscode.java.validateLaunchConfig
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:08.547
+!MESSAGE >> workspace/executeCommand vscode.java.resolveClasspath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:08.565
+!MESSAGE >> workspace/executeCommand vscode.java.startDebugSession
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:08.946
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:35.728
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:59.897
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:59.901
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:59.951
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:34:59.953
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:00.015
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:00.018
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:00.028
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:00.207
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:00.207
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:00.522
+!MESSAGE begin problem for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:00.523
+!MESSAGE 0 problems reported for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:00.537
+!MESSAGE Reconciled 0, validated: 1. Took 115 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:01.905
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:09.502
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:11.768
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:11.781
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:11.794
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:11.795
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:11.796
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.041
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.042
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.342
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.456
+!MESSAGE begin problem for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.457
+!MESSAGE 0 problems reported for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.518
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.519
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.519
+!MESSAGE Reconciled 0, validated: 2. Took 277 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:12.854
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:13.073
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:16.883
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:16.886
+!MESSAGE Clearing problems for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:17.437
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.140
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.142
+!MESSAGE Clearing problems for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.233
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.234
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.264
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.265
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.464
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.465
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.487
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.783
+!MESSAGE begin problem for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.784
+!MESSAGE 0 problems reported for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:20.785
+!MESSAGE Reconciled 0, validated: 1. Took 94 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:24.388
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:24.389
+!MESSAGE Clearing problems for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:24.403
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.187
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.189
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.222
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.222
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.436
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.437
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.440
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.721
+!MESSAGE begin problem for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.721
+!MESSAGE 0 problems reported for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:25.722
+!MESSAGE Reconciled 0, validated: 1. Took 59 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:29.786
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:33.777
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:34.481
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:36.399
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:37.678
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:45.876
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:45.877
+!MESSAGE Clearing problems for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:45.950
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:45.957
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRULinkedList.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:45.969
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:45.970
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:46.244
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:46.246
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:46.439
+!MESSAGE begin problem for /LRULinkedList.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:46.440
+!MESSAGE 0 problems reported for /LRULinkedList.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:46.440
+!MESSAGE Reconciled 0, validated: 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.010
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.012
+!MESSAGE Clearing problems for /LRULinkedList.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.104
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.105
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.117
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.118
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.331
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.331
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.573
+!MESSAGE begin problem for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.573
+!MESSAGE 0 problems reported for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:47.588
+!MESSAGE Reconciled 0, validated: 1. Took 77 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:50.490
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:50.491
+!MESSAGE Clearing problems for /LRUConstantTime.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:50.504
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.369
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.369
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.385
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.385
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.630
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.631
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.632
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.867
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.868
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:51.868
+!MESSAGE Reconciled 0, validated: 1. Took 96 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.419
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.422
+!MESSAGE Clearing problems for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.449
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.460
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/Node.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.479
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.480
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.697
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.698
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.894
+!MESSAGE begin problem for /Node.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.895
+!MESSAGE 0 problems reported for /Node.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:53.895
+!MESSAGE Reconciled 0, validated: 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:54.215
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:35:57.336
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:00.095
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:00.866
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:01.823
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:03.757
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:04.445
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:05.191
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:06.861
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:08.910
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:09.499
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:09.501
+!MESSAGE Clearing problems for /tempCodeRunnerFile.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:36:13.544
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:05.733
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:05.735
+!MESSAGE Clearing problems for /Node.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:05.756
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.403
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.405
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.424
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.425
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.619
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.620
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.620
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.895
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.895
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:10.896
+!MESSAGE Reconciled 0, validated: 1. Took 84 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:13.227
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.299
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.301
+!MESSAGE Clearing problems for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.345
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.347
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/Node.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.358
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.359
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.578
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.579
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.823
+!MESSAGE begin problem for /Node.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.823
+!MESSAGE 0 problems reported for /Node.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:20.824
+!MESSAGE Reconciled 0, validated: 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.148
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.150
+!MESSAGE Clearing problems for /Node.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.179
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.180
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.191
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.192
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.421
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.422
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.660
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.661
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:24.661
+!MESSAGE Reconciled 0, validated: 1. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:25.008
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:25.729
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:26.206
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:27.214
+!MESSAGE >> workspace/executeCommand vscode.java.validateLaunchConfig
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:27.217
+!MESSAGE >> workspace/executeCommand vscode.java.resolveClasspath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:27.232
+!MESSAGE >> workspace/executeCommand vscode.java.startDebugSession
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:27.393
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:31.573
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:31.574
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:31.612
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:38.155
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:54.731
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:56.247
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:56.931
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:37:57.503
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.238
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.240
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.269
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.270
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.467
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.468
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.515
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.787
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.787
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:32.788
+!MESSAGE Reconciled 0, validated: 1. Took 91 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:36.092
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:37.099
+!MESSAGE >> workspace/executeCommand vscode.java.validateLaunchConfig
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:37.103
+!MESSAGE >> workspace/executeCommand vscode.java.resolveClasspath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:37.106
+!MESSAGE >> workspace/executeCommand vscode.java.startDebugSession
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:37.805
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:43.524
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:43.526
+!MESSAGE Clearing problems for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:38:43.627
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.424
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.425
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.441
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.441
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.705
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.706
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.707
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.960
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.960
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:01.961
+!MESSAGE Reconciled 0, validated: 1. Took 80 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:05.348
+!MESSAGE >> workspace/executeCommand vscode.java.updateDebugSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:05.352
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:06.359
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:06.361
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:06.364
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainClass
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:18.356
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:21.920
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:24.610
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:35.119
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:35.120
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:35.307
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:35.307
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:35.307
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:35.376
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.051
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.053
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.059
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.060
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.325
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.326
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.513
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.514
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.550
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.551
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:41.553
+!MESSAGE Reconciled 0, validated: 2. Took 93 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:43.576
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:44.583
+!MESSAGE >> workspace/executeCommand vscode.java.validateLaunchConfig
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:44.584
+!MESSAGE >> workspace/executeCommand vscode.java.resolveClasspath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:44.586
+!MESSAGE >> workspace/executeCommand vscode.java.startDebugSession
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:39:44.702
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:07.774
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:16.305
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:16.307
+!MESSAGE Clearing problems for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:16.308
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:16.309
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:16.309
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:16.464
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:16.464
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:16.466
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:17.971
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:18.331
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:25.158
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:27.043
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:27.045
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:27.162
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:27.162
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:27.650
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:32.982
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:32.982
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:33.145
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:33.145
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:36.648
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:42.003
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:43.011
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:43.017
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainClass
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:40:52.198
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:05.979
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:05.986
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LruTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.002
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.188
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.249
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.250
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.425
+!MESSAGE begin problem for /LruTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.425
+!MESSAGE 0 problems reported for /LruTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.451
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.452
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:06.452
+!MESSAGE Reconciled 0, validated: 2. Took 53 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:07.356
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:07.357
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:07.484
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:07.485
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:07.521
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:07.985
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:08.329
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:08.494
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:08.806
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:09.727
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:09.901
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:09.902
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:10.148
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:10.392
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:10.393
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:10.621
+!MESSAGE begin problem for /LruTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:10.622
+!MESSAGE 0 problems reported for /LruTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:10.644
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:10.645
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:10.645
+!MESSAGE Reconciled 0, validated: 2. Took 94 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:11.148
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:11.181
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:11.467
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:12.119
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:14.017
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:15.024
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:15.028
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainClass
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:41:20.648
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:35.518
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:52.761
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:55.707
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:56.413
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:56.927
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:56.929
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:57.059
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:57.060
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:57.070
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:42:58.712
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:43:08.178
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:43:08.179
+!MESSAGE Clearing problems for /LruTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:43:08.330
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:43:08.604
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:43:34.013
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:43:42.084
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:43:43.327
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:43:49.004
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:44.311
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:44.895
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:45.792
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:48.854
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:50.832
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:51.029
+!MESSAGE >> workspace/executeCommand vscode.java.test.runtime.classpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:53.768
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:53.770
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:53.928
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:53.929
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:53.933
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:56.274
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:56.430
+!MESSAGE >> workspace/executeCommand vscode.java.test.runtime.classpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:57.050
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:57.050
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:57.864
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:58.011
+!MESSAGE >> workspace/executeCommand vscode.java.test.runtime.classpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:58.636
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:58.636
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:59.342
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.items.all
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:44:59.475
+!MESSAGE >> workspace/executeCommand vscode.java.test.runtime.classpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:00.085
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:00.086
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:01.432
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:02.193
+!MESSAGE >> document/definition
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:05.710
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:07.802
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:39.456
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:40.360
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:47.838
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:45:51.422
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:01.895
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:01.896
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:02.099
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:02.099
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:18.617
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:18.672
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:18.672
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-16 15:46:18.691
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2019-02-24 13:46:06.343 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_202
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/awh4kc/.config/Code - OSS/User/workspaceStorage/2afbac72daf9a978a66c8c9ca2fceed2/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:08.321
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:08.422
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:08.441
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:08.442
+!MESSAGE Initializing Java Language Server 0.33.0.201902210207
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:08.460
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:08.531
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:08.581
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.013
+!MESSAGE Try to create an invisible project for the workspace /home/awh4kc/Algorithms_Spring_2019
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.013
+!MESSAGE Creating the Java project Algorithms_Spring_2019_c96aa291
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.029
+!MESSAGE Finished creating the Java project Algorithms_Spring_2019_c96aa291
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.177
+!MESSAGE Successfully created a workspace invisible project Algorithms_Spring_2019_c96aa291
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.185
+!MESSAGE Workspace initialized in 736ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.256
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.257
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.258
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.274
+!MESSAGE >>New configuration: {java={home=null, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={gradle={enabled=true}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=true, showQualifiedNames=false, maxStringLength=0.0, enableHotCodeReplace=true, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true}}, dependency={showOutline=true, syncWithFolderExplorer=true, packagePresentation=flat}, test={report={position=sideView}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.276
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.285
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:09.598
+!MESSAGE >> workspace/executeCommand java.intellicode.enable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:10.062
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:10.062
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:10.065
+!MESSAGE Reconciled 0, validated: 1. Took 303 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:10.382
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.817
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.825
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.833
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.839
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.865
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.870
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.884
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.888
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:14.893
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:15.002
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:15.004
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY java-debug 1 0 2019-02-24 13:46:15.007
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:15.371
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:15.372
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:15.438
+!MESSAGE begin problem for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:15.438
+!MESSAGE 0 problems reported for /LRUTestRunner.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:15.439
+!MESSAGE Reconciled 0, validated: 2. Took 160 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:16.369
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:17.264
+!MESSAGE >> workspace/executeCommand vscode.java.updateDebugSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:17.268
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2019-02-24 13:46:17.346
+!MESSAGE Error occured while building workspace. Details: 
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(String, int, long) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: The method fail(String) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: The method fail(String) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: Assert cannot be resolved;code: 570425394
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPublicTestCase;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertNotNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertNotNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertNull(Node) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The import junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(Node, null) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:23.955
+!MESSAGE >> workspace/executeCommand vscode.java.validateLaunchConfig
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:23.964
+!MESSAGE >> workspace/executeCommand vscode.java.resolveClasspath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:23.979
+!MESSAGE >> workspace/executeCommand vscode.java.startDebugSession
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:24.320
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:28.187
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2019-02-24 13:46:28.197
+!MESSAGE Error occured while building workspace. Details: 
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(String, int, long) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: The method fail(String) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: The method fail(String) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: Assert cannot be resolved;code: 570425394
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPublicTestCase;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertNotNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertNotNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertNull(Node) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The import junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(Node, null) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:31.548
+!MESSAGE >> workspace/executeCommand vscode.java.validateLaunchConfig
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:31.552
+!MESSAGE >> workspace/executeCommand vscode.java.resolveClasspath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:31.556
+!MESSAGE >> workspace/executeCommand vscode.java.startDebugSession
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:46:31.727
+!MESSAGE >> workspace/executeCommand vscode.java.fetchUsageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:47:30.263
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2019-02-24 13:47:30.272
+!MESSAGE Error occured while building workspace. Details: 
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(double, double, double) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: The method assertEquals(Node, Node) is undefined for the type BirdScootersTestCases;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(String, int, long) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type DraftTestRunner;code: 67108964
+message: The method fail(String) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: The method fail(String) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertTrue(String, boolean) is undefined for the type DraftTestRunnerHidden;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type AppleTestSort;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type TestCasesForNthPlaceLoser;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: Assert cannot be resolved;code: 570425394
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPrivateTests;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The method assertEquals(List<Integer>, List<Integer>) is undefined for the type twitterPublicTestCase;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(String, int, int) is undefined for the type SNTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type SNTestRunner;code: 67108964
+message: The method assertNotNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertNotNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertNull(Node) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The import junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import org.junit cannot be resolved;code: 268435846
+message: The import junit cannot be resolved;code: 268435846
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(Node, null) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: The method assertEquals(int, int) is undefined for the type LRUTestRunner;code: 67108964
+message: Test cannot be resolved to a type;code: 16777218
+message: The method assertNull(String, Node) is undefined for the type LRUTestRunner;code: 67108964
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:47:36.821
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:47:36.891
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:47:36.892
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-02-24 13:47:36.904
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

@@ -1,0 +1,28 @@
+2019/02/03-11:43:12.114 8596 Reusing MANIFEST /home/awh4kc/.config/opera/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/02/03-11:43:12.114 8596 Recovering log #390
+2019/02/03-11:43:12.115 8596 Reusing old log /home/awh4kc/.config/opera/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000390.log 
+2019/02/03-11:44:10.627 10225 Level-0 table #394: started
+2019/02/03-11:44:10.670 10225 Level-0 table #394: 14456099 bytes OK
+2019/02/03-11:44:10.674 10225 Delete type=0 #390
+2019/02/03-11:44:10.676 10225 Compacting 4@0 + 0@1 files
+2019/02/03-11:44:10.679 10225 Generated table #395@0: 19 keys, 1256 bytes
+2019/02/03-11:44:10.731 10225 Generated table #396@0: 6 keys, 14078821 bytes
+2019/02/03-11:44:10.735 10225 Generated table #397@0: 14 keys, 1969 bytes
+2019/02/03-11:44:10.735 10225 Compacted 4@0 + 0@1 files => 14082046 bytes
+2019/02/03-11:44:10.738 10225 compacted to: files[ 0 3 3 0 0 0 0 ]
+2019/02/03-11:44:10.738 10225 Delete type=2 #389
+2019/02/03-11:44:10.739 10225 Delete type=2 #391
+2019/02/03-11:44:10.740 10225 Delete type=2 #381
+2019/02/03-11:44:10.741 10225 Delete type=2 #394
+2019/02/03-11:44:10.742 10225 Expanding@1 1+1 (14078821+2459 bytes) to 2+1 (14080790+2459 bytes)
+2019/02/03-11:44:10.742 10225 Compacting 2@1 + 1@2 files
+2019/02/03-11:44:10.792 10225 Generated table #398@1: 4 keys, 14078525 bytes
+2019/02/03-11:44:10.796 10225 Generated table #399@1: 8 keys, 1805 bytes
+2019/02/03-11:44:10.796 10225 Compacted 2@1 + 1@2 files => 14080330 bytes
+2019/02/03-11:44:10.799 10225 compacted to: files[ 0 1 4 0 0 0 0 ]
+2019/02/03-11:44:10.799 10225 Delete type=2 #385
+2019/02/03-11:44:10.799 10225 Delete type=2 #396
+2019/02/03-11:44:10.801 10225 Delete type=2 #397
+2019/02/03-11:44:11.818 10225 Level-0 table #401: started
+2019/02/03-11:44:11.863 10225 Level-0 table #401: 14037621 bytes OK
+2019/02/03-11:44:11.867 10225 Delete type=0 #393

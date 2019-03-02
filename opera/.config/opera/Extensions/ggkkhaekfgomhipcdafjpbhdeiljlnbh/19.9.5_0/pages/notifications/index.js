@@ -1,0 +1,1 @@
+cjModules.define(function(){"use strict";return function(i,t){var e=cjBasics.urlParams.attach("https://notifications.google.com/"+t.wizPath+"widget/mobile",{bm_cid:"notifications",bm_xfo:t.sid,bm_wiz:t.sid,hl:cjBasics.lang.current}),s=bmElements.createElement("iframe",{src:e,solid:!0,displayLoading:!0});i.appendChild(s)}});

@@ -1,0 +1,2508 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/awh4kc/ISA-2019
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/apps.py
+> git show :app/microservices/rebu/admin.py
+> git show :app/microservices/rebu/__init__.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+fatal: no upstream configured for branch 'alex/unit_tests'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git push -u origin alex/unit_tests
+remote: 
+remote: Create a pull request for 'alex/unit_tests' on GitHub by visiting:        
+remote:      https://github.com/rashidlasker/ISA-2019/pull/new/alex/unit_tests        
+remote: 
+To github.com:rashidlasker/ISA-2019.git
+ * [new branch]      alex/unit_tests -> alex/unit_tests
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git check-ignore -z --stdin
+> git show :app/microservices/rebu/tests.py
+> git ls-tree -l HEAD -- /home/awh4kc/ISA-2019/app/microservices/rebu/tests.py
+> git show 7ce503c2dd97ba78597f6ff6e4393132753573f6
+> git show HEAD:app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :app/microservices/start-microservices.sh
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/start-microservices.sh
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+From github.com:rashidlasker/ISA-2019
+ * [new branch]      rashid/frontend-homepage -> origin/rashid/frontend-homepage
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+From github.com:rashidlasker/ISA-2019
+   1341020..5afc0e9  rashid/frontend-homepage -> origin/rashid/frontend-homepage
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git fetch
+From github.com:rashidlasker/ISA-2019
+   5afc0e9..31b9e0c  rashid/frontend-homepage -> origin/rashid/frontend-homepage
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/models.py
+> git check-ignore -z --stdin
+> git show :app/microservices/rebu/fixtures/rebu/rebu_testdata.json
+> git check-ignore -z --stdin
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/fixtures/rebu/rebu_testdata.json
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/fixtures/rebu/rebu_testdata.json
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/fixtures/rebu/rebu_testdata.json
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/microservices/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/microservices/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/settings.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/settings.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/settings.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git show :app/microservices/rebu/views.py
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/urls.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/tests.py
+> git show :app/microservices/microservices/urls.py
+> git show :app/microservices/rebu/views.py
+> git show :app/microservices/rebu/models.py
+> git show :app/microservices/rebu/tests.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse alex/unit_tests
+> git rev-parse --symbolic-full-name alex/unit_tests@{u}
+> git rev-list --left-right alex/unit_tests...refs/remotes/origin/alex/unit_tests
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/microservices/rebu/tests.py

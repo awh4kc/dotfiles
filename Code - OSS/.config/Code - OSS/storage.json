@@ -1,0 +1,49 @@
+{
+    "telemetry.machineId": "731c09b33918b51751f31916c84dc18fe161df3141a411cd86ea89f1361c6655",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/awh4kc",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/awh4kc/cs4414/pool",
+            "file:///home/awh4kc/ISA-2019",
+            "file:///home/awh4kc/plad4500/problem_set4",
+            "file:///home/awh4kc/Algorithms_Spring_2019",
+            "file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/GeometricSearch",
+            "file:///home/awh4kc/cs4414/life",
+            "file:///home/awh4kc/plad4500",
+            "file:///home/awh4kc/problem_set_three_this_is_for_you_andrew",
+            "file:///home/awh4kc/plad4500/problem_set3",
+            "file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup",
+            "file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src",
+            "file:///home/awh4kc/cpp_test",
+            "file:///home/awh4kc/Algorithms_Spring_2019_Homework",
+            "file:///home/awh4kc/cs4414/xv6",
+            "file:///home/awh4kc/cs4414/shell",
+            "file:///home/awh4kc/Algorithms_Spring_2019/Portfolio"
+        ],
+        "files2": [
+            "file:///home/awh4kc/Algorithms_Spring_2019/Portfolio/src/warmup/LRUTestRunner.java"
+        ]
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/awh4kc/cs4414/pool",
+                "external": "file:///home/awh4kc/cs4414/pool",
+                "path": "/home/awh4kc/cs4414/pool",
+                "scheme": "file"
+            },
+            "backupPath": "/home/awh4kc/.config/Code - OSS/Backups/46f1e448db8c0e3f2999373dccc8ed77",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1056
+            }
+        }
+    }
+}

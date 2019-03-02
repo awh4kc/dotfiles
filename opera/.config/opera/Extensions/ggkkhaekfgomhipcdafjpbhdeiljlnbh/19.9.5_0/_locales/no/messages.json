@@ -1,0 +1,314 @@
+{
+  "cj_i18n_00000": {
+    "message": "Den enkleste tilgangen til Googleuniverset"
+  }, 
+  "cj_i18n_00302": {
+    "message": "Kalender"
+  }, 
+  "cj_i18n_00004": {
+    "message": "Markert"
+  }, 
+  "cj_i18n_00005": {
+    "message": "Søppel"
+  }, 
+  "cj_i18n_01405": {
+    "message": "Tilgang & autorisering"
+  }, 
+  "cj_i18n_00484": {
+    "message": "Arrangementer"
+  }, 
+  "cj_i18n_00176": {
+    "message": "Desember"
+  }, 
+  "cj_i18n_01407": {
+    "message": "Inventar"
+  }, 
+  "cj_i18n_00488": {
+    "message": "Bilder"
+  }, 
+  "cj_i18n_00244": {
+    "message": "Domener"
+  }, 
+  "cj_i18n_00246": {
+    "message": "Enhetsbehandling"
+  }, 
+  "cj_i18n_00247": {
+    "message": "Støtte"
+  }, 
+  "cj_i18n_00086": {
+    "message": "Søk i en ny fane"
+  }, 
+  "cj_i18n_00241": {
+    "message": "Apper"
+  }, 
+  "cj_i18n_00242": {
+    "message": "Rapporter"
+  }, 
+  "cj_i18n_00085": {
+    "message": "Søk"
+  }, 
+  "cj_i18n_01428": {
+    "message": "Forhåndsvisning og Diagnoseverktøy for annonser"
+  }, 
+  "cj_i18n_00248": {
+    "message": "Grupper"
+  }, 
+  "cj_i18n_00249": {
+    "message": "Firmaprofil"
+  }, 
+  "cj_i18n_01402": {
+    "message": "Muligheter"
+  }, 
+  "cj_i18n_01426": {
+    "message": "Rapporter"
+  }, 
+  "cj_i18n_00337": {
+    "message": "Registrer deg"
+  }, 
+  "cj_i18n_00234": {
+    "message": "Endre konto"
+  }, 
+  "cj_i18n_00238": {
+    "message": "Du må bruke en G Suite-konto for å bruke Google Admin"
+  }, 
+  "cj_i18n_00431": {
+    "message": "Play Musikk"
+  }, 
+  "cj_i18n_00434": {
+    "message": "Søk"
+  }, 
+  "cj_i18n_01412": {
+    "message": "Levering"
+  }, 
+  "cj_i18n_01351": {
+    "message": "Mere informasjon"
+  }, 
+  "cj_i18n_00106": {
+    "message": "Bytt visning"
+  }, 
+  "cj_i18n_00425": {
+    "message": "Nyheter"
+  }, 
+  "cj_i18n_00427": {
+    "message": "Patenter"
+  }, 
+  "cj_i18n_00224": {
+    "message": "Gi tilgang"
+  }, 
+  "cj_i18n_00429": {
+    "message": "Bilder"
+  }, 
+  "cj_i18n_00296": {
+    "message": "Varsler"
+  }, 
+  "cj_i18n_00295": {
+    "message": "Folk"
+  }, 
+  "cj_i18n_00294": {
+    "message": "Profil"
+  }, 
+  "cj_i18n_00293": {
+    "message": "Grupper"
+  }, 
+  "cj_i18n_00292": {
+    "message": "Samlinger"
+  }, 
+  "cj_i18n_00291": {
+    "message": "Hjem"
+  }, 
+  "cj_i18n_00116": {
+    "message": "Prøv et synonym eller et mer generelt søkeord"
+  }, 
+  "cj_i18n_00112": {
+    "message": "Nettsteder"
+  }, 
+  "cj_i18n_00298": {
+    "message": "Innstillinger"
+  }, 
+  "cj_i18n_01342": {
+    "message": "Ingen objekter funnet"
+  }, 
+  "cj_i18n_00509": {
+    "message": "Videoer"
+  }, 
+  "cj_i18n_00821": {
+    "message": "Arkiv"
+  }, 
+  "cj_i18n_01406": {
+    "message": "Levering"
+  }, 
+  "cj_i18n_00169": {
+    "message": "Mai"
+  }, 
+  "cj_i18n_00165": {
+    "message": "Januar"
+  }, 
+  "cj_i18n_00167": {
+    "message": "Mars"
+  }, 
+  "cj_i18n_00166": {
+    "message": "Februar"
+  }, 
+  "cj_i18n_00046": {
+    "message": "Vennligst skriv inn et søk"
+  }, 
+  "cj_i18n_01508": {
+    "message": "Logget ut"
+  }, 
+  "cj_i18n_01507": {
+    "message": "Logg ut"
+  }, 
+  "cj_i18n_00440": {
+    "message": "Oversetter"
+  }, 
+  "cj_i18n_00441": {
+    "message": "Søketrender"
+  }, 
+  "cj_i18n_00616": {
+    "message": "Arkiv"
+  }, 
+  "cj_i18n_00240": {
+    "message": "Brukere"
+  }, 
+  "cj_i18n_00361": {
+    "message": "Legg til konto"
+  }, 
+  "cj_i18n_01176": {
+    "message": "Prøv igjen"
+  }, 
+  "cj_i18n_01079": {
+    "message": "Målgruppeoversikt"
+  }, 
+  "cj_i18n_01178": {
+    "message": "Fortsett"
+  }, 
+  "cj_i18n_00084": {
+    "message": "Åpne tjeneste i en ny fane"
+  }, 
+  "cj_i18n_00243": {
+    "message": "Datamigrering"
+  }, 
+  "cj_i18n_01174": {
+    "message": "Laster"
+  }, 
+  "cj_i18n_01081": {
+    "message": "Delt budsjett"
+  }, 
+  "cj_i18n_01080": {
+    "message": "Negative søkeordlister"
+  }, 
+  "cj_i18n_00170": {
+    "message": "Juni"
+  }, 
+  "cj_i18n_00171": {
+    "message": "Juli"
+  }, 
+  "cj_i18n_01360": {
+    "message": "Del"
+  }, 
+  "cj_i18n_01177": {
+    "message": "Du er frakoblet, vennligst koble til et nettnverk"
+  }, 
+  "cj_i18n_00174": {
+    "message": "Oktober"
+  }, 
+  "cj_i18n_01167": {
+    "message": "Linker"
+  }, 
+  "cj_i18n_01164": {
+    "message": "Fjern fra meny"
+  }, 
+  "cj_i18n_01163": {
+    "message": "Bytt produkter"
+  }, 
+  "cj_i18n_01161": {
+    "message": "Forhåndsvisning"
+  }, 
+  "cj_i18n_00460": {
+    "message": "Bøker"
+  }, 
+  "cj_i18n_01391": {
+    "message": "Leveringsverktøy"
+  }, 
+  "cj_i18n_01404": {
+    "message": "Globale innstillinger"
+  }, 
+  "cj_i18n_01393": {
+    "message": "Mobilapper"
+  }, 
+  "cj_i18n_01392": {
+    "message": "Annonseenheter"
+  }, 
+  "cj_i18n_01401": {
+    "message": "Instillinger"
+  }, 
+  "cj_i18n_01394": {
+    "message": "Nøkkelverdier"
+  }, 
+  "cj_i18n_01403": {
+    "message": "Eksperimenter"
+  }, 
+  "cj_i18n_01396": {
+    "message": "Utelukkelser"
+  }, 
+  "cj_i18n_01398": {
+    "message": "Nettverksinnstillinger"
+  }, 
+  "cj_i18n_01409": {
+    "message": "Firmaer"
+  }, 
+  "cj_i18n_01387": {
+    "message": "Bestillinger"
+  }, 
+  "cj_i18n_00097": {
+    "message": "Slipp her for å fjerne"
+  }, 
+  "cj_i18n_00414": {
+    "message": "Flyvninger"
+  }, 
+  "cj_i18n_00390": {
+    "message": "Disk"
+  }, 
+  "cj_i18n_00391": {
+    "message": "Dokumenter"
+  }, 
+  "cj_i18n_00251": {
+    "message": "Fakturering"
+  }, 
+  "cj_i18n_01418": {
+    "message": "Kampanjer"
+  }, 
+  "cj_i18n_01416": {
+    "message": "Apper"
+  }, 
+  "cj_i18n_01417": {
+    "message": "Megling"
+  }, 
+  "cj_i18n_01414": {
+    "message": "Rapporter"
+  }, 
+  "cj_i18n_01386": {
+    "message": "Beskyttelser"
+  }, 
+  "cj_i18n_00418": {
+    "message": "Grupper"
+  }, 
+  "cj_i18n_00314": {
+    "message": "Kontakter"
+  }, 
+  "cj_i18n_01411": {
+    "message": "Endre historie"
+  }, 
+  "cj_i18n_00252": {
+    "message": "Roller"
+  }, 
+  "cj_i18n_01388": {
+    "message": "Linjeposter"
+  }, 
+  "cj_i18n_00250": {
+    "message": "Sikkerhet"
+  }, 
+  "cj_i18n_01410": {
+    "message": "EU-brukerens samtykke"
+  }
+}

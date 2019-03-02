@@ -1,0 +1,36 @@
+[2019-02-19 22:59:57.381] [exthost] [info] extension host started
+[2019-02-19 22:59:57.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-19 22:59:57.413] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-02-19 22:59:57.418] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-19 22:59:57.418] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-02-19 22:59:57.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-19 22:59:57.440] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-02-19 22:59:57.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-19 22:59:57.548] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-02-19 22:59:57.789] [exthost] [info] eager extensions activated
+[2019-02-19 23:00:17.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-02-19 23:00:17.187] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/python/out/pythonMain
+[2019-02-19 23:00:17.188] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-02-19 23:00:17.188] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/ms-python.python-2019.1.0/out/client/extension
+[2019-02-19 23:07:57.584] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"activationEvent":"onCommand:code-runner.run"}
+[2019-02-19 23:07:57.584] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/formulahendry.code-runner-0.9.7/out/src/extension
+[2019-02-20 00:19:29.379] [exthost] [info] ExtensionService#_doActivateExtension PeterJausovec.vscode-docker {"startup":false,"activationEvent":"onView:dockerExplorer"}
+[2019-02-20 00:19:29.379] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/peterjausovec.vscode-docker-0.5.2/entrypoint
+[2019-02-20 00:19:50.935] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"activationEvent":"onView:testExplorer"}
+[2019-02-20 00:19:50.935] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/redhat.java-0.38.0/dist/extension
+[2019-02-20 00:19:53.720] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"activationEvent":"onView:testExplorer"}
+[2019-02-20 00:19:53.720] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/vscjava.vscode-java-debug-0.16.0/out/src/extension
+[2019-02-20 00:19:54.053] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":false,"activationEvent":"onView:testExplorer"}
+[2019-02-20 00:19:54.053] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/vscjava.vscode-java-test-0.14.1/dist/extension
+[2019-02-20 16:58:20.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-20 16:58:20.602] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/dist/extension
+[2019-02-20 16:58:20.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-20 16:58:20.615] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/extension-editing/dist/extension
+[2019-02-20 16:58:20.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-20 16:58:20.663] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2019-02-20 16:58:20.726] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-02-20 16:58:20.726] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/npm/dist/main
+[2019-02-20 17:30:39.489] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-02-20 17:30:39.489] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2019-02-20 17:30:39.552] [exthost] [info] ExtensionService#_doActivateExtension tht13.html-preview-vscode {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-02-20 17:30:39.552] [exthost] [info] ExtensionService#loadCommonJSModule /home/awh4kc/.vscode-oss/extensions/tht13.html-preview-vscode-0.2.5/out/extension.js

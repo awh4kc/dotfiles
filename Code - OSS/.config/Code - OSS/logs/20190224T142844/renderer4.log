@@ -1,0 +1,5 @@
+[2019-02-24 14:28:47.923] [renderer4] [info] no standard startup: not just one window
+[2019-02-24 14:29:08.021] [renderer4] [error] spawn /home/awh4kc/.vscode-oss/extensions/mikhail-arkhipov.r-0.0.6/node_modules/opn/xdg-open EACCES: Error: spawn /home/awh4kc/.vscode-oss/extensions/mikhail-arkhipov.r-0.0.6/node_modules/opn/xdg-open EACCES
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:229:19)
+	at onErrorNT (internal/child_process.js:406:16)
+	at process._tickCallback (internal/process/next_tick.js:63:19)

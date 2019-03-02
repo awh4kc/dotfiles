@@ -1,0 +1,239 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module rebu.tests
+169,0,error,function-redefined:class already defined line 109
+
+-------------------------------------------------------------------
+Your code has been rated at 9.59/10 (previous run: 10.00/10, -0.41)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+169,0,error,function-redefined:class already defined line 109
+184,0,error,function-redefined:class already defined line 109
+
+------------------------------------------------------------------
+Your code has been rated at 9.24/10 (previous run: 9.59/10, -0.34)
+
+##########Linting Output - pylint##########
+************* Module rebu.tests
+169,0,error,function-redefined:class already defined line 109
+
+------------------------------------------------------------------
+Your code has been rated at 9.59/10 (previous run: 9.24/10, +0.34)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.59/10, +0.41)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.views
+10,18,error,no-member:Class 'user' has no 'objects' member
+20,18,error,no-member:Class 'user' has no 'objects' member
+47,18,error,no-member:Class 'user' has no 'objects' member
+90,18,error,no-member:Class 'cook' has no 'objects' member
+100,18,error,no-member:Class 'cook' has no 'objects' member
+104,27,error,no-member:Class 'user' has no 'objects' member
+111,18,error,no-member:Class 'cook' has no 'objects' member
+126,27,error,no-member:Class 'user' has no 'objects' member
+137,18,error,no-member:Class 'eater' has no 'objects' member
+147,18,error,no-member:Class 'eater' has no 'objects' member
+149,27,error,no-member:Class 'user' has no 'objects' member
+156,18,error,no-member:Class 'eater' has no 'objects' member
+169,27,error,no-member:Class 'user' has no 'objects' member
+180,18,error,no-member:Class 'meal' has no 'objects' member
+190,18,error,no-member:Class 'meal' has no 'objects' member
+212,27,error,no-member:Class 'cook' has no 'objects' member
+219,18,error,no-member:Class 'meal' has no 'objects' member
+252,27,error,no-member:Class 'cook' has no 'objects' member
+264,18,error,no-member:Class 'plate' has no 'objects' member
+274,18,error,no-member:Class 'plate' has no 'objects' member
+276,27,error,no-member:Class 'meal' has no 'objects' member
+278,28,error,no-member:Class 'eater' has no 'objects' member
+285,18,error,no-member:Class 'plate' has no 'objects' member
+298,27,error,no-member:Class 'meal' has no 'objects' member
+300,28,error,no-member:Class 'eater' has no 'objects' member
+312,18,error,no-member:Class 'eater_rating' has no 'objects' member
+322,18,error,no-member:Class 'eater_rating' has no 'objects' member
+328,27,error,no-member:Class 'cook' has no 'objects' member
+330,28,error,no-member:Class 'eater' has no 'objects' member
+337,18,error,no-member:Class 'eater_rating' has no 'objects' member
+354,27,error,no-member:Class 'cook' has no 'objects' member
+356,28,error,no-member:Class 'eater' has no 'objects' member
+367,18,error,no-member:Class 'review' has no 'objects' member
+377,18,error,no-member:Class 'review' has no 'objects' member
+383,28,error,no-member:Class 'eater' has no 'objects' member
+385,27,error,no-member:Class 'cook' has no 'objects' member
+387,27,error,no-member:Class 'meal' has no 'objects' member
+394,18,error,no-member:Class 'review' has no 'objects' member
+411,28,error,no-member:Class 'eater' has no 'objects' member
+413,27,error,no-member:Class 'cook' has no 'objects' member
+415,27,error,no-member:Class 'meal' has no 'objects' member
+426,24,error,no-member:Class 'meal' has no 'objects' member
+442,24,error,no-member:Class 'meal' has no 'objects' member
+
+------------------------------------------------------------------
+Your code has been rated at 4.43/10 (previous run: 4.37/10, +0.06)
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 4.43/10, +5.57)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module microservices.settings
+131,0,error,syntax-error:invalid syntax (<unknown>, line 131)
+##########Linting Output - pylint##########
+************* Module microservices.settings
+131,0,error,syntax-error:invalid syntax (<unknown>, line 131)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module rebu.views
+10,18,error,no-member:Class 'user' has no 'objects' member
+20,18,error,no-member:Class 'user' has no 'objects' member
+47,18,error,no-member:Class 'user' has no 'objects' member
+90,18,error,no-member:Class 'cook' has no 'objects' member
+100,18,error,no-member:Class 'cook' has no 'objects' member
+104,27,error,no-member:Class 'user' has no 'objects' member
+111,18,error,no-member:Class 'cook' has no 'objects' member
+126,27,error,no-member:Class 'user' has no 'objects' member
+137,18,error,no-member:Class 'eater' has no 'objects' member
+147,18,error,no-member:Class 'eater' has no 'objects' member
+149,27,error,no-member:Class 'user' has no 'objects' member
+156,18,error,no-member:Class 'eater' has no 'objects' member
+169,27,error,no-member:Class 'user' has no 'objects' member
+180,18,error,no-member:Class 'meal' has no 'objects' member
+190,18,error,no-member:Class 'meal' has no 'objects' member
+212,27,error,no-member:Class 'cook' has no 'objects' member
+219,18,error,no-member:Class 'meal' has no 'objects' member
+252,27,error,no-member:Class 'cook' has no 'objects' member
+264,18,error,no-member:Class 'plate' has no 'objects' member
+274,18,error,no-member:Class 'plate' has no 'objects' member
+276,27,error,no-member:Class 'meal' has no 'objects' member
+278,28,error,no-member:Class 'eater' has no 'objects' member
+285,18,error,no-member:Class 'plate' has no 'objects' member
+298,27,error,no-member:Class 'meal' has no 'objects' member
+300,28,error,no-member:Class 'eater' has no 'objects' member
+312,18,error,no-member:Class 'eater_rating' has no 'objects' member
+322,18,error,no-member:Class 'eater_rating' has no 'objects' member
+328,27,error,no-member:Class 'cook' has no 'objects' member
+330,28,error,no-member:Class 'eater' has no 'objects' member
+337,18,error,no-member:Class 'eater_rating' has no 'objects' member
+354,27,error,no-member:Class 'cook' has no 'objects' member
+356,28,error,no-member:Class 'eater' has no 'objects' member
+367,18,error,no-member:Class 'review' has no 'objects' member
+377,18,error,no-member:Class 'review' has no 'objects' member
+383,28,error,no-member:Class 'eater' has no 'objects' member
+385,27,error,no-member:Class 'cook' has no 'objects' member
+387,27,error,no-member:Class 'meal' has no 'objects' member
+394,18,error,no-member:Class 'review' has no 'objects' member
+411,28,error,no-member:Class 'eater' has no 'objects' member
+413,27,error,no-member:Class 'cook' has no 'objects' member
+415,27,error,no-member:Class 'meal' has no 'objects' member
+426,24,error,no-member:Class 'meal' has no 'objects' member
+442,24,error,no-member:Class 'meal' has no 'objects' member
+
+-------------------------------------------------------------------
+Your code has been rated at 4.43/10 (previous run: 10.00/10, -5.57)
+
