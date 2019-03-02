@@ -2,3 +2,8 @@ vim/.vim_mru_files
 bash/.bash_history
 vim/.vim_runtime/temp_dirs/
 Slack/.config/Slack/logs/
+Slack/.config/Slack/GPUCache/
+Slack/.config/Slack/Cache/
+Code\ -\ OSS/.config/Code\ -\ OSS/GPUCache/
+Code\ -\ OSS/.config/Code\ -\ OSS/logs/
+
