@@ -9442,3 +9442,162 @@ info: Feb-28 16:37:16.660 [API-Q] (TE6RMFGJ1) b5f21f32-1551389836.658 conversati
 info: Feb-28 16:37:16.660 [API-Q] (TE6RMFGJ1) b5f21f32-1551389836.658 conversations.mark is ACTIVE
 info: Feb-28 16:37:16.819 [API-Q] (TE6RMFGJ1) b5f21f32-1551389836.658 conversations.mark is RESOLVED
 info: Feb-28 16:37:31.216 [FOCUS-EVENT] Window blurred
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 3.3.3, linux 4.19.24-1-MANJARO on x64 at 03/02/19, 01:17:33:646      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: JQMIGRATE: Migrate is installed with logging active, version 3.0.0
+info: Mar-2 01:17:41.454 [BOOT] booted! pri:0 version:1551479858 start_ms:1551507459532 (1922ms ago)
+info: Mar-2 01:17:41.488 [BOOT] Starting incremental boot (early)
+info: Mar-2 01:17:41.490 [BOOT] Starting data fetch (early)
+info: Mar-2 01:17:41.496 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507461.493 client.boot called with reason: fetch-legacy-start-data
+info: Mar-2 01:17:41.496 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507461.493 client.boot is ENQUEUED
+info: Mar-2 01:17:41.497 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507461.493 client.boot is ACTIVE
+warn: Mar-2 01:17:41.606 error getActiveModelOb found no ob
+warn: Mar-2 01:17:41.607 TS.boot_data.channel_id: undefined
+warn: Mar-2 01:17:41.607 TS.boot_data.im_id: undefined
+warn: Mar-2 01:17:41.607 TS.boot_data.group_id: undefined
+warn: Mar-2 01:17:41.607 error getActiveModelOb found no ob
+warn: Mar-2 01:17:41.607 TS.boot_data.channel_id: undefined
+warn: Mar-2 01:17:41.607 TS.boot_data.im_id: undefined
+warn: Mar-2 01:17:41.607 TS.boot_data.group_id: undefined
+info: Mar-2 01:17:41.862 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507461.493 client.boot is RESOLVED
+info: Mar-2 01:17:41.883 [SOCKET-MANAGER] (TE6RMFGJ1) Changing from never_connected to prov_connect
+info: Mar-2 01:17:41.883 [SOCKET-MANAGER] (TE6RMFGJ1) will stay in prov_connect state for up to 10000 ms
+info: Mar-2 01:17:41.885 [SOCKET-MANAGER] (TE6RMFGJ1) Changing from prov_connect to prov_connecting
+info: Mar-2 01:17:41.885 [SOCKET-MANAGER] (TE6RMFGJ1) will stay in prov_connecting state for up to 35000 ms
+warn: Mar-2 01:17:42.047 Desktop: 'desktop.accessibility.isAccessibilitySupportEnabled' is missing or not a function
+info: Mar-2 01:17:42.069 [FOCUS-EVENT] Window focused
+info: Mar-2 01:17:42.232 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.231 apps.actions.list called with reason: fetch-app-actions
+info: Mar-2 01:17:42.232 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.231 apps.actions.list is ENQUEUED
+info: Mar-2 01:17:42.232 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.231 apps.actions.list is ACTIVE
+info: Mar-2 01:17:42.390 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.389 apps.list called with reason: legacy_no_reason_provided
+info: Mar-2 01:17:42.390 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.389 apps.list is ENQUEUED
+info: Mar-2 01:17:42.390 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.389 apps.list is ACTIVE
+info: Mar-2 01:17:42.391 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.391 commands.list called with reason: legacy_no_reason_provided
+info: Mar-2 01:17:42.391 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.391 commands.list is ENQUEUED
+info: Mar-2 01:17:42.391 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.391 commands.list is ACTIVE
+info: Mar-2 01:17:42.392 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.392 i18n.translations.get called with reason: legacy_no_reason_provided
+info: Mar-2 01:17:42.392 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.392 i18n.translations.get is ENQUEUED
+info: Mar-2 01:17:42.393 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.392 i18n.translations.get is ACTIVE
+warn: Mar-2 01:17:42.394 updateTeamIcon was called, but missing an image to set
+info: Mar-2 01:17:42.401 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.401 emoji.list called with reason: legacy_no_reason_provided
+info: Mar-2 01:17:42.401 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.401 emoji.list is ENQUEUED
+info: Mar-2 01:17:42.401 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.401 emoji.list is ACTIVE
+info: Mar-2 01:17:42.570 [SOCKET-MANAGER] (TE6RMFGJ1) Changing from prov_connecting to prov_connected
+info: Mar-2 01:17:42.570 [SOCKET-MANAGER] (TE6RMFGJ1) will stay in prov_connected state for up to 60000 ms
+info: Mar-2 01:17:42.602 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.231 apps.actions.list is RESOLVED
+info: Mar-2 01:17:42.605 [UNKNOWN-FETCH-MANAGER] (TE6RMFGJ1) requesting TE6RMFGJ1 (1)
+info: Mar-2 01:17:42.607 [UNKNOWN-FETCH-MANAGER] (TE6RMFGJ1) received TE6RMFGJ1 (1)
+info: Mar-2 01:17:42.623 [UNKNOWN-FETCH-MANAGER] (TE6RMFGJ1) requesting CE82486CE (1)
+info: Mar-2 01:17:42.625 [UNKNOWN-FETCH-MANAGER] (TE6RMFGJ1) received CE82486CE (1)
+info: Mar-2 01:17:42.648 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.392 i18n.translations.get is RESOLVED
+info: Mar-2 01:17:42.649 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.389 apps.list is RESOLVED
+info: Mar-2 01:17:42.653 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.391 commands.list is RESOLVED
+info: Mar-2 01:17:42.655 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507462.401 emoji.list is RESOLVED
+info: Mar-2 01:17:42.769 [SWITCH-TO-CHANNEL] (TE6RMFGJ1) Switching to CE82486CE at end
+info: 2019/3/2 01:17:42.772  channelDisplaySwitched CE82486CE
+info: Mar-2 01:17:42.775 [BOOT] Finalizing incremental boot
+info: Mar-2 01:17:42.777 [METRICS] Starting timers for metrics collection
+info: _rebuildAllButMsgsForReal
+info: 2019/3/2 01:17:42.784  TS.client.channel_header.start CE82486CE
+info: Mar-2 01:17:43.037 [BOOT] Completed incremental boot
+info: Mar-2 01:17:43.038 [UNREAD-COUNTS] (TE6RMFGJ1) Counting unreads in CE82486CE because (7) timestamps added
+info: Mar-2 01:17:43.039 [UNREAD-COUNTS] (TE6RMFGJ1) Checking unreads in CE82486CE after a new message
+info: Mar-2 01:17:43.040 [CHECK-UNREADS] (TE6RMFGJ1) Not marking CE82486CE, clearing ghost last_read
+warn: Mar-2 01:17:43.045 updateTeamIcon was called, but missing an image to set
+info: _rebuildAllButMsgsForReal
+info: 2019/3/2 01:17:43.136  TS.client.channel_header.start CE82486CE
+info: Mar-2 01:17:43.156 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Mar-2 01:17:43.157 [SOCKET-MANAGER] (TE6RMFGJ1) Changing from prov_connected to prov_finalize
+info: Mar-2 01:17:43.157 [SOCKET-MANAGER] (TE6RMFGJ1) will stay in prov_finalize state for up to 10000 ms
+info: Mar-2 01:17:43.157 [SOCKET-MANAGER] (TE6RMFGJ1) Changing from prov_finalize to prov_finalizing
+info: Mar-2 01:17:43.157 [SOCKET-MANAGER] (TE6RMFGJ1) will stay in prov_finalizing state for up to 10000 ms
+info: Mar-2 01:17:43.158 [SOCKET-MANAGER] (TE6RMFGJ1) Changing from prov_finalizing to connected
+info: Mar-2 01:17:43.158 [SOCKET-MANAGER] (TE6RMFGJ1) will stay in connected state for up to Infinity ms
+info: Mar-2 01:17:43.158 [SOCKET-MANAGER] (TE6RMFGJ1) Connected to primary region
+info: Mar-2 01:17:43.159 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Mar-2 01:17:43.162 [BOOT] Finished first boot 1287 ms after DOM ready
+info: Mar-2 01:17:43.173 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.173 help.issues.list called with reason: legacy_no_reason_provided
+info: Mar-2 01:17:43.173 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.173 help.issues.list is ENQUEUED
+info: Mar-2 01:17:43.174 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.173 help.issues.list is ACTIVE
+info: Mar-2 01:17:43.176 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.176 dnd.teamInfo called with reason: legacy_no_reason_provided
+info: Mar-2 01:17:43.176 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.176 dnd.teamInfo is ENQUEUED
+info: Mar-2 01:17:43.177 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.176 dnd.teamInfo is ACTIVE
+info: Mar-2 01:17:43.179 [INFO] MSConnected: 
+info: Mar-2 01:17:43.205 [MESSAGE-HISTORY] (TE6RMFGJ1) Resetting reachedEnd
+info: Mar-2 01:17:43.206 [UNREAD-COUNTS] (TE6RMFGJ1) Fetching counts
+info: Mar-2 01:17:43.206 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.206 users.counts called with reason: users-counts-api/fetchUsersCounts
+info: Mar-2 01:17:43.206 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.206 users.counts is ENQUEUED
+info: Mar-2 01:17:43.207 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.206 users.counts is ACTIVE
+info: Mar-2 01:17:43.219 [INFO] Team pref "display_email_addresses" -> true
+info: Mar-2 01:17:43.220 [INFO] display_email_addresses check: pref enabled, but 0 email fields found in TS.model.members.
+info: Mar-2 01:17:43.240 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.240 promo.banner called with reason: fetch-active-message-pane-banner
+info: Mar-2 01:17:43.240 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.240 promo.banner is ENQUEUED
+info: Mar-2 01:17:43.240 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.240 promo.banner is ACTIVE
+info: Mar-2 01:17:43.398 [MESSAGE-LIST] (TE6RMFGJ1) requestAround channelId: CE82486CE isLoading: false timestamps: 3 reachedStart: false reachedEnd: null
+info: Mar-2 01:17:43.399 [HISTORY-FETCH] (TE6RMFGJ1) Fetching history for message pane: CE82486CE oldest: 1548793761.000200 latest: 1542570767.000200
+info: Mar-2 01:17:43.400 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.399 conversations.history called with reason: message-pane/requestHistory
+info: Mar-2 01:17:43.400 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.399 conversations.history is ENQUEUED
+info: Mar-2 01:17:43.400 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.399 conversations.history is ACTIVE
+info: Mar-2 01:17:43.401 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.401 conversations.history called with reason: message-pane/requestHistory
+info: Mar-2 01:17:43.401 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.401 conversations.history is ENQUEUED
+info: Mar-2 01:17:43.402 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.401 conversations.history is ACTIVE
+info: Mar-2 01:17:43.409 [MESSAGE-LIST] (TE6RMFGJ1) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 3
+info: Mar-2 01:17:43.411 [MESSAGE-LIST] (TE6RMFGJ1) requestAround channelId: CE82486CE isLoading: false timestamps: 3 reachedStart: false reachedEnd: null
+info: Mar-2 01:17:43.413 [MESSAGE-LIST] (TE6RMFGJ1) requestAround channelId: CE82486CE isLoading: false timestamps: 3 reachedStart: false reachedEnd: null
+info: Mar-2 01:17:43.474 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.474 apps.displayGdrivePrompt called with reason: initializeGdrivePromptData
+info: Mar-2 01:17:43.474 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.474 apps.displayGdrivePrompt is ENQUEUED
+info: Mar-2 01:17:43.475 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.474 apps.displayGdrivePrompt is ACTIVE
+info: Mar-2 01:17:43.509 [UNKNOWN-FETCH-MANAGER] (TE6RMFGJ1) requesting USLACKBOT,UE6GV1TV1,UE6KUDHBL,UE6KUUPQS,UE6ESPVL4,UEC9E9FPU,UFTTSE606 (1)
+info: Mar-2 01:17:43.513 [CHECK-UNREADS] (TE6RMFGJ1) Checking unreads after fully booted
+info: Mar-2 01:17:43.514 [CHECK-UNREADS] (TE6RMFGJ1) Not marking CE82486CE, clearing ghost last_read
+info: Mar-2 01:17:43.516 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.173 help.issues.list is RESOLVED
+info: Mar-2 01:17:43.518 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.176 dnd.teamInfo is RESOLVED
+info: Mar-2 01:17:43.521 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.206 users.counts is RESOLVED
+info: Mar-2 01:17:43.524 [COUNTS] (TE6RMFGJ1) Applying counts to channels
+info: Mar-2 01:17:43.532 [COUNTS] (TE6RMFGJ1) Threads has_unreads:false mention_count:0
+info: Mar-2 01:17:43.535 [COUNTS] (TE6RMFGJ1) Completed counts processing
+info: Mar-2 01:17:43.540 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.240 promo.banner is RESOLVED
+info: Mar-2 01:17:43.541 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.399 conversations.history is RESOLVED
+info: Mar-2 01:17:43.543 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.401 conversations.history is RESOLVED
+error: Mar-2 01:17:43.548 (TE6RMFGJ1) Error in messageDeleted: no deleted_ts
+info: Mar-2 01:17:43.549 [UNREAD-COUNTS] (TE6RMFGJ1) Counting unreads in CE82486CE because (2) timestamps added
+info: Mar-2 01:17:43.550 [UNREAD-COUNTS] (TE6RMFGJ1) Checking unreads in CE82486CE after a new message
+info: Mar-2 01:17:43.550 [CHECK-UNREADS] (TE6RMFGJ1) Not marking CE82486CE because last_read >= latest && channel is read
+info: Mar-2 01:17:43.722 [CHECK-UNREADS] (TE6RMFGJ1) unreadLineVisible updated: false -> true
+info: Mar-2 01:17:43.759 [PERF] (TE6RMFGJ1) First meaningful paint: 9697ms
+info: Mar-2 01:17:43.765 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.474 apps.displayGdrivePrompt is RESOLVED
+info: Mar-2 01:17:43.822 [UNKNOWN-FETCH-MANAGER] (TE6RMFGJ1) received USLACKBOT,UE6GV1TV1,UE6KUDHBL,UE6KUUPQS,UE6ESPVL4,UEC9E9FPU,UFTTSE606 (1)
+info: Mar-2 01:17:43.875 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.875 dnd.teamInfo called with reason: legacy_no_reason_provided
+info: Mar-2 01:17:43.875 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.875 dnd.teamInfo is ENQUEUED
+info: Mar-2 01:17:43.876 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.875 dnd.teamInfo is ACTIVE
+info: Mar-2 01:17:44.162 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507463.875 dnd.teamInfo is RESOLVED
+info: Mar-2 01:17:44.167 [CHECK-UNREADS] (TE6RMFGJ1) Checking unreads after unread line became visible
+info: Mar-2 01:17:44.168 [CHECK-UNREADS] (TE6RMFGJ1) Not marking CE82486CE because last_read >= latest && channel is read
+info: Mar-2 01:17:45.210 [FOCUS-EVENT] Window blurred
+info: 2019/3/2 01:17:48.725  TS.client.channel_header.start CE82486CE
+info: Mar-2 01:18:10.658 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{"session_load_count_client|count":[1],"sm_flow_connect_prov_10|count":[1],"prq_time_to_visible|timing":[8461.845],"sm_flow_connected_prov_connected|count":[1],"ufm_teams_fetch|count":[1],"ufm_channels_fetch|count":[1],"client_content_visible_4|timing":[9003.265],"sm_flow_finalize_prov_10|count":[1],"sm_flow_primary_connected_10|count":[1],"sm_flow_finalize_prov_ok_10|count":[1],"client_load|timing":[4257.92],"client_load_react_msgs|timing":[4257.995],"client_total_load|timing":[9409.42],"pt_fetchStart|timing":[5],"pt_domainLookupStart|timing":[12],"pt_domainLookupEnd|timing":[62],"pt_connectStart|timing":[62],"pt_connectEnd|timing":[107],"pt_secureConnectionStart|timing":[78],"pt_requestStart|timing":[107],"pt_responseStart|timing":[255],"pt_responseEnd|timing":[270],"pt_domLoading|timing":[258],"pt_domComplete|timing":[8093],"pt_domContentLoadedEventStart|timing":[8046],"pt_domContentLoadedEventEnd|timing":[8083],"pt_domInteractive|timing":[8040],"pt_section_app_cache|timing":[7],"pt_section_dns|timing":[50],"pt_section_tcp|timing":[45],"pt_section_secure_tcp|timing":[29],"pt_section_request|timing":[148],"pt_section_response|timing":[15],"pt_section_processed|timing":[7835],"pt_section_parsed|timing":[7782],"pt_section_ready|timing":[53],"pt_section_scripts_executed|timing":[37],"inline_script_nodes|count":[22],"inline_style_nodes|count":[5],"external_script_nodes|count":[10],"external_link_nodes|count":[8],"presence_manager|count":[1,7,7],"prq_time_to_usable|timing":[9480.485],"ufm_members_fetch|count":[7]}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{"ttfmp_legacy|timing":[9697]}}]
+info: Mar-2 01:18:34.972 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507514.970 channels.suggestions called with reason: legacy_no_reason_provided
+info: Mar-2 01:18:34.972 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507514.970 channels.suggestions is ENQUEUED
+info: Mar-2 01:18:34.973 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507514.970 channels.suggestions is ACTIVE
+info: Mar-2 01:18:35.056 [API-Q] (TE6RMFGJ1) 97bd12ac-1551507514.970 channels.suggestions is RESOLVED
+info: Mar-2 01:18:38.537 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:18:40.807 [FOCUS-EVENT] Window focused
+info: Mar-2 01:18:40.870 [CHECK-UNREADS] (TE6RMFGJ1) Checking unreads after window became focused
+info: Mar-2 01:18:40.871 [CHECK-UNREADS] (TE6RMFGJ1) Not marking CE82486CE because last_read >= latest && channel is read
+info: Mar-2 01:18:42.061 [FOCUS-EVENT] Window blurred
+info: Mar-2 01:19:06.417 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:19:34.297 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:20:02.177 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:20:30.057 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:20:57.937 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:21:25.817 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:21:53.697 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:22:21.577 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:22:49.457 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:23:06.099 [FOCUS-EVENT] Window focused
+info: Mar-2 01:23:06.110 [FOCUS-EVENT] Window blurred
+info: Mar-2 01:23:06.156 [CHECK-UNREADS] (TE6RMFGJ1) Checking unreads after window became focused
+info: Mar-2 01:23:06.156 [CHECK-UNREADS] (TE6RMFGJ1) Not marking CE82486CE because attention not on chat (window_not_focused)
+info: Mar-2 01:23:17.337 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]
+info: Mar-2 01:23:45.217 [TIMING-BEACON] [{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","enterpriseId":"","teamSize":1,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":false,"shouldLogSSBMemoryStats":false,"recordedMetrics":{}},{"userId":"UE6ERJTUL","teamId":"TE6RMFGJ1","teamSize":null,"versionTs":"1551479858","endpointUrl":"https://slack.com/beacon/timing","shouldLogDomNodeCount":null,"shouldLogSSBMemoryStats":null,"recordedMetrics":{}}]

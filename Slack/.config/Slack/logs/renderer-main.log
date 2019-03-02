@@ -43758,3 +43758,113 @@
 [02/28/19, 16:37:31:255] info: Store: REMOVE_WINDOW 2
 [02/28/19, 16:37:31:300] info: Store: QUIT_APP
 [02/28/19, 16:37:31:309] info: Store: QUIT_APP
+[03/02/19, 01:17:38:087] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[03/02/19, 01:17:38:088] info: ║      Slack 3.3.3, linux 4.19.24-1-MANJARO on x64 at 03/02/19, 01:17:38:084      ║
+[03/02/19, 01:17:38:088] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[03/02/19, 01:17:38:238] info: Initializing local storage instance at path: /home/awh4kc/.config/Slack/local-settings.json
+[03/02/19, 01:17:38:415] info: NetworkStatus: Waiting for network online…
+[03/02/19, 01:17:38:801] info: Don't start background client because TE6RMFGJ1 is selected team
+[03/02/19, 01:17:38:855] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/02/19, 01:17:38:869] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[03/02/19, 01:17:38:957] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "T09RRDKPZ",
+  "token": "xoxs-⋯"
+}
+[03/02/19, 01:17:39:031] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "T1ZBDCSPP",
+  "token": "xoxs-⋯"
+}
+[03/02/19, 01:17:39:035] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/02/19, 01:17:39:219] info: BackgroundClient: Logged in
+{
+  "userId": "UFCNL106L",
+  "teamId": "T09RRDKPZ",
+  "showBullet": true
+}
+[03/02/19, 01:17:39:261] info: BackgroundClient: Logged in
+{
+  "userId": "U59PQ1A83",
+  "teamId": "T1ZBDCSPP",
+  "showBullet": true
+}
+[03/02/19, 01:17:39:271] info: Store: SET_NETWORK_STATUS online
+[03/02/19, 01:17:41:856] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:41:859] info: Store: MAIN_WINDOW_SHOWN
+[03/02/19, 01:17:41:866] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:41:869] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:41:870] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:42:009] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:42:772] info: Store: SELECT_CHANNEL CE82486CE
+[03/02/19, 01:17:42:776] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:42:782] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[03/02/19, 01:17:42:788] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "TE6RMFGJ1",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[03/02/19, 01:17:42:866] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    27
+  ],
+  "size": [
+    1920,
+    1026
+  ]
+}
+[03/02/19, 01:17:43:157] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:43:168] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:43:172] info: Store: UPDATE_SETTINGS
+{
+  "sandboxSigninWindow": true
+}
+[03/02/19, 01:17:43:507] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:45:206] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:18:33:526] info: Store: FOREGROUND_APP
+[03/02/19, 01:18:40:814] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:18:42:063] info: Store: SET_FULL_SCREEN

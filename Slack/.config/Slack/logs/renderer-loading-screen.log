@@ -712,3 +712,30 @@
 [02/28/19, 16:37:08:182] info: Store: SET_FULL_SCREEN
 [02/28/19, 16:37:08:183] info: Store: SET_FULL_SCREEN
 [02/28/19, 16:37:08:184] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:38:122] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[03/02/19, 01:17:38:123] info: ║      Slack 3.3.3, linux 4.19.24-1-MANJARO on x64 at 03/02/19, 01:17:38:119      ║
+[03/02/19, 01:17:38:123] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[03/02/19, 01:17:38:214] info: Initializing local storage instance at path: /home/awh4kc/.config/Slack/local-settings.json
+[03/02/19, 01:17:38:791] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/02/19, 01:17:38:956] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "T09RRDKPZ",
+  "token": "xoxs-⋯"
+}
+[03/02/19, 01:17:39:040] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "T1ZBDCSPP",
+  "token": "xoxs-⋯"
+}
+[03/02/19, 01:17:39:040] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/02/19, 01:17:39:271] info: Store: SET_NETWORK_STATUS online
+[03/02/19, 01:17:41:856] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:41:859] info: Store: MAIN_WINDOW_SHOWN
+[03/02/19, 01:17:41:866] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:41:867] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:41:868] info: Store: SET_FULL_SCREEN

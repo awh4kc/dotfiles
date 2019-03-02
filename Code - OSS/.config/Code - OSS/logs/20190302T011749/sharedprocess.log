@@ -1,0 +1,17 @@
+[2019-03-02 01:17:52.833] [sharedprocess] [info] main {"machineId":"731c09b33918b51751f31916c84dc18fe161df3141a411cd86ea89f1361c6655"}
+[2019-03-02 01:17:52.937] [sharedprocess] [info] Scanned user extensions: 17
+[2019-03-02 01:17:52.952] [sharedprocess] [info] Scanned user extensions: 17
+[2019-03-02 01:17:52.980] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-02 01:17:52.988] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-02 01:17:53.028] [sharedprocess] [info] Deleted from disk ms-python.python /home/awh4kc/.vscode-oss/extensions/ms-python.python-2019.2.5416
+[2019-03-02 01:17:53.028] [sharedprocess] [info] Deleted from disk ms-python.python /home/awh4kc/.vscode-oss/extensions/ms-python.python-2019.1.0
+[2019-03-02 01:17:53.396] [sharedprocess] [info] Scanned user extensions: 17
+[2019-03-02 01:17:54.193] [sharedprocess] [info] Installing extension: redhat.java
+[2019-03-02 01:17:54.210] [sharedprocess] [info] Scanned user extensions: 17
+[2019-03-02 01:17:55.886] [sharedprocess] [info] Downloaded extension: redhat.java /tmp/1cb98e6f-486e-4664-af43-3637306d4f39
+[2019-03-02 01:17:56.422] [sharedprocess] [info] Extracted extension to /home/awh4kc/.vscode-oss/extensions/.redhat.java-0.40.0: redhat.java
+[2019-03-02 01:17:56.422] [sharedprocess] [info] Renamed to /home/awh4kc/.vscode-oss/extensions/redhat.java-0.40.0
+[2019-03-02 01:17:56.423] [sharedprocess] [info] Installation completed. redhat.java
+[2019-03-02 01:17:56.438] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2019-03-02 01:18:32.845] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-02 01:22:53.455] [sharedprocess] [info] Scanned user extensions: 17

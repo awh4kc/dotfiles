@@ -50265,3 +50265,150 @@
 [02/28/19, 16:37:31:255] info: Store: REMOVE_WINDOW 2
 [02/28/19, 16:37:31:300] info: Store: QUIT_APP
 [02/28/19, 16:37:31:309] info: Store: QUIT_APP
+[03/02/19, 01:17:38:118] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[03/02/19, 01:17:38:119] info: ║      Slack 3.3.3, linux 4.19.24-1-MANJARO on x64 at 03/02/19, 01:17:38:115      ║
+[03/02/19, 01:17:38:119] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[03/02/19, 01:17:38:213] info: Initializing local storage instance at path: /home/awh4kc/.config/Slack/local-settings.json
+[03/02/19, 01:17:38:558] info: cld3::loadModule: loading cld3 module
+[03/02/19, 01:17:38:581] info: cld3Loader::loadModule: running environment is NODE
+[03/02/19, 01:17:38:581] info: cld3Loader::loadModule: constructed module object for runtime
+[03/02/19, 01:17:38:725] info: cld3Loader::initializeRuntime: successfully initialized module
+[03/02/19, 01:17:38:725] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[03/02/19, 01:17:38:731] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, v2 spellchecker is not available
+[03/02/19, 01:17:38:743] info: Main window preload script finished
+{
+  "readyTime": 4509.424623
+}
+[03/02/19, 01:17:38:823] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[03/02/19, 01:17:39:141] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "T09RRDKPZ",
+  "token": "xoxs-⋯"
+}
+[03/02/19, 01:17:39:160] info: Store: START_BACKGROUND_CLIENT
+{
+  "teamId": "T1ZBDCSPP",
+  "token": "xoxs-⋯"
+}
+[03/02/19, 01:17:39:161] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[03/02/19, 01:17:39:594] info: Store: SET_NETWORK_STATUS online
+[03/02/19, 01:17:41:898] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:41:900] info: Store: MAIN_WINDOW_SHOWN
+[03/02/19, 01:17:41:904] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:41:904] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:41:904] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:17:42:011] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:42:771] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[03/02/19, 01:17:43:498] info: Store: SELECT_CHANNEL CE82486CE
+[03/02/19, 01:17:43:499] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:43:500] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[03/02/19, 01:17:43:501] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "TE6RMFGJ1",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[03/02/19, 01:17:43:502] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    0,
+    27
+  ],
+  "size": [
+    1920,
+    1026
+  ]
+}
+[03/02/19, 01:17:43:504] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:43:505] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:43:506] info: Store: UPDATE_SETTINGS
+{
+  "sandboxSigninWindow": true
+}
+[03/02/19, 01:17:43:548] error: Mar-2 01:17:43.548 (TE6RMFGJ1) Error in messageDeleted: no deleted_ts
+[03/02/19, 01:17:43:760] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "TE6RMFGJ1"
+}
+[03/02/19, 01:17:43:909] info: postLoadTaskSetup: Setup spellchecker
+{
+  "version": "V2"
+}
+[03/02/19, 01:17:43:920] info: loadAsmModule: loading hunspell-asm module
+[03/02/19, 01:17:44:130] info: loadAsmModule: asm module loaded successfully
+[03/02/19, 01:17:44:130] info: SpellChecker: Starting spellchecker with language detector
+[03/02/19, 01:17:44:130] info: SpellChecker::enableSpellCheckerLanguageDetector: enable spellchecker language detector
+[03/02/19, 01:17:44:131] info: SpellChecker::startWithDictionary: Starting language detector with English by default
+[03/02/19, 01:17:44:223] info: SpellChecker::spellgetLanguageRegionCode: found region supported language
+{
+  "code": "en"
+}
+[03/02/19, 01:17:44:223] warn: SpellChecker::getLanguageRegionCode: navigator does not contain available region, return default value
+{
+  "code": "en-us"
+}
+[03/02/19, 01:17:44:223] info: download: downloading dictionary for 'en-us'
+[03/02/19, 01:17:44:223] info: fetchResourceAsBuffer: downloading
+{
+  "filePath": "https://spellcheck.slack-edge.com/dictionaries/en-us/1/en-us.aff",
+  "cachePolicy": "default"
+}
+[03/02/19, 01:17:44:226] info: fetchResourceAsBuffer: downloading
+{
+  "filePath": "https://spellcheck.slack-edge.com/dictionaries/en-us/1/en-us.dic",
+  "cachePolicy": "default"
+}
+[03/02/19, 01:17:44:230] info: dictionaryDownloader: verifying hash
+[03/02/19, 01:17:44:264] info: SpellChecker::downloadDictionary: Dictionary is ready for 
+{
+  "language": "en"
+}
+[03/02/19, 01:17:44:307] info: assignSpellchecker: spellCheckerTable added new checker for 'en'
+[03/02/19, 01:17:44:314] info: SpellChecker::prepareDictionary: Dictionary buffer for 'en' is loaded into spellchecker
+[03/02/19, 01:17:44:314] info: switchDictionary: switching dictionary to check spell from 'null' to 'en'
+[03/02/19, 01:17:44:315] info: SpellChecker::switchDictionary: SpellChecker enabled for language
+{
+  "language": "en"
+}
+[03/02/19, 01:17:45:282] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:18:33:526] info: Store: FOREGROUND_APP
+[03/02/19, 01:18:40:873] info: Store: SET_FULL_SCREEN
+[03/02/19, 01:18:42:108] info: Store: SET_FULL_SCREEN
