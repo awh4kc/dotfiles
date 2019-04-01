@@ -1,6 +1,5 @@
 {
     "files.autoSave": "afterDelay",
-    "terminal.external.linuxExec": "urxvt",
     "files.exclude": {
         "**/.classpath": true,
         "**/.project": true,
@@ -13,5 +12,11 @@
     },
     "[r]": {
         
-    }
+    },
+    "python.jediEnabled": false,
+    "terminal.external.linuxExec": "urxvt",
+    "r.rpath.lsp": "~/R/x86_64-pc-linux-gnu-library/3.5/languageserver",
+    "r.linting.enable": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }

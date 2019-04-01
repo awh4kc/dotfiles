@@ -1,4 +1,4 @@
-// Xudbodss/mIftXfSOFfPdOMsR4KA7iWlMYk4LBARv+0gcacCrlGZ34PRIN9HtJTbGFVjicDnRdaD+mpxRR5VaYKVj36f4LKRxWI+HbzRobbh2QkVb49hqnJNtZVjcxkkD2ibT5YS2Q2A9vcyd+1y+tFQoLIh21wyQXKJKW9nj79M6MQkpcc4wi8uxn5v4F/NQrSVDWs11W2/TqpZDPm10SpIALeRleHdf5ufO5ghhnKjOO4Znl9BFJ7KOE8PoUJUe4LovKuhNob1ajYkgKTgs3CaMMkZ7jlEZzk3AN13Gzt7V/3vm553R/6CPf+E056FRra5NhlbSnLabxgRDRWGnw==
+// doAQ5OPfIDPaCzn1lqaq2F3xnkqhXax8IO+CZtkHhgFyCevOGb3XEcu3555GOXEvutUQX7wGytKhSOO2Xtv5HqtaNaTZS3sBjWjo3KdS2ZLJRnpZnSxUSZz2Dh2chEI3gIS6LoW4YQODfJGavfdyBnlP0dODNztHfDn0b00nXWCNeRq8HfMApN6sbgHPCZqDqQSQveLwsY9oqXNFJxtuWQIzHHDXWZdXanb/4KKfESt8duAJqheovEHTc4OBxdVKWytSs7vfLOFRFvc2YIz1Pzhc9gwvmGvp4wdme1xERzHHgABxFSSu/s541drBTcLvhRW2Lje53qko0bQVMHhrtw==
 {
   "@encoding": "UTF-8",
   "@version": "1.0",
@@ -17,6 +17,26 @@
     },
     "@clean_all": "1",
     "host": [
+      {
+        "@name": "skype.com",
+        "section": {
+          "@name": "User Agent",
+          "pref": {
+            "@value": "35",
+            "@name": "Spoof UserAgent ID"
+          }
+        }
+      },
+      {
+        "@name": "monday.com",
+        "section": {
+          "@name": "User Agent",
+          "pref": {
+            "@value": "35",
+            "@name": "Spoof UserAgent ID"
+          }
+        }
+      },
       {
         "@name": "hangouts.google.com",
         "section": {
@@ -146,7 +166,7 @@
             "@name": "Spoof UserAgent ID"
           }
         }
-      },     
+      },
       {
         "@name": "isbank.com.tr",
         "section": {

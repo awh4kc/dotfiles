@@ -1,11 +1,15 @@
-set runtimepath+=~/.vim_runtime
+set nocompatible
+set backspace=indent,eol,start
+syntax on
+filetype plugin indent on
+set number
+set shiftwidth=4
+set softtabstop=4
+set autoindent
+colorscheme delek
+set nobackup
+set expandtab
+set showmode
+set showcmd
+set incsearch
 
-source ~/.vim_runtime/vimrcs/basic.vim
-source ~/.vim_runtime/vimrcs/filetypes.vim
-source ~/.vim_runtime/vimrcs/plugins_config.vim
-source ~/.vim_runtime/vimrcs/extended.vim
-
-try
-source ~/.vim_runtime/my_configs.vim
-catch
-endtry

@@ -21,6 +21,46 @@
 			<location>/home/awh4kc/Algorithms_Spring_2019/Portfolio/src/Main.java</location>
 		</link>
 		<link>
+			<name>src/BackTracking/Cryptarithms.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019/Portfolio/src/BackTracking/Cryptarithms.java</location>
+		</link>
+		<link>
+			<name>src/BackTracking/CryptarithmsTest.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019/Portfolio/src/BackTracking/CryptarithmsTest.java</location>
+		</link>
+		<link>
+			<name>src/BackTracking/Permutations.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019/Portfolio/src/BackTracking/Permutations.java</location>
+		</link>
+		<link>
+			<name>src/strongComponents/CalculateStrongComponents.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019/Portfolio/src/strongComponents/CalculateStrongComponents.java</location>
+		</link>
+		<link>
+			<name>src/strongComponents/DDRRobot.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019/Portfolio/src/strongComponents/DDRRobot.java</location>
+		</link>
+		<link>
+			<name>src/strongComponents/DDRRobotTests.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019/Portfolio/src/strongComponents/DDRRobotTests.java</location>
+		</link>
+		<link>
+			<name>src/strongComponents/DepthFirstOrder.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019/Portfolio/src/strongComponents/DepthFirstOrder.java</location>
+		</link>
+		<link>
+			<name>src/strongComponents/Digraph.java</name>
+			<type>1</type>
+			<location>//home/awh4kc/Algorithms_Spring_2019/Portfolio/src/strongComponents/Digraph.java</location>
+		</link>
+		<link>
 			<name>src/unionFind/SpyNetwork.java</name>
 			<type>1</type>
 			<location>/home/awh4kc/Algorithms_Spring_2019/Portfolio/src/unionFind/SpyNetwork.java</location>

@@ -1,1 +1,0 @@
-!function(){"use strict";if("https://get.google.com"===window.location.origin&&window.location.pathname.indexOf("/albumarchive/")===-1&&window.top!==window){var e="undefined"!=typeof chrome&&chrome.runtime?chrome:"undefined"!=typeof browser&&browser;e.runtime.getURL("PATH").replace("/PATH","");window.addEventListener("DOMContentLoaded",function(){})}}();

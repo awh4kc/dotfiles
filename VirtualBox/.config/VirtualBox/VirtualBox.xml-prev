@@ -10,7 +10,7 @@
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=solus"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="56,434,960,540"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="426,345,960,540"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/home/awh4kc/Documents/misc"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/home/awh4kc/Documents/misc/Solus-3.9999-Budgie.iso,/home/awh4kc/Downloads/kubuntu-18.04.1-desktop-amd64.iso,/home/awh4kc/Downloads/Windows.iso"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="320,639"/>
@@ -18,8 +18,8 @@
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Toolbar/MachineTools/Order" value="Details"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="8"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-02-10, stable, 6.0.2"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="9"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-03-27, stable, 6.0.4"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPAddress" value="192.168.56.1"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPNetMask" value="255.255.255.0"/>
     </ExtraData>
