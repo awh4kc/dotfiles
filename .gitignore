@@ -31,3 +31,4 @@ Mailspring/.config/Mailspring/Cache/*
 *.db-shm
 *.db-wal
 *.log.*
+Mailspring/.config/Mailspring/*
