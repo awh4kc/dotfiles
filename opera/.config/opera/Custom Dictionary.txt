@@ -1,3 +1,0 @@
-Cybersecurity
-cybersecurity
-checksum_v1 = f45cad2d21d274a67fe45d85db3f2be3

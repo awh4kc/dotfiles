@@ -1,6 +1,6 @@
 # GIMP gimp-vector-tool options
 
-(brush "Clipboard Image")
+(brush "2. Block 01")
 (dynamics "Dynamics Off")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")

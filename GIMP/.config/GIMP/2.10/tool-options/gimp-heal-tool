@@ -1,9 +1,10 @@
 # GIMP gimp-heal-tool options
 
-(brush "Clipboard Image")
+(brush "2. Block 01")
 (dynamics "Dynamics Off")
 (palette "Color History")
-(brush-size 1024.000000)
-(brush-spacing 0.200000)
+(brush-size 51.000000)
+(brush-aspect-ratio 3.157895)
+(brush-hardness 0.950000)
 
 # end of gimp-heal-tool options

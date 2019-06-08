@@ -10,37 +10,37 @@
     <tag>round</tag>
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-image" checksum="c3ac55d11994230c929dc6c2c80c633f">
+  <resource identifier="gimp-brush-clipboard-image" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-mask" checksum="1c66039c95db18a200d3356b4c7709ad">
+  <resource identifier="gimp-brush-clipboard-mask" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="b22c1fec1056f979b1d17e4cc80e9112">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="c84494b4a904a7c1a3548e564b073ca3">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-01.vbr" checksum="0c11d7446cf257c986434b8037b53c10">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-01.vbr" checksum="11dc53930c1fb124f5502d3e2dba4c8e">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-02.vbr" checksum="a6ab0bd0159ddcde4405e9cf0d3a07fc">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-02.vbr" checksum="23b547a4b3ac156c4efba20bbb91a662">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-03.vbr" checksum="496ee7e87ff7fa78888717784a4fc6b0">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Block-03.vbr" checksum="678860176ea362c2d3db787b8b0710fa">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-025.vbr" checksum="0e82572c8b71c4155e7364d66bc0ffce">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-025.vbr" checksum="24f599a94c72395b1733a8cf64bf4527">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-050.vbr" checksum="1203f10747c787a9345529a4b5150a5e">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-050.vbr" checksum="22550538bb856626930902cb0c398f74">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-075.vbr" checksum="eaf8d3adf6df55c97dd30aee0a1bba22">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-075.vbr" checksum="c196ef1b139d8f2744e6519c7a220cf1">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-100.vbr" checksum="c67eef177816d6ef25cc790cb54ab9e3">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Hardness-100.vbr" checksum="22b8f688f7cd7d6139c56dfc33b14bfd">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Basic/Star.vbr" checksum="9f799f34788daa90ffb9cf981226a120">
+  <resource identifier="${gimp_data_dir}/brushes/Basic/Star.vbr" checksum="fdd1163d5fdf7371df2dd7896e79231a">
   </resource>
 
   <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-01.gih" checksum="9ec0779f4c84fb3d0844bcdb069c8e0a">
@@ -772,7 +772,7 @@
   <resource identifier="${mypaint_brushes_dir}/ramon/wet_round.myb" checksum="038abfe33947692f773e0244d2ac7fc1">
   </resource>
 
-  <resource identifier="gimp-pattern-clipboard-image" checksum="cdb4d3459f9f5452814ddd1fdfd01ab2">
+  <resource identifier="gimp-pattern-clipboard-image" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
   </resource>
 
   <resource identifier="${gimp_data_dir}/patterns/Legacy/3dgreen.pat" checksum="00052731f14a5bc614daece969b368bc">
@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="1714967b663d876988a13ff78e97f9ad">
+  <resource identifier="gimp-palette-color-history" checksum="66ae23d8fc6d78d56233616b3a590606">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1303,6 +1303,24 @@
   <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="f02e8dfa23d01d6acfbab7f895c2dd16">
   </resource>
 
+  <resource identifier="3270Medium Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="3270Medium Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="3270Narrow Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="3270Narrow Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="3270SemiNarrow Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="3270SemiNarrow Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
   <resource identifier="Akaash Medium" checksum="(null)">
   </resource>
 
@@ -1330,6 +1348,45 @@
   <resource identifier="AkrutiTml2 Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="all-the-icons" checksum="(null)">
+  </resource>
+
+  <resource identifier="Anonymice Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Anonymice Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="AurulentSansMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="AurulentSansMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
   <resource identifier="Bitstream Vera Sans" checksum="(null)">
   </resource>
 
@@ -1346,6 +1403,30 @@
   </resource>
 
   <resource identifier="Bitstream Vera Sans Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="BitstreamVeraSansMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="BitstreamVeraSansMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="BitstreamVeraSansMono Nerd Font Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="BitstreamVeraSansMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="BitstreamVeraSansMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="BitstreamVeraSansMono Nerd Font Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="BitstreamVeraSansMono Nerd Font Mono Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="BitstreamVeraSansMono Nerd Font Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="Bitstream Vera Sans Mono Oblique" checksum="(null)">
@@ -1387,6 +1468,48 @@
   <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="CodeNewRoman Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="CodeNewRoman Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="CodeNewRoman Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="CodeNewRoman Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="CodeNewRoman Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="CodeNewRoman Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="D050000L" checksum="(null)">
   </resource>
 
@@ -1415,6 +1538,30 @@
   </resource>
 
   <resource identifier="DejaVu Sans Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansMono Nerd Font Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansMono Nerd Font Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansMono Nerd Font Mono Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansMono Nerd Font Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="DejaVu Sans Mono Oblique" checksum="(null)">
@@ -1510,6 +1657,15 @@
   <resource identifier="Droid Sans Mono" checksum="(null)">
   </resource>
 
+  <resource identifier="Droid Sans Mono for Powerline Plus Nerd File Types Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="DroidSansMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="DroidSansMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
   <resource identifier="Droid Sans Tamil" checksum="(null)">
   </resource>
 
@@ -1561,19 +1717,271 @@
   <resource identifier="Estrangelo TurAbdin" checksum="(null)">
   </resource>
 
+  <resource identifier="FantasqueSansMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="FantasqueSansMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FantasqueSansMono Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FantasqueSansMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FantasqueSansMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="FantasqueSansMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FantasqueSansMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FantasqueSansMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="file-icons" checksum="(null)">
+  </resource>
+
   <resource identifier="FontAwesome" checksum="(null)">
+  </resource>
+
+  <resource identifier="Font Awesome 5 Brands" checksum="(null)">
+  </resource>
+
+  <resource identifier="Font Awesome 5 Free" checksum="(null)">
+  </resource>
+
+  <resource identifier="Font Awesome 5 Free Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font Mono weight=453" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraCode Nerd Font weight=453" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraMono Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FuraMono Nerd Font Mono Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Gargi-1.2b Medium Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="github-octicons" checksum="(null)">
+  </resource>
+
   <resource identifier="Goha-Tibeb Zemen Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="GohuFont Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="GohuFont Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoMono Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoMono Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoMono Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoMono Nerd Font Semi-Bold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="GurbaniBoliLite Medium Ultra-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="GurbaniBoliLite weight=101 Ultra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hasklug Nerd Font Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="HeavyData Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="HeavyData Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hurmit Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hurmit Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hurmit Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hurmit Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hurmit Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hurmit Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="icomoon" checksum="(null)">
   </resource>
 
   <resource identifier="Icons" checksum="(null)">
@@ -1583,6 +1991,318 @@
   </resource>
 
   <resource identifier="Inconsolata Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataGo Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataGo Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataGo Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataGo Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataLGC Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataLGC Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataLGC Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataLGC Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataLGC Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataLGC Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataLGC Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="InconsolataLGC Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Inconsolata Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Heavy Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Heavy Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Thin Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Thin Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Ultra-Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Ultra-Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lekton Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lekton Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lekton Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lekton Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lekton Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lekton Nerd Font Mono Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Liberation Mono" checksum="(null)">
@@ -1624,10 +2344,124 @@
   <resource identifier="Likhan Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="LiterationMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="LiterationMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
   <resource identifier="malayalam" checksum="(null)">
   </resource>
 
   <resource identifier="MalOtf" checksum="(null)">
+  </resource>
+
+  <resource identifier="Material Icons" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGLDZ Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGLDZ Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGL Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGL Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGMDZ Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGMDZ Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGM Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGM Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGSDZ Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGSDZ Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGS Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="MesloLGS Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="monofur" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monofurbold Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monofurbold Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monofuritalic Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monofuritalic Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monofur Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monofur Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Mono Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Mono Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Mono Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Mono Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="mononoki Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="mononoki Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mononoki Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="mononoki Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="mononoki Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="mononoki Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mononoki Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="mononoki Nerd Font Mono Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Monospace" checksum="(null)">
@@ -1640,6 +2474,267 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="mplus Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="MT Extra" checksum="(null)">
   </resource>
 
   <resource identifier="Mukti Narrow" checksum="(null)">
@@ -1699,10 +2794,22 @@
   <resource identifier="Nimbus Sans Narrow Semi-Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="NotoEmoji Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoEmoji Nerd Font Mono" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Kufi Arabic" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Kufi Arabic Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoMono Nerd Font Mono" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Music" checksum="(null)">
@@ -1999,6 +3106,438 @@
   <resource identifier="Noto Sans Display Medium Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="NotoSansDisplay Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Mono Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansDisplay Nerd Font Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Display Thin" checksum="(null)">
   </resource>
 
@@ -2128,6 +3667,9 @@
   <resource identifier="Noto Sans Javanese" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Javanese Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Kaithi" checksum="(null)">
   </resource>
 
@@ -2207,6 +3749,9 @@
   </resource>
 
   <resource identifier="Noto Sans Khmer UI Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Khojki" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Khudawadi" checksum="(null)">
@@ -2323,6 +3868,9 @@
   <resource identifier="Noto Sans Marchen" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Math" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Medium" checksum="(null)">
   </resource>
 
@@ -2360,6 +3908,222 @@
   </resource>
 
   <resource identifier="Noto Sans Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Mono Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSansMono Nerd Font Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Mono Thin" checksum="(null)">
@@ -2408,6 +4172,414 @@
   </resource>
 
   <resource identifier="Noto Sans Nabataean" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Mono Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSans Nerd Font Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Newa" checksum="(null)">
@@ -2569,19 +4741,10 @@
   <resource identifier="Noto Sans Syriac" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Syriac Eastern" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Syriac Estrangela" checksum="(null)">
-  </resource>
-
   <resource identifier="Noto Sans Syriac Heavy" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Syriac Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Syriac Western" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Tagalog" checksum="(null)">
@@ -2654,6 +4817,18 @@
   </resource>
 
   <resource identifier="Noto Sans Thaana Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thaana Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thaana Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thaana Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thaana Thin" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Thai" checksum="(null)">
@@ -2795,6 +4970,432 @@
   </resource>
 
   <resource identifier="Noto Serif Display Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Mono Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerifDisplay Nerd Font Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Display Thin" checksum="(null)">
@@ -2992,6 +5593,438 @@
   <resource identifier="Noto Serif Myanmar Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="NotoSerif Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Mono Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="NotoSerif Nerd Font Ultra-Light Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Sinhala" checksum="(null)">
   </resource>
 
@@ -3094,7 +6127,184 @@
   <resource identifier="Noto Serif Tibetan Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="octicons Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicAlta Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicAlta Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicAlta Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicAlta Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicAlta Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicAlta Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicAlta Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicAlta Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexicMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexic Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexic Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexic Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexic Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexic Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexic Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexic Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="OpenDyslexic Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="orya Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="OverpassMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="OverpassMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="OverpassMono Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="OverpassMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="OverpassMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="OverpassMono Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="OverpassMono Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="OverpassMono Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Overpass Nerd Font Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="P052" checksum="(null)">
@@ -3115,7 +6325,103 @@
   <resource identifier="padmaa Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Pomodoro" checksum="(null)">
+  </resource>
+
   <resource identifier="Pothana2000" checksum="(null)">
+  </resource>
+
+  <resource identifier="PowerlineSymbols Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProFontIIx Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProFontIIx Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProFontWindows Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProFontWindows Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProggyCleanTTCE Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProggyCleanTTCE Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProggyCleanTT Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProggyCleanTT Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProggyCleanTTSZ Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="ProggyCleanTTSZ Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono weight=255" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font Mono weight=255 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font weight=255" checksum="(null)">
+  </resource>
+
+  <resource identifier="RobotoMono Nerd Font weight=255 Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Sagar Medium" checksum="(null)">
@@ -3134,6 +6440,84 @@
   </resource>
 
   <resource identifier="Sans-serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="SauceCodePro Nerd Font Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Serif" checksum="(null)">
@@ -3184,7 +6568,133 @@
   <resource identifier="Serto Urhoy Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="ShureTechMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="ShureTechMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Pro Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SpaceMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="SpaceMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="SpaceMono Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SpaceMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SpaceMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="SpaceMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="SpaceMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SpaceMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Standard Symbols PS" checksum="(null)">
+  </resource>
+
+  <resource identifier="Symbol" checksum="(null)">
+  </resource>
+
+  <resource identifier="Symbols Nerd Font" checksum="(null)">
   </resource>
 
   <resource identifier="TAMu_Kadambri" checksum="(null)">
@@ -3220,6 +6730,30 @@
   <resource identifier="TerminessTTF Nerd Font Mono Medium Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Tinos Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="TSCu_Comic" checksum="(null)">
   </resource>
 
@@ -3233,6 +6767,84 @@
   </resource>
 
   <resource identifier="TSCu_Times" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuCondensed Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuCondensed Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Nerd Font Mono Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="URW Bookman Light" checksum="(null)">
@@ -3257,6 +6869,27 @@
   </resource>
 
   <resource identifier="URW Gothic Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Weather Icons" checksum="(null)">
+  </resource>
+
+  <resource identifier="Webdings" checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings" checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings 2," checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings 3," checksum="(null)">
+  </resource>
+
+  <resource identifier="xos4 Terminus" checksum="(null)">
+  </resource>
+
+  <resource identifier="xos4 Terminus Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Z003 Medium Italic" checksum="(null)">

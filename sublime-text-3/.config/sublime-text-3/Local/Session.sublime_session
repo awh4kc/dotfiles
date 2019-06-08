@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/home/awh4kc/plad4500/text_examples",
+		"/home/awh4kc/Algorithms_Spring_2019/Portfolio/src/Tries",
 		"/home/awh4kc/help",
 		"/home/awh4kc/plad4500/problem_set6",
 		"/home/awh4kc/Downloads/roadtrip",
@@ -24,8 +26,8 @@
 		"/home/awh4kc/cs4414/xv6-nogit",
 		"/home/awh4kc/cs4501/app/project1"
 	],
-	"last_version": 3200,
-	"last_window_id": 59,
+	"last_version": 3207,
+	"last_window_id": 61,
 	"log_indexing": false,
 	"settings":
 	{
@@ -382,6 +384,11 @@
 			},
 			"file_history":
 			[
+				"/home/awh4kc/Algorithms_Spring_2019/Portfolio/src/Tries/OptimizedTST.java",
+				"/home/awh4kc/help/TestRunner2.java",
+				"/home/awh4kc/help/TestRunner.java",
+				"/home/awh4kc/help/TestRunner3.java",
+				"/home/awh4kc/help/TestRunner3..java",
 				"/home/awh4kc/plad4500/problem_set6/problem_set6.Rmd",
 				"/home/awh4kc/help/TestRunner.",
 				"/home/awh4kc/plad4500/problem_set6/problem_set6_group.Rmd",
@@ -504,12 +511,7 @@
 				"/home/awh4kc/cs4414/xv6/bio.c",
 				"/home/awh4kc/cs4414/xv6/bio.d",
 				"/home/awh4kc/cs4414/xv6/bio.o",
-				"/home/awh4kc/cs4414/xv6/bootasm.d",
-				"/home/awh4kc/cs4414/xv6/bootasm.o",
-				"/home/awh4kc/cs4414/xv6/bootasm.S",
-				"/home/awh4kc/cs4414/xv6/bootblock",
-				"/home/awh4kc/cs4414/xv6/bootblock.asm",
-				"/home/awh4kc/cs4414/xv6/bootblock.o"
+				"/home/awh4kc/cs4414/xv6/bootasm.d"
 			],
 			"find":
 			{
@@ -919,27 +921,30 @@
 			"buffers":
 			[
 				{
-					"file": "/home/awh4kc/help/TestRunner.java",
+					"file": "/home/awh4kc/plad4500/text_examples/constdata.R",
 					"settings":
 					{
-						"buffer_size": 191,
+						"buffer_size": 1178,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/awh4kc/help/TestRunner2.java",
+					"file": "/home/awh4kc/plad4500/text_examples/hobbit.R",
 					"settings":
 					{
-						"buffer_size": 191,
+						"buffer_size": 979,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "library(tidyverse)\nlibrary(tidytext)\nlibrary(scales)\n\nconst <- read_csv(\"const.csv\")\n\n#United States\nus.const <- as.character(const[140,1])\nus.const <- unlist(strsplit(us.const, \"\\n\"))\n\nus.const <- data.frame(line = 1:length(us.const), text = us.const,\n                       stringsAsFactors = FALSE)\nhead(us.const)\n\ntidy_us <- us.const %>%\n  unnest_tokens(word, text)\ntidy_us\n\ndata(stop_words)\ntidy_us <- tidy_us %>%\n  anti_join(stop_words)\n\ntidy_us %>%\n  count(word, sort = TRUE) \n\ntidy_us %>%\n  count(word, sort = TRUE) %>%\n  filter(n > 30) %>%\n  mutate(word = reorder(word, n)) %>%\n  ggplot(aes(word, n)) +\n  geom_col() +\n  xlab(NULL) +\n  coord_flip()\n\n#South Korea\nsk.const <- as.character(const[122,1])\nsk.const <- unlist(strsplit(sk.const, \"\\n\"))\n\nsk.const <- data.frame(line = 1:length(sk.const), text = sk.const,\n                       stringsAsFactors = FALSE)\nhead(sk.const)\n\ntidy_sk <- sk.const %>%\n  unnest_tokens(word, text)\ntidy_sk\n\ndata(stop_words)\ntidy_sk <- tidy_sk %>%\n  anti_join(stop_words)\n\ntidy_sk %>%\n  count(word, sort = TRUE) \n\ntidy_sk %>%\n  count(word, sort = TRUE) %>%\n  filter(n > 30) %>%\n  mutate(word = reorder(word, n)) %>%\n  ggplot(aes(word, n)) +\n  geom_col() +\n  xlab(NULL) +\n  coord_flip()\n\n#China\nch.const <- as.character(const[27,1])\nch.const <- unlist(strsplit(ch.const, \"\\n\"))\n\nch.const <- data.frame(line = 1:length(ch.const), text = ch.const,\n                       stringsAsFactors = FALSE)\nhead(ch.const)\n\ntidy_ch <- ch.const %>%\n  unnest_tokens(word, text)\ntidy_ch\n\ndata(stop_words)\ntidy_ch <- tidy_ch %>%\n  anti_join(stop_words)\n\ntidy_ch %>%\n  count(word, sort = TRUE) \n\ntidy_ch %>%\n  count(word, sort = TRUE) %>%\n  filter(n > 30) %>%\n  mutate(word = reorder(word, n)) %>%\n  ggplot(aes(word, n)) +\n  geom_col() +\n  xlab(NULL) +\n  coord_flip()\n\n# Compare the US, S. Korea, and China\n\nfrequency <- bind_rows(mutate(tidy_us, country = \"United States\"),\n                       mutate(tidy_sk, country = \"South Korea\"), \n                       mutate(tidy_ch, country = \"China\")) %>% \n  count(country, word) %>%\n  group_by(country) %>%\n  mutate(proportion = n / sum(n)) %>% \n  select(-n) %>% \n  spread(country, proportion) %>% \n  gather(country, proportion, `South Korea`:`China`)\n\n# expect a warning about rows with missing values being removed\nggplot(frequency, aes(x = proportion, y = `United States`, color = abs(`United States` - proportion))) +\n  geom_abline(color = \"gray40\", lty = 2) +\n  geom_jitter(alpha = 0.1, size = 2.5, width = 0.3, height = 0.3) +\n  geom_text(aes(label = word), check_overlap = TRUE, vjust = 1.5) +\n  scale_x_log10(labels = percent_format()) +\n  scale_y_log10(labels = percent_format()) +\n  scale_color_gradient(limits = c(0, 0.001), low = \"darkslategray4\", high = \"gray75\") +\n  facet_wrap(~country, ncol = 2) +\n  theme(legend.position=\"none\") +\n  labs(y = \"United States\", x = NULL)\n\ncor.test(data = frequency[frequency$country == \"South Korea\",],\n         ~ proportion + `United States`)\n\ncor.test(data = frequency[frequency$country == \"China\",],\n         ~ proportion + `United States`)\n",
+					"file": "/home/awh4kc/plad4500/text_examples/texttext_ch1.R",
+					"file_size": 3063,
+					"file_write_time": 132004515945133244,
+					"settings":
+					{
+						"buffer_size": 3063,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/awh4kc/help/TestRunner3.java",
-					"settings":
-					{
-						"buffer_size": 193,
 						"line_ending": "Unix"
 					}
 				}
@@ -981,10 +986,15 @@
 			},
 			"expanded_folders":
 			[
-				"/home/awh4kc/help"
+				"/home/awh4kc/plad4500/text_examples"
 			],
 			"file_history":
 			[
+				"/home/awh4kc/plad4500/text_examples/tidytext_ch2.R",
+				"/home/awh4kc/Algorithms_Spring_2019/Portfolio/src/Tries/OptimizedTST.java",
+				"/home/awh4kc/help/TestRunner2.java",
+				"/home/awh4kc/help/TestRunner.java",
+				"/home/awh4kc/help/TestRunner3.java",
 				"/home/awh4kc/help/TestRunner3..java",
 				"/home/awh4kc/plad4500/problem_set6/problem_set6.Rmd",
 				"/home/awh4kc/help/TestRunner.",
@@ -1107,16 +1117,11 @@
 				"/home/awh4kc/cs4414/xv6/asm.h",
 				"/home/awh4kc/cs4414/xv6/bio.c",
 				"/home/awh4kc/cs4414/xv6/bio.d",
-				"/home/awh4kc/cs4414/xv6/bio.o",
-				"/home/awh4kc/cs4414/xv6/bootasm.d",
-				"/home/awh4kc/cs4414/xv6/bootasm.o",
-				"/home/awh4kc/cs4414/xv6/bootasm.S",
-				"/home/awh4kc/cs4414/xv6/bootblock",
-				"/home/awh4kc/cs4414/xv6/bootblock.asm"
+				"/home/awh4kc/cs4414/xv6/bio.o"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 40.0
 			},
 			"find_in_files":
 			{
@@ -1130,6 +1135,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"frequency",
+					"sapply"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1147,7 +1154,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/awh4kc/help"
+					"path": "/home/awh4kc/plad4500/text_examples"
 				}
 			],
 			"groups":
@@ -1158,11 +1165,40 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/awh4kc/help/TestRunner.java",
+							"file": "/home/awh4kc/plad4500/text_examples/constdata.R",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 191,
+								"buffer_size": 1178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										331,
+										331
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/R/R.sublime-syntax",
+									"tab_size": 2
+								},
+								"translation.x": 0.0,
+								"translation.y": 275.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/awh4kc/plad4500/text_examples/hobbit.R",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 979,
 								"regions":
 								{
 								},
@@ -1175,35 +1211,9 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Java/Java.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/awh4kc/help/TestRunner2.java",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 191,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6,
-										6
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Java/Java.sublime-syntax"
+									"syntax": "Packages/R/R.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1214,27 +1224,29 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/home/awh4kc/help/TestRunner3.java",
+							"file": "/home/awh4kc/plad4500/text_examples/texttext_ch1.R",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 193,
+								"buffer_size": 3063,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										2856,
+										2856
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Java/Java.sublime-syntax"
+									"syntax": "Packages/R/R.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1387.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1245,7 +1257,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -1283,7 +1295,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1326,7 +1338,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 59,
+			"window_id": 61,
 			"workspace_name": ""
 		}
 	],

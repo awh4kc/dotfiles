@@ -9,24 +9,40 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=solus"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="426,345,960,540"/>
-      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/awh4kc/Documents/misc"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/awh4kc/Documents/misc/Solus-3.9999-Budgie.iso,/home/awh4kc/Downloads/kubuntu-18.04.1-desktop-amd64.iso,/home/awh4kc/Downloads/Windows.iso"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=MSEdge - Win10"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="897,306,960,540"/>
+      <ExtraDataItem name="GUI/MaxGuestResolution" value="1080,960"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/awh4kc/Documents/misc/ISO"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/awh4kc/Documents/misc/ISO/Fedora-Workstation-Live-x86_64-30-1.2.iso,/home/awh4kc/Documents/misc/ISO/manjaro-i3-18.0.4-stable-x86_64.iso,/home/awh4kc/Documents/misc/ISO/arcolinux-v19.03.3.iso,/home/awh4kc/Documents/misc/Solus-3.9999-Budgie.iso,/home/awh4kc/Downloads/kubuntu-18.04.1-desktop-amd64.iso"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="320,639"/>
       <ExtraDataItem name="GUI/Statusbar" value="false"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Toolbar/MachineTools/Order" value="Details"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="9"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-03-27, stable, 6.0.4"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="13"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-06-08, stable, 6.0.8"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPAddress" value="192.168.56.1"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPNetMask" value="255.255.255.0"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{99e668d2-22b6-4963-aa69-cd4c3baf2c4d}" src="/home/awh4kc/VirtualBox VMs/windows/windows.vbox"/>
       <MachineEntry uuid="{032117f8-b1ca-4d4a-85fd-f2a8bda7a420}" src="/home/awh4kc/VirtualBox VMs/solus/solus.vbox"/>
+      <MachineEntry uuid="{a3a61e2a-e247-4b3f-b406-1b0cbc05e2a3}" src="/home/awh4kc/VirtualBox VMs/arcolinux/arcolinux.vbox"/>
+      <MachineEntry uuid="{60e11961-b874-4262-8db0-292932eba960}" src="/home/awh4kc/VirtualBox VMs/i3/i3.vbox"/>
+      <MachineEntry uuid="{aedde1f9-effb-4c5b-be5c-3f08793c1376}" src="/home/awh4kc/VirtualBox VMs/fedora/fedora.vbox"/>
+      <MachineEntry uuid="{d1c70ee4-90b0-4314-9754-555d9c2ca0fd}" src="/home/awh4kc/VirtualBox VMs/Downloads_default_1559955479305_91111/Downloads_default_1559955479305_91111.vbox"/>
+      <MachineEntry uuid="{db15b3a9-d248-436d-bdac-77328f9a0801}" src="/home/awh4kc/VirtualBox VMs/MSEdge - Win10/MSEdge - Win10.vbox"/>
     </MachineRegistry>
+    <MediaRegistry>
+      <HardDisks>
+        <HardDisk uuid="{2d3c0252-5ee0-4ce0-9c39-c4b2d3d5f61c}" location="/home/awh4kc/VirtualBox VMs/Downloads_default_1559955479305_91111/MSEdge - Win10-disk001.vmdk" format="VMDK" type="Normal">
+          <HardDisk uuid="{5d8be68f-146f-4f0a-a7a4-17de76f8106c}" location="/home/awh4kc/VirtualBox VMs/Downloads_default_1559955479305_91111/Snapshots/{5d8be68f-146f-4f0a-a7a4-17de76f8106c}.vmdk" format="VMDK"/>
+        </HardDisk>
+        <HardDisk uuid="{63d41c2b-9efc-4654-8734-50f2aa4d6eff}" location="/home/awh4kc/VirtualBox VMs/MSEdge - Win10/MSEdge - Win10-disk001.vdi" format="vdi" type="Normal">
+          <HardDisk uuid="{c1bcbb15-04c2-4c22-a1a0-2caa2fded898}" location="/home/awh4kc/VirtualBox VMs/MSEdge - Win10/Snapshots/{c1bcbb15-04c2-4c22-a1a0-2caa2fded898}.vdi" format="vdi"/>
+        </HardDisk>
+      </HardDisks>
+    </MediaRegistry>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>
