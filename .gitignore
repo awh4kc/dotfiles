@@ -14,4 +14,4 @@ spotify/.config/spotify/Users/*
 xarchiver/*
 libreaoffice/.config/libreoffice/*
 configstore/.config/configstore/*
-
+*.log
