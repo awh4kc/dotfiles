@@ -1,3 +1,5 @@
+export TERM="xterm-256color"
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -8,8 +10,9 @@
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="powerlevel9k/powerlevel9k"
+ZSH_THEME="powerlevel10k/powerlevel9k"
 # ZSH_THEME="ys"
+# ZSH_THEME="spaceship"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -63,7 +66,7 @@ ENABLE_CORRECTION="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(gitfast archlinux)
+plugins=(gitfast archlinux common-aliases)
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir vcs)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status root_indicator background_jobs time)
@@ -71,6 +74,8 @@ POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
 POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="> "
 POWERLEVEL9K_MODE='awesome-fontconfig'
+
+# source ~/.purepower
 
 source $ZSH/oh-my-zsh.sh
 
@@ -113,6 +118,24 @@ alias knit="zsh /home/awh4kc/plad4500/knitr.sh"
 alias settings="tilix --preferences"
 alias algoslack="slack-term -config .slack-term_algo"
 alias isaslack="slack-term -config .slack-term_isa"
+alias sound="sudo alsactl restore"
+alias e="emacs -nw"
+alias aws="ssh -i \"~/Desktop/awskey.pem\" ubuntu@ec2-3-80-149-175.compute-1.amazonaws.com"
+alias spacemacs="docker run -ti --rm -v $('pwd'):/mnt/workspace \
+ -v /etc/localtime:/etc/localtime:ro \
+ -v ~/.ssh/id_rsa:${UHOME}/.ssh/id_rsa:ro \
+ -v ~/.gnupg:${UHOME}/.gnupg \
+ -v /var/run/dbus/system_bus_socket:/var/run/dbus/system_bus_socket \
+ -v /tmp/.X11-unix:/tmp/.X11-unix \
+ -v /etc/machine-id:/etc/machine-id:ro \
+ -e DISPLAY=$DISPLAY \
+ -e TZ=UA \
+ --name spacemacs jare/spacemacs"
+alias vimd='docker run -ti --rm -v $(pwd):/home/developer/workspace jare/vim-bundle'
+alias ls='lsd'
+alias la="lsd -laFh"
+alias capstoesc="xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'"
+alias capstocaps="xmodmap -e 'clear Lock' -e 'keycode 0x42 = Caps_Lock'"
 
 function pretty_csv {
     perl -pe 's/((?<=,)|(?<=^)),/ ,/g;' "$@" | column -t -s, | less  -F -S -X -K
