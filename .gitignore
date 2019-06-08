@@ -21,4 +21,5 @@ configstore/.config/configstore/*
 */GPUCache/*
 */GPUcache/*
 google-chrome/.config/google-chrome/*
-
+Mailspring/.config/Mailspring/Cache/*
+Mailspring/.config/Mailspring/Mailspring/Cache/*
