@@ -1,0 +1,40 @@
+{
+	"lockOption": -1,
+	"mainWindowSize": {
+		"width": 939,
+		"height": 1000,
+		"isMaximized": false,
+		"displayBounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1920,
+			"height": 1080
+		},
+		"x": 968,
+		"y": 40
+	},
+	"installedVersion": "1.14.0",
+	"lastActive": 1558442445030,
+	"appId": "5c410010-f398-434e-9bbd-0209d48f03be",
+	"accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkJDMzZDMjE0REI0OEYyMzVCNzdEQTNGMTcyMEMxQTM1QTk2MkVBNDMiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJ2RGJDRk50SThqVzNmYVB4Y2d3YU5hbGk2a00ifQ.eyJuYmYiOjE1NjAwMDc3NjUsImV4cCI6MTU2MDAxMTM2NSwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5iaXR3YXJkZW4uY29tIiwiYXVkIjpbImh0dHBzOi8vaWRlbnRpdHkuYml0d2FyZGVuLmNvbS9yZXNvdXJjZXMiLCJhcGkiXSwiY2xpZW50X2lkIjoiZGVza3RvcCIsInN1YiI6ImJhNjFhZThhLWRkMDItNGU1NS1hNTg5LWFhNGUwMTYwOWMzYiIsImF1dGhfdGltZSI6MTU1Nzk1NTc2MCwiaWRwIjoiYml0d2FyZGVuIiwicHJlbWl1bSI6ZmFsc2UsImVtYWlsIjoiYXdoNGtjQHZpcmdpbmlhLmVkdSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJzc3RhbXAiOiJRU1RGS1RQTklVQTNVSVczUkZVQlRHQTNHWEVFNEtBTiIsIm5hbWUiOiJhd2g0a2MiLCJkZXZpY2UiOiI1YzQxMDAxMC1mMzk4LTQzNGUtOWJiZC0wMjA5ZDQ4ZjAzYmUiLCJzY29wZSI6WyJhcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsiQXBwbGljYXRpb24iXX0.AGMojt7QyXLFtvvNOyiCTvRvMtsHspf54YxiKXAA-4CQHGpGf0vk163uOiyQjIvVMGj89LXgMmz1Svo19_xpn103qCElyxkUzR0LWkN7S_FgFTgJ8g4SlGIEukEAmoaYYKzV7NRV3RSXqqrYqHInXZr8H_u8jlPHR5UGZcgOh_OKpUOBbykXPEYObTPpIojW21ZY-V1TGU3lDylbh0DZ_26tv1YrI3zMolrJBg1b5TnKksxJAkChS345vv4sRs4dkXyOb9BLgu79Z8WoXSMvx6EhKbtEPLENgIBi_sVCfQeliaAVl9bDBGrmeMYUbkvGNeZwYSm1k7C1fkvNUNTypolntIfXux3LKFJFWDYdF8pDZh-PHpCuc8_ndbW9L69hva7-5WgK5H4R12YN1BtTE1T8vP6phm1K1hVjduXflnlXEtt2X8IayJVHbUYVXea64_AUx_j4nKQoGepT-5gqQwBFUuD6D06TkfxPSctiqSmlk8xE2VHMf96QEFyP2A897guOsc2E_yXOisxbFxE2QDMuyqr-potBSP3fu3mcg9vLSdZeOO7lOxD4dGphxeUa67KEsF_iA87c6vO-O3eCNWb7sMLuRSB-1RPX7viDTWn6F0c4AFeyDuGkVh_PLcYjDLfxgOodbv5sGxjUdRSMebF3GpnWHILDXv5ivvhKB1k",
+	"refreshToken": "4c97d050aa9a4d0399af55c41dc641521eff4c1bf540a21ce9e191990799cdc0",
+	"userEmail": "awh4kc@virginia.edu",
+	"userId": "ba61ae8a-dd02-4e55-a589-aa4e01609c3b",
+	"kdf": 0,
+	"kdfIterations": 100000,
+	"keyHash": "1Ps4JDfZjPLTN51aWu8KVutF5s+72i8YkIStwyZFADs=",
+	"encKey": "2.KOkP7FuD40LO30JMdvBcZQ==|7xRFIIYV7YrBpHT8QnMbSzb+tLrbhXuW6wkG65k9tiqIDyV/BGB7NaWUnssK6+bKVikokcXJWHM5KviNubJy+CCL5L/xj/gSgaqT4D+j014=|XphcmrsuzniBFqIVdyGEGdljNaQCm4OM7T9v35x0ydc=",
+	"encPrivateKey": "2./vvsXLzrziEGWRZk3QzTBQ==|vGeKuUAV0uMBLsyKVX5862qPMTeMftQ7t2AdYoyJJsWtwroh8e8P0FTs4gGzRBDFL0zspqY7MXJC92DWe+DcwNgUyyLGtmws/li38YJkHrWm5JKmcc5FCaVupk2a6OyHs/T3vlgP6VGdh3/iu8Ls+pVj+pwTYz2d7FVcYo84j1fWwmZukVrDvxKoFSGypXv71VGxt+PIwiIsRf24aNbWgE55ycNS74yPDOSeulAWCCckofBKUbKSUT44W8aew/ujSEsJfMKowOn3ZjLELBGrHG72Jw5r0bGa2/eBaXnmxWvgfbQsaP8hRNRfb/FoPDgxxAtxecM39KivlYQYfDooW6pahaAoGj90XsahkDN42clt4B21Vikz6YXBWG/1Ogo8N5EZ1jJXzhUyztpFm4RxYPSKx1wAG9jskzEKEk/Mu9AXy7Zl6ilOc+NKFtjZDLFoamB6VcPbYpOXQ/Lb8Rk8r/qWkxzHORBWKieBL76CagpfzRDEU/lHgpZXvLwsFO+YuLM5y5AT0O27Zkz3k4CCbF4gJQ6GytJoBjjhag8WANMEoHb6bt48UqbgurBXOcdo6tXEbrIGLrNRWxKPXlw7k0KHGIBSfuXQCJhDk1WOnltpvaPpOFOdSXCfFh1el/1Sffmc5M5Ogz3k01iMnFwwgOMcOYYesFCn0UrnyfQ3fdJn2yFki5E18M1aawZVHe2e43yuQJGuRQ4a9E+xxFzHveln6YixCbpsz48o+ofY4t6ffOVll352+AXIlBODZROZD1UyIpk2CuCssf2qSBCDl/v4ai8Uv45qkF935wMOwhoOJXh4HQEnmtkhKYzzTwpm2QnZz2Ex2uNNGhEx6dGSDpyOrfVf0FrZcgUpilGoicOnGWufPDm4kcACxaoc5KNEJlKYSN1PurOkSMbBF2Mjj9RyXMWAWqXcFU/pmR1yi2+IZVaN6BEVgGWKvIA+fHDXhHPiUQkuMQ3nb4jkXbooBayq5+qeQZFmkcjpJH3HRBPQMd2OEX4hTgTInyX+GxppgjlUO2iujBunGKKD2snSWERM8lLgAmwT3+r/4rGRY3c/ZymxTn9D2W+ylRScissnEfiJmudd0YbAwNdoqx3FNcjAPLtr6BWeW7SkLFJw034EZu5P4WjUWXV87Aekxvj6EIVVohdRKT551Mi1cHm1BKA9cIr+rOou51IrlBdefehJ8kNGga/ZRHXtZgfdz8WvmhRXKiw7BefKGYBZZESIYNHuH2zKwXAPKYkJQZkTv8snMZe35HZEuE2+GzUt1UGNYsbZX4lnBcYnIWhStnqdm0+xg1heSIEsu+62BtSe5rxZr/7JBvxrkN6FF4ucwWvFPtIi68KmqW3gWxO01lSKgiWOjgjiYxLMiCm6WEoxt3mFQNJ/2D2Hn2BthkKoMgijZ0658TMH2tJXT+OYCtewZ2SUQAydeDryid7Y0J34gVyHjcxngFOs6G6dyqiJaHFgjHBKZ0zHfapba6q561FWL/czN1dxaSxHDjI9micqoNiYTQB5CWl0zdg9xHFuu5ei5kRWrZwuBnng41vWdwXxdSDyOd7gYSs+3NRJd95yrbuv0KzUjmCqtXHm+5AqkDx7HsZJFKiflCo8gdwwaqKpN+lMhnPf7aXep7g9JAfqF6Q=|1Lmq5yIv3SUCKJrNzSBNEWzooe+CBz1+Fra7Tme4e1E=",
+	"rememberEmail": true,
+	"rememberedEmail": "awh4kc@virginia.edu",
+	"encOrgKeys": {},
+	"securityStamp": "QSTFKTPNIUA3UIW3RFUBTGA3GXEE4KAN",
+	"organizations_ba61ae8a-dd02-4e55-a589-aa4e01609c3b": {},
+	"folders_ba61ae8a-dd02-4e55-a589-aa4e01609c3b": {},
+	"collections_ba61ae8a-dd02-4e55-a589-aa4e01609c3b": {},
+	"ciphers_ba61ae8a-dd02-4e55-a589-aa4e01609c3b": {},
+	"settings_ba61ae8a-dd02-4e55-a589-aa4e01609c3b": {
+		"equivalentDomains": []
+	},
+	"lastSync_ba61ae8a-dd02-4e55-a589-aa4e01609c3b": "2019-06-08T15:28:35.408Z"
+}
