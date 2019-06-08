@@ -15,3 +15,7 @@ xarchiver/*
 libreaoffice/.config/libreoffice/*
 configstore/.config/configstore/*
 *.log
+*.bnk
+*/Cache/*
+*/cache/*
+
