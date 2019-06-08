@@ -3,6 +3,10 @@
 
 config_version: 2
 settings:
+  auto_save.session:
+    global: true
+  content.pdfjs:
+    global: true
   qt.args:
     global:
     - ppapi-widevine-path=/usr/lib/qt/plugins/ppapi/libwidevinecdmadapter.so
