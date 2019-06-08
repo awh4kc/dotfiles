@@ -28,3 +28,6 @@ Mailspring/.config/Mailspring/Mailspring/GPUCache/*
 Mailspring/.config/Mailspring/Mailspring/Local\ Storage/*
 Mailspring/.config/Mailspring/Cache/*
 *.db
+*.db-shm
+*.db-wal
+*.log.*
