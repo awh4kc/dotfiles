@@ -284,7 +284,7 @@ exec_always --no-startup-id fix_xcursor
 
 exec --no-startup-id redshift -l 41:-8 -t 5700:3600
 exec --no-startup-id mailspring
-exec_always --no-startup-id ~/dotfiles/polybar/.config/polybar/polybarlaunch.sh
+exec_always --no-startup-id ~/.dotfiles/polybar/.config/polybar/polybarlaunch.sh
 exec --no-startup-id spotify
 exec --no-startup-id code
 exec --no-startup-id slack
