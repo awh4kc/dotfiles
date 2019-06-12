@@ -27,7 +27,7 @@ font xft:Hack NF Regular 12
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+shift+Return exec terminal
+bindsym $mod+ctrl+Return exec terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -443,3 +443,4 @@ bindsym $mod+d exec "rofi -modi window,drun,run -show drun -sidebar-mode -termin
 
 bindsym $Mod+grave exec tilix --quake
 bindsym $mod+Return exec tilix
+bindsym $mod+shift+Return exec kitty
