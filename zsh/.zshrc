@@ -149,7 +149,7 @@ alias ...="cd ../.."
 alias g="git "
 alias gs="git status"
 alias ga="git add "
-alias gc='git commit -m " '
+alias gc='git commit -m "'
 alias gp="git push"
 alias gpu="git pull"
 
