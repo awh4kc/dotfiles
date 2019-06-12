@@ -144,6 +144,15 @@ alias dev="docker run -d --rm \
   --name vscode \
   awh4kc/vscode"
 
+alias ..="cd .."
+alias ...="cd ../.."
+alias g="git "
+alias gs="git status"
+alias ga="git add "
+alias gc='git commit -m " '
+alias gp="git push"
+alias gpu="git pull"
+
 function pretty_csv {
     perl -pe 's/((?<=,)|(?<=^)),/ ,/g;' "$@" | column -t -s, | less  -F -S -X -K
 }
