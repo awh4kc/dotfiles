@@ -154,3 +154,8 @@ export EDITOR=/usr/bin/vim
 export VISUAL=/usr/bin/vim
 export CLASSPATH=.:/usr/share/java/junit-4.12.jar:/usr/share/java/hamcrest-core.jar
 
+autoload -Uz compinit
+compinit
+# Completion for kitty
+kitty + complete setup zsh | source /dev/stdin
+
