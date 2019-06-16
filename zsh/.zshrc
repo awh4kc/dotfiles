@@ -143,6 +143,8 @@ alias dev="docker run -d --rm \
   --device /dev/dri \
   --name vscode \
   awh4kc/vscode"
+alias code-cloud="docker start code-cloud"
+
 
 alias ..="cd .."
 alias ...="cd ../.."
