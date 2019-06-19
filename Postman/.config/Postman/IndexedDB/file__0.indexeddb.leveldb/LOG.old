@@ -1,9 +1,0 @@
-2019/02/06-10:29:06.326 29048 Reusing MANIFEST /home/awh4kc/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2019/02/06-10:29:32.736 29048 Current memtable full; waiting...
-2019/02/06-10:29:32.736 29311 Level-0 table #5: started
-2019/02/06-10:29:32.741 29311 Level-0 table #5: 8462 bytes OK
-2019/02/06-10:29:32.747 29311 Delete type=0 #3
-2019/02/06-10:29:32.748 29311 Level-0 table #7: started
-2019/02/06-10:29:32.748 29311 Level-0 table #7: 0 bytes OK
-2019/02/06-10:29:32.752 29311 Delete type=0 #4
-2019/02/06-10:29:32.752 29311 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
