@@ -144,7 +144,7 @@ alias dev="docker run -d --rm \
   --name vscode \
   awh4kc/vscode"
 alias code-cloud="docker start code-cloud"
-
+alias code-container="code --enable-proposed-api ms-vscode-remote.remote-containers"
 
 alias ..="cd .."
 alias ...="cd ../.."
