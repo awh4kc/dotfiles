@@ -136,7 +136,8 @@ alias ls='lsd'
 alias la="lsd -laFh"
 alias capstoesc="xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'"
 alias capstocaps="xmodmap -e 'clear Lock' -e 'keycode 0x42 = Caps_Lock'"
-alias dev="docker run -d --rm \
+alias dev=" docker rm vscode || true ; \
+  docker run -d --rm \
   -v /tmp/.X11-unix/:/tmp/.X11-unix \
   -v $HOME:/home/user \
   -e DISPLAY=unix$DISPLAY \
