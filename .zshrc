@@ -121,6 +121,7 @@ alias isaslack="slack-term -config .slack-term_isa"
 alias sound="sudo alsactl restore"
 alias e="emacs -nw"
 alias aws="ssh -i \"~/Desktop/awskey.pem\" ubuntu@ec2-3-80-149-175.compute-1.amazonaws.com"
+alias gcp="ssh awk4kc@35.188.229.24"
 alias spacemacs="docker run -ti --rm -v $('pwd'):/mnt/workspace \
  -v /etc/localtime:/etc/localtime:ro \
  -v ~/.ssh/id_rsa:${UHOME}/.ssh/id_rsa:ro \
@@ -143,7 +144,7 @@ alias dev=" docker rm vscode || true ; \
   -e DISPLAY=unix$DISPLAY \
   --device /dev/dri \
   --name vscode \
-  awh4kc/vscode"
+  awh4kc/vscode:node"
 alias code-cloud="docker start code-cloud"
 alias code-container="code --enable-proposed-api ms-vscode-remote.remote-containers"
 
@@ -171,3 +172,4 @@ compinit
 # Completion for kitty
 kitty + complete setup zsh | source /dev/stdin
 
+# source ~/.purepower
