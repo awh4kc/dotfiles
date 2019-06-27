@@ -121,7 +121,8 @@ alias isaslack="slack-term -config .slack-term_isa"
 alias sound="sudo alsactl restore"
 alias e="emacs -nw"
 alias aws="ssh -i \"~/Desktop/awskey.pem\" ubuntu@ec2-3-80-149-175.compute-1.amazonaws.com"
-alias gcp="ssh awk4kc@35.188.229.24"
+alias gcpssh="ssh awk4kc@35.188.229.24"
+alias gcp="gcloud compute ssh awh4kc@gcp"
 alias spacemacs="docker run -ti --rm -v $('pwd'):/mnt/workspace \
  -v /etc/localtime:/etc/localtime:ro \
  -v ~/.ssh/id_rsa:${UHOME}/.ssh/id_rsa:ro \
