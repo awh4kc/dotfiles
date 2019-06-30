@@ -149,6 +149,7 @@ alias dev=" docker rm vscode || true ; \
 alias code-cloud="docker start code-cloud"
 alias code-container="code --enable-proposed-api ms-vscode-remote.remote-containers"
 
+alias c="clear"
 alias ..="cd .."
 alias ...="cd ../.."
 alias g="git "
