@@ -148,6 +148,7 @@ alias dev=" docker rm vscode || true ; \
   awh4kc/vscode:node"
 alias code-cloud="docker start code-cloud"
 alias code-container="code --enable-proposed-api ms-vscode-remote.remote-containers"
+alias lazydocker="~/Downloads/lazydocker"
 
 alias cl="clear"
 alias ..="cd .."
