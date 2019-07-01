@@ -149,6 +149,7 @@ alias dev=" docker rm vscode || true ; \
 alias code-cloud="docker start code-cloud"
 alias code-container="code --enable-proposed-api ms-vscode-remote.remote-containers"
 alias lazydocker="~/Downloads/lazydocker"
+alias docui="docker run --rm -itv /var/run/docker.sock:/var/run/docker.sock skanehira/docui"
 
 alias cl="clear"
 alias ..="cd .."
