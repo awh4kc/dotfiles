@@ -150,8 +150,8 @@ alias code-container="code --enable-proposed-api ms-vscode-remote.remote-contain
 alias lazydocker="~/Downloads/lazydocker"
 alias docui="docker run --rm -itv /var/run/docker.sock:/var/run/docker.sock skanehira/docui"
 alias emacsstart="emacs --daemon"
-alias e="emacsclient -nw"
-alias emacs="emacsclient --parent-id=ID"
+alias e="emacsclient -t"
+alias em="emacsclient -nc"
 
 alias cl="clear"
 alias ..="cd .."
