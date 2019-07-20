@@ -1,6 +1,9 @@
 export TERM="xterm-256color"
 export ZSH="/home/awh4kc/.oh-my-zsh"
 
+autoload -Uz compinit
+compinit
+
 ZSH_THEME="powerlevel10k/powerlevel9k"
 HYPHEN_INSENSITIVE="true"
 ENABLE_CORRECTION="true"
@@ -79,8 +82,7 @@ export EDITOR=/usr/bin/vim
 export VISUAL=/usr/bin/vim
 export CLASSPATH=.:/usr/share/java/junit-4.12.jar:/usr/share/java/hamcrest-core.jar
 
-autoload -Uz compinit
-compinit
 # Completion for kitty
 kitty + complete setup zsh | source /dev/stdin
+source <(kubectl completion zsh)
 
