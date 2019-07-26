@@ -61,16 +61,18 @@ alias docui="docker run --rm -itv /var/run/docker.sock:/var/run/docker.sock skan
 alias emacsstart="emacs --daemon"
 alias e="emacsclient -t"
 alias em="emacsclient -nc"
+alias en="emacs -nw"
 
 alias cl="clear"
 alias ..="cd .."
 alias ...="cd ../.."
 alias g="git "
 alias gs="git status"
-alias ga="git add "
+alias ga="git add"
 alias gc='git commit -m "'
 alias gp="git push"
 alias gpu="git pull"
+alias gd="git diff"
 
 function pretty_csv {
     perl -pe 's/((?<=,)|(?<=^)),/ ,/g;' "$@" | column -t -s, | less  -F -S -X -K
@@ -85,4 +87,4 @@ export CLASSPATH=.:/usr/share/java/junit-4.12.jar:/usr/share/java/hamcrest-core.
 # Completion for kitty
 kitty + complete setup zsh | source /dev/stdin
 source <(kubectl completion zsh)
-
+[ -f /home/awh4kc/.travis/travis.sh ] && source /home/awh4kc/.travis/travis.sh
