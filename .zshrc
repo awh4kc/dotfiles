@@ -65,6 +65,7 @@ alias emacsstart="emacs --daemon"
 alias e="emacsclient -t"
 alias em="emacsclient -nc"
 alias en="emacs -nw"
+alias mac="ssh awh4kc@192.168.122.63"
 
 alias cl="clear"
 alias ..="cd .."
