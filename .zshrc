@@ -22,7 +22,6 @@ POWERLEVEL9K_MODE='awesome-fontconfig'
 source $ZSH/oh-my-zsh.sh
 # My Stuff
 
-alias server="ssh server"
 alias javacompile="javac -cp .:/usr/share/java/hamcrest-core.jar:/usr/share/java/junit-4.12.jar "
 alias javarun="java -cp .:/usr/share/java/hamcrest-core.jar:/usr/share/java/junit-4.12.jar org.junit.runner.JUnitCore "
 alias junit="java org.junit.runner.JUnitCore "
@@ -31,7 +30,6 @@ alias settings="tilix --preferences"
 alias algoslack="slack-term -config .slack-term_algo"
 alias isaslack="slack-term -config .slack-term_isa"
 alias sound="sudo alsactl restore"
-alias aws="ssh -i \"~/Desktop/awskey.pem\" ubuntu@ec2-3-80-149-175.compute-1.amazonaws.com"
 alias gcpssh="ssh awk4kc@35.188.229.24"
 alias gcp="gcloud compute ssh awh4kc@gcp"
 alias spacemacs="docker run -ti --rm -v $('pwd'):/mnt/workspace \
@@ -57,9 +55,7 @@ alias dev=" docker rm vscode || true ; \
   --device /dev/dri \
   --name vscode \
   awh4kc/vscode:node"
-alias code-cloud="docker start code-cloud"
 alias code-container="code --enable-proposed-api ms-vscode-remote.remote-containers"
-alias lazydocker="~/Downloads/lazydocker"
 alias docui="docker run --rm -itv /var/run/docker.sock:/var/run/docker.sock skanehira/docui"
 alias emacsstart="emacs --daemon"
 alias e="emacsclient -t"
@@ -92,3 +88,6 @@ export CLASSPATH=.:/usr/share/java/junit-4.12.jar:/usr/share/java/hamcrest-core.
 kitty + complete setup zsh | source /dev/stdin
 source <(kubectl completion zsh)
 [ -f /home/awh4kc/.travis/travis.sh ] && source /home/awh4kc/.travis/travis.sh
+
+source "$(navi widget zsh)"
+
