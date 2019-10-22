@@ -89,4 +89,5 @@ source <(kubectl completion zsh)
 [ -f /home/awh4kc/.travis/travis.sh ] && source /home/awh4kc/.travis/travis.sh
 
 source "$(navi widget zsh)"
+[[ -r "/usr/share/z/z.sh" ]] && source /usr/share/z/z.sh
 
