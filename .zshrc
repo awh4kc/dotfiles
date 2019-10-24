@@ -10,14 +10,19 @@ compinit
 ZSH_THEME="powerlevel10k/powerlevel9k"
 HYPHEN_INSENSITIVE="true"
 ENABLE_CORRECTION="true"
-plugins=(gitfast archlinux common-aliases docker)
+plugins=(gitfast archlinux common-aliases docker tmux zsh-autosuggestions
+)
 
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir vcs)
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir vcs)
+
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status root_indicator background_jobs time)
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
 POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="> "
 POWERLEVEL9K_MODE='awesome-fontconfig'
+POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
+POWERLEVEL9K_SHORTEN_DELIMITER=""
+POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 # source ~/.purepower
 source $ZSH/oh-my-zsh.sh
 # My Stuff
