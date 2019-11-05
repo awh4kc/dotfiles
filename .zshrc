@@ -35,7 +35,7 @@ alias settings="tilix --preferences"
 alias algoslack="slack-term -config .slack-term_algo"
 alias isaslack="slack-term -config .slack-term_isa"
 alias sound="sudo alsactl restore"
-alias spacemacs="docker run -ti --rm -v $('pwd'):/mnt/workspace \
+alias spacemacs-docker="docker run -ti --rm -v $('pwd'):/mnt/workspace \
  -v /etc/localtime:/etc/localtime:ro \
  -v ~/.ssh/id_rsa:${UHOME}/.ssh/id_rsa:ro \
  -v ~/.gnupg:${UHOME}/.gnupg \
@@ -66,6 +66,13 @@ alias em="emacsclient -nc"
 alias en="emacs -nw"
 alias mac="ssh awh4kc@192.168.122.63"
 alias python-server="python2 -m SimpleHTTPServer"
+
+alias spacemacs="emacs --with-profile spacemacs &"
+alias doom="emacs --with-profile default &"
+alias centaur="emacs --with-profile centaur &"
+alias scimax="emacs --with-profile scimax &"
+alias prelude="emacs --with-profile prelude &"
+alias vanilla="emacs --with-profile vanilla &"
 
 alias cl="clear"
 alias ..="cd .."
