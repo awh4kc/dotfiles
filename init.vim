@@ -29,7 +29,8 @@ syntax on
 syntax enable
 " colorscheme
 let base16colorspace=256
-colorscheme base16-gruvbox-dark-hard
+colorscheme base16-atelier-lakeside-light
+" colorscheme base16-harmonic-light
 set background=dark
 " True Color Support if it's avaiable in terminal
 if has("termguicolors")
