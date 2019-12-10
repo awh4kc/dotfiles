@@ -28,7 +28,7 @@ source $ZSH/oh-my-zsh.sh
 # My Stuff
 alias ls='lsd'
 alias la="lsd -laFh"
-alias python-server="python2 -m SimpleHTTPServer"
+alias python-server="python3-m http.server"
 alias start-docker='docker-machine start default && eval $(docker-machine env)'
 alias stop-docker='docker-machine stop default && eval $(docker-machine env -u)'
 
@@ -58,3 +58,4 @@ export PATH=$PATH:"$ZSH_CUSTOM/plugins/navi"
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 export ITERM_ENABLE_SHELL_INTEGRATION_WITH_TMUX=YES
+source ~/.iterm2_shell_integration.zsh
