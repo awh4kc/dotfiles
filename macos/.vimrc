@@ -20,6 +20,9 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'honza/vim-snippets'
 Plug 'arcticicestudio/nord-vim'
+Plug 'mhinz/vim-startify'
+Plug 'lervag/vimtex'
+Plug 'Rigellute/rigel'
 call plug#end()
 
 set nocompatible
@@ -31,21 +34,28 @@ set noshowmode
 set noshowmatch
 set nolazyredraw
 set autoindent
+set wildmenu
 set wildmode=longest,list
 set nobackup
 set noswapfile
 set nowritebackup
 set ignorecase
 set smartcase
+set smarttab
 set expandtab
 set tabstop=2
 set shiftwidth=2
 set showmode
 set showcmd
 set incsearch
+set wrap
+set laststatus=2
+set ruler
+set scrolloff=5
 " set relativenumber
 " colorscheme delek
-colorscheme nord
+" colorscheme nord
+colorscheme rigel
 
 set guifont=FuraCode\ Nerd\ Font:h14
 set lines=40
@@ -59,19 +69,54 @@ endif
 
 let g:mapleader = ' '
 
-" nerdtree
+" Store temporary files in ~/.vim/tmp
+set viminfo+=n~/.vim/tmp/viminfo
+set backupdir=$HOME/.vim/tmp/backup
+set dir=$HOME/.vim/tmp/swap
+set viewdir=$HOME/.vim/tmp/view
+if !isdirectory(&backupdir) | call mkdir(&backupdir, 'p', 0700) | endif
+if !isdirectory(&dir)       | call mkdir(&dir, 'p', 0700)       | endif
+if !isdirectory(&viewdir)   | call mkdir(&viewdir, 'p', 0700)   | endif
+;
+" Persist undo history between Vim sessions.
+if has('persistent_undo')
+	set undodir=$HOME/.vim/tmp/undo
+	if !isdirectory(&undodir) | call mkdir(&undodir, 'p', 0700) | endif
+endif
+;
+" Indent in visual and select mode automatically re-selects.
+vnoremap > >gv
+vnoremap < <gv
+
+" Go to the last cursor location when opening a file.
+augroup jump
+	autocmd BufReadPost *
+		\  if line("'\"") > 1 && line("'\"") <= line("$") && &ft !~# 'commit'
+			\| exe 'normal! g`"'
+		\| endif
+augroup end
+;
+" Clean trailing whitespace.
+fun! s:trim_whitespace()
+	let l;:save = winsaveview()
+	keeppatterns %s/\s\+$//e
+	call winrestview(l:save)
+endfun;
+command! TrimWhitespace call s:trim_whitespace()
+
+" nerdtree;
 map <C-n> :NERDTreeToggle<CR>
 let g:NERDTreeDirArrowExpandable = '▸' 
 let g:NERDTreeDirArrowCollapsible = '▾'
 
 " easymotion
-map <Leader> <Plug>(easymotion-prefix)
+map <Leade;r> <Plug>(easymotion-prefix)
 map <Leader>L <Plug>(easymotion-bd-jk)
 nmap <Leader>L <Plug>(easymotion-overwin-line)
-map  <Leader>w <Plug>(easymotion-bd-w)
+map  <Lea;der>w <Plug>(easymotion-bd-w)
 nmap <Leader>w <Plug>(easymotion-overwin-w)
 
-" vim-indent-guides
+" vim-in;dent-guides
 let g:indent_guides_guide_size = 1
 let g:indent_guides_color_change_percent = 3
 let g:indent_guides_enable_on_vim_startup = 1
@@ -82,6 +127,8 @@ let g:airline_right_sep = ''
 let g:airline#extensions#ale#enabled = 1
 let airline#extensions#ale#error_symbol = 'E:'
 let airline#extensions#ale#warning_symbol = 'W:'
+let g:rigel_airline = 1
+let g:airline_theme = 'rigel'
 
 " coc
 let g:coc_global_extensions = [
