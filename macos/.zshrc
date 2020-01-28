@@ -9,6 +9,7 @@ autoload -Uz compinit
 compinit
 
 ZSH_THEME="powerlevel10k/powerlevel9k"
+# ZSH_THEME="spaceship"
 HYPHEN_INSENSITIVE="true"
 ENABLE_CORRECTION="true"
 plugins=(gitfast osx common-aliases docker tmux zsh-autosuggestions fzf navi)
@@ -28,10 +29,9 @@ source $ZSH/oh-my-zsh.sh
 # My Stuff
 alias ls='lsd'
 alias la="lsd -laFh"
-alias python-server="python3-m http.server"
-alias start-docker='docker-machine start default && eval $(docker-machine env)'
-alias stop-docker='docker-machine stop default && eval $(docker-machine env -u)'
-
+alias python-server="python3 -m http.server"
+alias docker-start='docker-machine start default && eval $(docker-machine env)'
+alias docker-stop='docker-machine stop default && eval $(docker-machine env -u)'
 alias cl="clear"
 alias ..="cd .."
 alias ...="cd ../.."
@@ -42,6 +42,11 @@ alias gc='git commit -S -m "'
 alias gp="git push"
 alias gpu="git pull"
 alias gd="git diff"
+alias tmux-start="tmux new -A -s main"
+alias tmux-resume="tmux attach -t main"
+alias tmux-stop="tmux detach -t main"
+alias vpn-start="wg-quick up alderaan"
+alias vpn-stop="wg-quick down alderaan"
 
 export EDITOR=/usr/bin/vim
 export VISUAL=/usr/bin/vim
@@ -59,3 +64,6 @@ export PATH=$PATH:"$ZSH_CUSTOM/plugins/navi"
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 export ITERM_ENABLE_SHELL_INTEGRATION_WITH_TMUX=YES
 source ~/.iterm2_shell_integration.zsh
+export PATH="/usr/local/opt/llvm/bin:$PATH"
+export LDFLAGS="-L/usr/local/opt/llvm/lib"
+export CPPFLAGS="-I/usr/local/opt/llvm/include"
