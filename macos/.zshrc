@@ -65,10 +65,9 @@ export PATH=$PATH:"$ZSH_CUSTOM/plugins/navi"
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 export ITERM_ENABLE_SHELL_INTEGRATION_WITH_TMUX=YES
 source ~/.iterm2_shell_integration.zsh
-export PATH="/usr/local/opt/llvm/bin:$PATH"
 export LDFLAGS="-L/usr/local/opt/llvm/lib"
 export CPPFLAGS="-I/usr/local/opt/llvm/include"
 
-if command -v pyenv 1>/dev/null 2>&1; then
-  eval "$(pyenv init -)"
-fi
+export PATH="/usr/local/sbin:$PATH"
+
+eval "$(pyenv init -)"
