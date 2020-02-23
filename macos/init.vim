@@ -1,10 +1,5 @@
-if empty(glob('~/.vim/autoload/plug.vim'))
-  silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
-    \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-  autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
-endif
-
-call plug#begin('~/.vim/plugged')
+let g:plugged_home = '~/.config/nvim/plugged'
+call plug#begin(g:plugged_home)
 Plug 'junegunn/vim-plug'
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-fugitive'
@@ -65,24 +60,23 @@ set backupcopy=yes
 " set transparency=15
 
 if has("gui_running")
-    set guicursor=n-v-c-sm:block,i-ci-ve:block,r-cr-o:blocks
+  set guicursor=n-v-c-sm:block,i-ci-ve:block,r-cr-o:blocks
 endif
 
 let g:mapleader = ' '
 
-" Store temporary files in ~/.vim/tmp
-set viminfo+=n~/.vim/tmp/viminfo
-set backupdir=$HOME/.vim/tmp/backup
-set dir=$HOME/.vim/tmp/swap
-set viewdir=$HOME/.vim/tmp/view
+set viminfo+=n~/.config/nvim/tmp/viminfo
+set backupdir=$HOME/.config/nvim/tmp/backup
+set dir=$HOME/.config/nvim/tmp/swap
+set viewdir=$HOME/.config/nvim/tmp/view
 if !isdirectory(&backupdir) | call mkdir(&backupdir, 'p', 0700) | endif
 if !isdirectory(&dir)       | call mkdir(&dir, 'p', 0700)       | endif
 if !isdirectory(&viewdir)   | call mkdir(&viewdir, 'p', 0700)   | endif
 ;
 " Persist undo history between Vim sessions.
 if has('persistent_undo')
-	set undodir=$HOME/.vim/tmp/undo
-	if !isdirectory(&undodir) | call mkdir(&undodir, 'p', 0700) | endif
+  set undodir=$HOME/.config/nvim/tmp/undo
+    if !isdirectory(&undodir) | call mkdir(&undodir, 'p', 0700) | endif
 endif
 ;
 " Indent in visual and select mode automatically re-selects.
@@ -91,23 +85,23 @@ vnoremap < <gv
 
 " Go to the last cursor location when opening a file.
 augroup jump
-	autocmd BufReadPost *
-		\  if line("'\"") > 1 && line("'\"") <= line("$") && &ft !~# 'commit'
-			\| exe 'normal! g`"'
-		\| endif
+  autocmd BufReadPost *
+    \  if line("'\"") > 1 && line("'\"") <= line("$") && &ft !~# 'commit'
+      \| exe 'normal! g`"'
+    \| endif
 augroup end
 ;
 " Clean trailing whitespace.
 fun! s:trim_whitespace()
-	let l;:save = winsaveview()
-	keeppatterns %s/\s\+$//e
-	call winrestview(l:save)
+  let l;:save = winsaveview()
+  keeppatterns %s/\s\+$//e
+  call winrestview(l:save)
 endfun;
-command! TrimWhitespace call s:trim_whitespace()
+command! TrimWhitespace call s:trim_whitepace()
 
 " nerdtree;
 map <C-n> :NERDTreeToggle<CR>
-let g:NERDTreeDirArrowExpandable = '▸' 
+let g:NERDTreeDirArrowExpandable = '▸'
 let g:NERDTreeDirArrowCollapsible = '▾'
 
 " easymotion
@@ -133,12 +127,12 @@ let g:airline_theme = 'rigel'
 
 " coc
 let g:coc_global_extensions = [
-            \ 'coc-emoji', 'coc-eslint', 'coc-prettier',
-            \ 'coc-tsserver', 'coc-tslint', 'coc-tslint-plugin',
-            \ 'coc-css', 'coc-json', 'coc-python', 'coc-yaml',
-            \ 'coc-java', 'coc-snippets', 'coc-git', 'coc-texlab',
-            \ 'coc-marketplace', 'coc-highlight', 'coc-ccls'
-            \ ]
+  \ 'coc-emoji', 'coc-eslint', 'coc-prettier',
+  \ 'coc-tsserver', 'coc-tslint', 'coc-tslint-plugin',
+  \ 'coc-css', 'coc-json', 'coc-python', 'coc-yaml',
+  \ 'coc-java', 'coc-snippets', 'coc-git', 'coc-texlab',
+  \ 'coc-marketplace', 'coc-highlight', 'coc-ccls'
+  \ ]
 " Better display for messages
 set cmdheight=2
 " Smaller updatetime for CursorHold & CursorHoldI
@@ -178,14 +172,22 @@ function! s:check_back_space() abort
   return !col || getline('.')[col - 1]  =~ '\s'
 endfunction
 
-inoremap <silent><expr> <Tab>
+inoremap <silent><expr> <TAB>
       \ pumvisible() ? "\<C-n>" :
-      \ <SID>check_back_space() ? "\<Tab>" :
+      \ <SID>check_back_space() ? "\<TAB>" :
       \ coc#refresh()
-inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
+inoremap <expr><S-TAB> pumvisible() ? "\<C-p>" : "\<C-h>"
+
+" Use `:Format` to format current buffer
+command! -nargs=0 Format :call CocAction('format')
+
+:nmap <space>e :CocCommand explorer<CR>
 
 " ale
 let g:ale_sign_column_always = 1
 let g:ale_sign_error = '>>'
 let g:ale_sign_warning = '--'
 let g:airline#extensions#ale#enabled = 1
+
+" python
+let g:python3_host_prog = '/Users/awh4kc/.pyenv/versions/3.8.1/bin/python'
