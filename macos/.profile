@@ -6,3 +6,5 @@ export PATH="$(brew --prefix coreutils)/libexec/gnubin:$PATH"
 [ -f /usr/local/opt/dvm/dvm.sh ] && . /usr/local/opt/dvm/dvm.sh
 [[ -r $DVM_DIR/bash_completion ]] && . $DVM_DIR/bash_completion
 export DOCKER_VERSION=19.03.5
+
+export PATH="$HOME/.cargo/bin:$PATH"

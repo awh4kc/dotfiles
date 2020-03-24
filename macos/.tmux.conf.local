@@ -294,3 +294,4 @@ set -g mouse on
 
 # move status line to top
 #set -g status-position top
+set-option -g default-command "reattach-to-user-namespace -l zsh"

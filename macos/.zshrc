@@ -32,6 +32,7 @@ alias la="lsd -laFh"
 alias python-server="python3 -m http.server"
 alias docker-start='docker-machine start default && eval $(docker-machine env)'
 alias docker-stop='docker-machine stop default && eval $(docker-machine env -u)'
+alias docker-eval='eval $(docker-machine env)'
 alias cl="clear"
 alias ..="cd .."
 alias ...="cd ../.."

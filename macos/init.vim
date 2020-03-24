@@ -19,6 +19,7 @@ Plug 'mhinz/vim-startify'
 Plug 'lervag/vimtex'
 Plug 'Rigellute/rigel'
 Plug 'dense-analysis/ale'
+Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
 call plug#end()
 
 set nocompatible
